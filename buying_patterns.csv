@@ -1,0 +1,5002 @@
+patient_id,transaction_id,product_list
+63,0,"['Tinctures', 'Jar', 'Live Resin']"
+847,1,"['Topicals', 'Edibles']"
+513,2,"['Live Resin', 'Edibles', 'Vape']"
+475,3,"['Jar', 'Tinctures', 'Tinctures', 'Pre-Rolls']"
+126,4,"['Tinctures', 'Topicals', 'Jar']"
+371,5,"['Jar', 'Tinctures', 'Flower']"
+394,6,"['Edibles', 'Jar', 'Vape', 'Topicals']"
+825,7,"['Tinctures', 'Edibles', 'Jar', 'Edibles']"
+270,8,"['Tinctures', 'Edibles', 'Edibles']"
+773,9,"['Tinctures', 'Live Resin', 'Edibles', 'Flower']"
+668,10,"['Flower', 'Live Resin']"
+493,11,"['Live Resin', 'Vape']"
+545,12,"['Flower', 'Live Resin', 'Vape', 'Flower']"
+657,13,['Topicals']
+771,14,"['Live Resin', 'Flower', 'Vape', 'Jar']"
+236,15,"['Tinctures', 'Edibles', 'Vape']"
+493,16,['Topicals']
+681,17,"['Tinctures', 'Topicals', 'Live Resin', 'Jar']"
+741,18,"['Pre-Rolls', 'Topicals']"
+63,19,"['Vape', 'Jar']"
+222,20,"['Pre-Rolls', 'Jar', 'Tinctures']"
+101,21,"['Edibles', 'Live Resin']"
+499,22,"['Topicals', 'Flower']"
+326,23,"['Jar', 'Topicals']"
+315,24,['Edibles']
+234,25,"['Jar', 'Jar']"
+543,26,"['Live Resin', 'Edibles', 'Jar']"
+17,27,"['Flower', 'Jar', 'Tinctures', 'Tinctures']"
+795,28,"['Tinctures', 'Edibles', 'Flower']"
+191,29,['Jar']
+910,30,['Vape']
+453,31,"['Flower', 'Edibles', 'Jar']"
+304,32,"['Topicals', 'Flower']"
+842,33,['Tinctures']
+75,34,"['Tinctures', 'Topicals']"
+861,35,"['Tinctures', 'Live Resin', 'Jar']"
+309,36,"['Tinctures', 'Topicals', 'Edibles', 'Topicals']"
+516,37,['Topicals']
+867,38,['Flower']
+333,39,['Jar']
+723,40,"['Tinctures', 'Flower', 'Edibles', 'Topicals']"
+471,41,['Edibles']
+688,42,"['Flower', 'Topicals', 'Edibles', 'Flower']"
+186,43,['Topicals']
+393,44,"['Flower', 'Vape']"
+52,45,"['Jar', 'Edibles', 'Jar', 'Flower']"
+166,46,['Flower']
+577,47,"['Topicals', 'Vape']"
+177,48,['Tinctures']
+341,49,"['Pre-Rolls', 'Topicals', 'Topicals']"
+266,50,"['Flower', 'Tinctures']"
+790,51,"['Tinctures', 'Edibles', 'Jar']"
+770,52,['Live Resin']
+404,53,['Live Resin']
+702,54,['Tinctures']
+541,55,"['Flower', 'Edibles', 'Pre-Rolls', 'Live Resin']"
+413,56,['Edibles']
+152,57,"['Edibles', 'Tinctures', 'Vape', 'Edibles']"
+915,58,"['Flower', 'Vape', 'Topicals']"
+462,59,"['Flower', 'Vape', 'Edibles', 'Topicals']"
+191,60,['Edibles']
+569,61,"['Live Resin', 'Topicals']"
+529,62,"['Vape', 'Live Resin', 'Edibles']"
+854,63,"['Jar', 'Live Resin']"
+308,64,"['Live Resin', 'Jar', 'Topicals']"
+47,65,"['Tinctures', 'Edibles', 'Tinctures', 'Edibles']"
+460,66,['Live Resin']
+427,67,"['Edibles', 'Jar', 'Edibles']"
+439,68,"['Vape', 'Tinctures', 'Vape']"
+257,69,['Pre-Rolls']
+140,70,"['Flower', 'Edibles', 'Tinctures']"
+11,71,['Pre-Rolls']
+457,72,"['Pre-Rolls', 'Flower']"
+669,73,"['Jar', 'Vape', 'Jar', 'Edibles']"
+914,74,"['Topicals', 'Pre-Rolls', 'Pre-Rolls', 'Vape']"
+387,75,"['Vape', 'Live Resin', 'Topicals']"
+700,76,['Flower']
+212,77,"['Pre-Rolls', 'Topicals']"
+148,78,"['Edibles', 'Live Resin', 'Topicals', 'Pre-Rolls']"
+490,79,"['Jar', 'Topicals', 'Tinctures', 'Flower']"
+969,80,['Pre-Rolls']
+70,81,['Pre-Rolls']
+881,82,"['Live Resin', 'Pre-Rolls', 'Jar', 'Tinctures']"
+855,83,"['Pre-Rolls', 'Topicals', 'Vape']"
+724,84,"['Live Resin', 'Edibles']"
+212,85,"['Vape', 'Jar', 'Jar', 'Vape']"
+966,86,"['Jar', 'Pre-Rolls', 'Flower']"
+347,87,"['Jar', 'Flower', 'Live Resin']"
+214,88,['Flower']
+745,89,['Topicals']
+562,90,"['Edibles', 'Tinctures', 'Flower']"
+991,91,"['Jar', 'Vape', 'Topicals', 'Flower']"
+943,92,"['Edibles', 'Flower', 'Flower', 'Jar']"
+411,93,"['Flower', 'Topicals', 'Edibles', 'Live Resin']"
+488,94,"['Vape', 'Flower']"
+428,95,"['Jar', 'Vape', 'Tinctures', 'Edibles']"
+709,96,['Pre-Rolls']
+142,97,"['Vape', 'Tinctures']"
+367,98,"['Vape', 'Vape']"
+619,99,"['Vape', 'Topicals']"
+129,100,['Topicals']
+224,101,"['Pre-Rolls', 'Vape', 'Tinctures', 'Pre-Rolls']"
+915,102,"['Flower', 'Flower', 'Topicals']"
+542,103,['Flower']
+442,104,"['Live Resin', 'Edibles', 'Tinctures']"
+740,105,"['Edibles', 'Edibles', 'Tinctures']"
+517,106,"['Flower', 'Pre-Rolls', 'Tinctures']"
+856,107,"['Live Resin', 'Vape', 'Vape']"
+487,108,"['Flower', 'Jar']"
+622,109,"['Edibles', 'Pre-Rolls', 'Live Resin']"
+54,110,['Live Resin']
+417,111,"['Flower', 'Vape']"
+918,112,['Edibles']
+688,113,['Topicals']
+711,114,['Topicals']
+31,115,"['Tinctures', 'Topicals', 'Edibles']"
+817,116,"['Vape', 'Edibles', 'Topicals']"
+270,117,"['Live Resin', 'Jar', 'Live Resin']"
+530,118,"['Vape', 'Flower', 'Vape']"
+941,119,['Tinctures']
+959,120,['Jar']
+536,121,"['Pre-Rolls', 'Live Resin']"
+403,122,['Tinctures']
+606,123,"['Edibles', 'Vape', 'Edibles', 'Tinctures']"
+696,124,"['Topicals', 'Tinctures', 'Jar', 'Flower']"
+240,125,"['Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+181,126,"['Pre-Rolls', 'Topicals', 'Flower', 'Topicals']"
+59,127,"['Flower', 'Jar']"
+711,128,"['Flower', 'Topicals', 'Pre-Rolls', 'Vape']"
+343,129,"['Flower', 'Jar', 'Edibles', 'Flower']"
+799,130,"['Pre-Rolls', 'Jar', 'Live Resin', 'Tinctures']"
+380,131,"['Live Resin', 'Topicals']"
+797,132,"['Live Resin', 'Flower', 'Edibles']"
+241,133,"['Pre-Rolls', 'Vape', 'Live Resin', 'Jar']"
+266,134,['Tinctures']
+7,135,"['Edibles', 'Topicals', 'Flower', 'Vape']"
+356,136,"['Tinctures', 'Flower', 'Topicals']"
+808,137,"['Live Resin', 'Jar']"
+27,138,"['Jar', 'Topicals']"
+704,139,"['Topicals', 'Live Resin', 'Live Resin']"
+538,140,"['Pre-Rolls', 'Flower']"
+967,141,"['Vape', 'Tinctures', 'Vape']"
+855,142,"['Vape', 'Tinctures', 'Topicals']"
+619,143,['Flower']
+791,144,"['Edibles', 'Live Resin', 'Vape']"
+149,145,"['Edibles', 'Pre-Rolls', 'Pre-Rolls']"
+486,146,"['Jar', 'Edibles']"
+205,147,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+592,148,"['Flower', 'Jar', 'Vape']"
+429,149,"['Jar', 'Flower', 'Vape', 'Topicals']"
+761,150,"['Pre-Rolls', 'Live Resin']"
+86,151,['Tinctures']
+980,152,"['Tinctures', 'Vape']"
+927,153,"['Topicals', 'Pre-Rolls', 'Vape']"
+336,154,"['Edibles', 'Pre-Rolls']"
+611,155,"['Jar', 'Tinctures']"
+875,156,['Topicals']
+461,157,['Vape']
+440,158,"['Jar', 'Vape', 'Edibles', 'Live Resin']"
+975,159,"['Edibles', 'Live Resin']"
+264,160,"['Vape', 'Vape', 'Vape']"
+796,161,['Topicals']
+10,162,['Jar']
+322,163,"['Vape', 'Edibles', 'Pre-Rolls', 'Tinctures']"
+197,164,"['Jar', 'Jar']"
+699,165,"['Live Resin', 'Flower']"
+672,166,"['Tinctures', 'Vape', 'Pre-Rolls', 'Flower']"
+756,167,"['Edibles', 'Tinctures']"
+330,168,"['Flower', 'Topicals']"
+422,169,"['Flower', 'Vape', 'Vape']"
+462,170,['Jar']
+60,171,['Flower']
+755,172,['Tinctures']
+486,173,"['Tinctures', 'Pre-Rolls']"
+513,174,"['Live Resin', 'Live Resin']"
+610,175,['Flower']
+903,176,['Flower']
+475,177,['Vape']
+512,178,"['Jar', 'Edibles', 'Jar']"
+728,179,"['Vape', 'Pre-Rolls']"
+348,180,"['Topicals', 'Live Resin', 'Edibles', 'Pre-Rolls']"
+353,181,"['Topicals', 'Flower', 'Live Resin']"
+261,182,"['Tinctures', 'Flower']"
+163,183,"['Pre-Rolls', 'Tinctures', 'Vape']"
+447,184,"['Edibles', 'Jar']"
+871,185,"['Live Resin', 'Edibles', 'Topicals', 'Pre-Rolls']"
+79,186,"['Topicals', 'Live Resin', 'Topicals', 'Tinctures']"
+601,187,"['Flower', 'Edibles', 'Topicals', 'Pre-Rolls']"
+722,188,"['Edibles', 'Edibles']"
+884,189,"['Live Resin', 'Jar', 'Jar', 'Jar']"
+29,190,"['Flower', 'Pre-Rolls', 'Vape']"
+248,191,"['Jar', 'Edibles', 'Vape', 'Flower']"
+852,192,"['Edibles', 'Pre-Rolls']"
+801,193,"['Flower', 'Jar', 'Edibles', 'Flower']"
+540,194,"['Vape', 'Tinctures']"
+266,195,['Edibles']
+151,196,"['Live Resin', 'Live Resin', 'Flower', 'Jar']"
+866,197,"['Jar', 'Tinctures', 'Pre-Rolls', 'Tinctures']"
+186,198,"['Vape', 'Tinctures']"
+489,199,"['Edibles', 'Pre-Rolls', 'Vape', 'Edibles']"
+216,200,"['Jar', 'Topicals']"
+881,201,"['Jar', 'Tinctures', 'Live Resin']"
+413,202,['Edibles']
+768,203,"['Vape', 'Topicals', 'Tinctures']"
+858,204,['Flower']
+134,205,['Tinctures']
+467,206,"['Pre-Rolls', 'Tinctures', 'Vape', 'Tinctures']"
+747,207,['Tinctures']
+212,208,"['Topicals', 'Jar']"
+185,209,"['Jar', 'Jar', 'Tinctures']"
+62,210,"['Live Resin', 'Topicals']"
+724,211,['Live Resin']
+181,212,"['Live Resin', 'Jar']"
+180,213,"['Edibles', 'Pre-Rolls', 'Tinctures']"
+967,214,"['Flower', 'Edibles']"
+659,215,['Topicals']
+151,216,['Jar']
+494,217,"['Vape', 'Jar', 'Jar']"
+106,218,"['Vape', 'Jar', 'Live Resin']"
+109,219,"['Pre-Rolls', 'Edibles']"
+780,220,"['Live Resin', 'Vape']"
+77,221,"['Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+856,222,"['Live Resin', 'Pre-Rolls']"
+476,223,"['Pre-Rolls', 'Jar', 'Live Resin', 'Jar']"
+851,224,"['Live Resin', 'Topicals', 'Jar']"
+380,225,"['Vape', 'Topicals']"
+667,226,"['Pre-Rolls', 'Edibles', 'Flower']"
+909,227,"['Jar', 'Vape', 'Pre-Rolls']"
+502,228,['Jar']
+437,229,"['Jar', 'Pre-Rolls']"
+622,230,"['Pre-Rolls', 'Edibles', 'Vape', 'Flower']"
+124,231,"['Vape', 'Live Resin', 'Jar', 'Live Resin']"
+992,232,"['Tinctures', 'Pre-Rolls']"
+504,233,['Live Resin']
+110,234,"['Topicals', 'Topicals']"
+434,235,"['Edibles', 'Vape']"
+169,236,['Topicals']
+59,237,"['Pre-Rolls', 'Flower', 'Vape', 'Vape']"
+799,238,"['Topicals', 'Live Resin']"
+302,239,"['Flower', 'Topicals', 'Pre-Rolls', 'Live Resin']"
+162,240,"['Vape', 'Pre-Rolls', 'Edibles', 'Topicals']"
+632,241,['Live Resin']
+905,242,['Tinctures']
+557,243,"['Vape', 'Edibles']"
+381,244,"['Live Resin', 'Vape', 'Tinctures']"
+117,245,"['Live Resin', 'Vape']"
+296,246,['Topicals']
+275,247,"['Edibles', 'Jar', 'Live Resin']"
+858,248,"['Live Resin', 'Flower', 'Jar', 'Tinctures']"
+566,249,"['Tinctures', 'Vape', 'Jar', 'Tinctures']"
+414,250,['Edibles']
+591,251,['Vape']
+567,252,"['Flower', 'Flower']"
+239,253,"['Topicals', 'Vape', 'Jar']"
+34,254,"['Tinctures', 'Tinctures', 'Tinctures']"
+384,255,"['Live Resin', 'Jar', 'Flower', 'Vape']"
+180,256,"['Live Resin', 'Edibles', 'Tinctures', 'Jar']"
+963,257,['Pre-Rolls']
+107,258,"['Topicals', 'Jar', 'Vape']"
+856,259,['Pre-Rolls']
+436,260,"['Topicals', 'Flower', 'Edibles', 'Tinctures']"
+979,261,"['Topicals', 'Pre-Rolls']"
+593,262,['Tinctures']
+9,263,"['Flower', 'Flower', 'Edibles']"
+213,264,['Pre-Rolls']
+599,265,"['Jar', 'Edibles', 'Live Resin']"
+878,266,"['Flower', 'Flower', 'Tinctures']"
+826,267,['Topicals']
+184,268,"['Edibles', 'Flower', 'Topicals']"
+192,269,['Topicals']
+31,270,"['Edibles', 'Pre-Rolls']"
+921,271,"['Jar', 'Pre-Rolls', 'Edibles', 'Tinctures']"
+185,272,"['Tinctures', 'Edibles', 'Topicals']"
+765,273,"['Live Resin', 'Topicals']"
+424,274,"['Pre-Rolls', 'Pre-Rolls', 'Flower', 'Tinctures']"
+985,275,['Flower']
+583,276,['Jar']
+814,277,"['Jar', 'Topicals', 'Live Resin']"
+563,278,['Live Resin']
+15,279,"['Topicals', 'Flower', 'Edibles', 'Flower']"
+98,280,"['Live Resin', 'Edibles']"
+912,281,"['Tinctures', 'Live Resin', 'Edibles', 'Jar']"
+273,282,['Edibles']
+189,283,"['Jar', 'Jar', 'Jar']"
+695,284,['Edibles']
+408,285,"['Jar', 'Live Resin', 'Pre-Rolls', 'Tinctures']"
+276,286,"['Vape', 'Jar']"
+508,287,['Live Resin']
+849,288,['Pre-Rolls']
+80,289,['Pre-Rolls']
+63,290,"['Pre-Rolls', 'Tinctures']"
+433,291,"['Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+560,292,"['Pre-Rolls', 'Live Resin', 'Vape', 'Pre-Rolls']"
+26,293,"['Pre-Rolls', 'Tinctures']"
+890,294,"['Vape', 'Topicals']"
+74,295,"['Jar', 'Jar']"
+462,296,"['Edibles', 'Live Resin']"
+476,297,"['Pre-Rolls', 'Flower', 'Edibles', 'Pre-Rolls']"
+905,298,"['Jar', 'Jar', 'Live Resin']"
+909,299,"['Flower', 'Tinctures']"
+778,300,['Vape']
+20,301,"['Tinctures', 'Vape', 'Live Resin']"
+944,302,"['Live Resin', 'Jar']"
+222,303,"['Tinctures', 'Topicals', 'Pre-Rolls', 'Edibles']"
+826,304,"['Flower', 'Vape', 'Pre-Rolls']"
+83,305,"['Pre-Rolls', 'Topicals']"
+410,306,"['Edibles', 'Tinctures', 'Flower', 'Live Resin']"
+947,307,"['Flower', 'Live Resin']"
+199,308,"['Flower', 'Live Resin']"
+457,309,"['Vape', 'Live Resin']"
+909,310,"['Live Resin', 'Live Resin', 'Edibles', 'Edibles']"
+798,311,"['Vape', 'Pre-Rolls', 'Vape']"
+41,312,"['Jar', 'Tinctures', 'Flower', 'Flower']"
+910,313,['Live Resin']
+351,314,['Vape']
+702,315,['Flower']
+12,316,"['Topicals', 'Vape']"
+964,317,"['Topicals', 'Topicals']"
+34,318,"['Tinctures', 'Flower', 'Pre-Rolls', 'Live Resin']"
+299,319,"['Live Resin', 'Edibles', 'Jar', 'Edibles']"
+598,320,"['Edibles', 'Jar', 'Pre-Rolls', 'Jar']"
+204,321,"['Jar', 'Jar', 'Live Resin']"
+214,322,"['Topicals', 'Flower', 'Jar', 'Tinctures']"
+190,323,"['Topicals', 'Topicals']"
+424,324,['Flower']
+856,325,"['Vape', 'Vape', 'Topicals']"
+470,326,"['Jar', 'Pre-Rolls']"
+188,327,"['Live Resin', 'Tinctures']"
+260,328,"['Vape', 'Edibles']"
+939,329,['Topicals']
+287,330,"['Flower', 'Live Resin']"
+386,331,['Pre-Rolls']
+592,332,"['Live Resin', 'Tinctures', 'Jar']"
+230,333,['Edibles']
+874,334,"['Live Resin', 'Edibles', 'Edibles']"
+116,335,"['Flower', 'Edibles', 'Flower']"
+884,336,['Jar']
+828,337,"['Jar', 'Flower']"
+452,338,['Flower']
+164,339,"['Jar', 'Pre-Rolls']"
+577,340,"['Topicals', 'Live Resin']"
+286,341,"['Live Resin', 'Tinctures', 'Tinctures']"
+802,342,"['Topicals', 'Tinctures', 'Pre-Rolls']"
+455,343,"['Edibles', 'Vape', 'Edibles', 'Topicals']"
+444,344,"['Live Resin', 'Edibles', 'Topicals', 'Jar']"
+248,345,"['Jar', 'Jar']"
+938,346,"['Tinctures', 'Vape', 'Flower']"
+569,347,"['Edibles', 'Live Resin']"
+6,348,"['Jar', 'Jar']"
+553,349,"['Vape', 'Vape', 'Topicals']"
+228,350,"['Pre-Rolls', 'Topicals', 'Vape', 'Live Resin']"
+981,351,"['Topicals', 'Flower']"
+577,352,['Flower']
+34,353,"['Flower', 'Jar']"
+760,354,['Edibles']
+408,355,"['Jar', 'Flower', 'Pre-Rolls']"
+775,356,['Flower']
+952,357,"['Topicals', 'Tinctures', 'Vape']"
+333,358,"['Edibles', 'Jar', 'Tinctures', 'Flower']"
+267,359,"['Tinctures', 'Pre-Rolls']"
+63,360,"['Tinctures', 'Jar', 'Tinctures', 'Flower']"
+161,361,['Flower']
+903,362,['Flower']
+359,363,['Tinctures']
+631,364,['Live Resin']
+747,365,['Flower']
+628,366,"['Flower', 'Vape', 'Tinctures']"
+838,367,"['Topicals', 'Edibles', 'Pre-Rolls']"
+564,368,"['Flower', 'Tinctures']"
+333,369,['Topicals']
+112,370,"['Live Resin', 'Jar']"
+716,371,"['Edibles', 'Tinctures', 'Jar', 'Jar']"
+619,372,"['Flower', 'Edibles']"
+225,373,"['Vape', 'Jar']"
+756,374,['Pre-Rolls']
+620,375,"['Live Resin', 'Topicals', 'Live Resin']"
+231,376,['Pre-Rolls']
+131,377,"['Edibles', 'Edibles']"
+474,378,['Pre-Rolls']
+718,379,"['Tinctures', 'Flower']"
+162,380,"['Live Resin', 'Tinctures', 'Live Resin', 'Topicals']"
+777,381,"['Edibles', 'Edibles']"
+506,382,"['Vape', 'Jar', 'Tinctures']"
+185,383,"['Jar', 'Pre-Rolls', 'Flower', 'Edibles']"
+554,384,"['Live Resin', 'Jar', 'Live Resin', 'Edibles']"
+882,385,"['Live Resin', 'Jar', 'Vape', 'Tinctures']"
+90,386,"['Tinctures', 'Jar', 'Pre-Rolls', 'Flower']"
+164,387,['Jar']
+917,388,"['Live Resin', 'Jar']"
+587,389,"['Vape', 'Vape']"
+121,390,"['Jar', 'Jar', 'Live Resin', 'Flower']"
+842,391,"['Live Resin', 'Jar']"
+397,392,['Jar']
+228,393,"['Vape', 'Vape', 'Flower']"
+357,394,"['Topicals', 'Tinctures', 'Pre-Rolls', 'Edibles']"
+668,395,"['Pre-Rolls', 'Pre-Rolls']"
+49,396,"['Live Resin', 'Live Resin', 'Vape', 'Jar']"
+306,397,"['Live Resin', 'Jar', 'Topicals']"
+999,398,['Tinctures']
+791,399,"['Flower', 'Pre-Rolls', 'Flower']"
+577,400,['Topicals']
+837,401,['Live Resin']
+440,402,['Jar']
+61,403,"['Live Resin', 'Tinctures', 'Edibles']"
+129,404,"['Pre-Rolls', 'Jar']"
+851,405,"['Edibles', 'Live Resin', 'Edibles']"
+441,406,['Topicals']
+736,407,"['Flower', 'Flower', 'Pre-Rolls', 'Flower']"
+430,408,['Vape']
+464,409,"['Topicals', 'Vape', 'Live Resin']"
+405,410,"['Pre-Rolls', 'Live Resin', 'Flower', 'Tinctures']"
+662,411,['Vape']
+340,412,"['Flower', 'Edibles']"
+844,413,['Vape']
+176,414,"['Flower', 'Edibles', 'Jar']"
+465,415,['Live Resin']
+884,416,"['Vape', 'Flower', 'Jar']"
+171,417,"['Vape', 'Vape', 'Vape']"
+567,418,"['Tinctures', 'Jar']"
+660,419,"['Edibles', 'Flower']"
+312,420,"['Vape', 'Flower', 'Flower', 'Live Resin']"
+365,421,"['Flower', 'Vape']"
+211,422,"['Vape', 'Jar', 'Jar']"
+603,423,"['Topicals', 'Live Resin']"
+501,424,"['Tinctures', 'Live Resin', 'Topicals']"
+272,425,['Pre-Rolls']
+639,426,"['Edibles', 'Topicals', 'Topicals', 'Jar']"
+767,427,"['Jar', 'Live Resin', 'Topicals']"
+642,428,['Jar']
+601,429,"['Tinctures', 'Pre-Rolls', 'Topicals', 'Topicals']"
+383,430,"['Tinctures', 'Topicals', 'Pre-Rolls']"
+24,431,['Topicals']
+464,432,"['Jar', 'Jar', 'Pre-Rolls', 'Tinctures']"
+741,433,"['Tinctures', 'Topicals', 'Tinctures']"
+1,434,"['Jar', 'Vape', 'Jar']"
+518,435,"['Tinctures', 'Jar', 'Jar', 'Topicals']"
+880,436,"['Tinctures', 'Vape', 'Flower']"
+560,437,"['Live Resin', 'Pre-Rolls', 'Live Resin', 'Flower']"
+446,438,"['Tinctures', 'Vape', 'Jar']"
+309,439,"['Topicals', 'Topicals']"
+836,440,"['Jar', 'Pre-Rolls']"
+3,441,['Pre-Rolls']
+429,442,['Topicals']
+767,443,"['Flower', 'Pre-Rolls', 'Flower']"
+508,444,"['Topicals', 'Jar']"
+373,445,"['Vape', 'Flower', 'Flower', 'Live Resin']"
+772,446,"['Topicals', 'Vape']"
+423,447,"['Flower', 'Live Resin']"
+867,448,"['Tinctures', 'Live Resin', 'Vape', 'Pre-Rolls']"
+892,449,"['Pre-Rolls', 'Flower', 'Tinctures']"
+23,450,['Edibles']
+174,451,"['Vape', 'Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+46,452,"['Flower', 'Vape', 'Flower']"
+559,453,"['Pre-Rolls', 'Flower', 'Vape']"
+11,454,['Topicals']
+682,455,"['Pre-Rolls', 'Tinctures']"
+733,456,['Vape']
+945,457,"['Topicals', 'Tinctures', 'Tinctures', 'Live Resin']"
+106,458,"['Tinctures', 'Edibles', 'Edibles']"
+579,459,['Vape']
+983,460,"['Pre-Rolls', 'Flower']"
+863,461,"['Vape', 'Jar', 'Pre-Rolls']"
+865,462,"['Live Resin', 'Topicals']"
+176,463,"['Jar', 'Jar']"
+610,464,"['Pre-Rolls', 'Edibles']"
+48,465,['Pre-Rolls']
+170,466,"['Tinctures', 'Tinctures', 'Pre-Rolls', 'Pre-Rolls']"
+191,467,"['Pre-Rolls', 'Edibles', 'Topicals']"
+791,468,"['Flower', 'Edibles', 'Tinctures', 'Pre-Rolls']"
+80,469,['Edibles']
+926,470,"['Topicals', 'Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+381,471,"['Live Resin', 'Flower']"
+796,472,"['Vape', 'Live Resin', 'Vape', 'Edibles']"
+846,473,"['Live Resin', 'Tinctures', 'Tinctures', 'Live Resin']"
+968,474,"['Jar', 'Edibles', 'Vape']"
+307,475,['Pre-Rolls']
+904,476,"['Pre-Rolls', 'Jar', 'Vape', 'Jar']"
+834,477,"['Edibles', 'Vape', 'Jar']"
+244,478,['Topicals']
+635,479,['Live Resin']
+34,480,"['Vape', 'Flower', 'Flower', 'Jar']"
+287,481,"['Edibles', 'Jar']"
+266,482,"['Flower', 'Tinctures']"
+556,483,"['Edibles', 'Jar', 'Live Resin']"
+587,484,['Topicals']
+936,485,"['Flower', 'Pre-Rolls', 'Vape']"
+36,486,"['Jar', 'Live Resin']"
+599,487,"['Edibles', 'Vape']"
+231,488,"['Topicals', 'Tinctures']"
+178,489,['Topicals']
+921,490,"['Edibles', 'Topicals', 'Vape']"
+161,491,['Vape']
+357,492,"['Tinctures', 'Jar', 'Topicals']"
+981,493,"['Flower', 'Vape', 'Vape']"
+198,494,"['Edibles', 'Tinctures']"
+254,495,"['Vape', 'Live Resin', 'Pre-Rolls']"
+212,496,"['Live Resin', 'Jar', 'Live Resin']"
+178,497,"['Edibles', 'Edibles']"
+7,498,"['Topicals', 'Flower', 'Topicals']"
+981,499,"['Tinctures', 'Edibles', 'Tinctures']"
+172,500,"['Tinctures', 'Jar', 'Pre-Rolls']"
+251,501,"['Edibles', 'Flower']"
+367,502,"['Live Resin', 'Live Resin']"
+69,503,['Edibles']
+42,504,"['Flower', 'Jar', 'Vape']"
+158,505,['Live Resin']
+830,506,"['Jar', 'Pre-Rolls']"
+384,507,['Live Resin']
+928,508,"['Vape', 'Edibles']"
+668,509,"['Vape', 'Edibles', 'Flower', 'Live Resin']"
+825,510,"['Vape', 'Vape']"
+340,511,['Tinctures']
+353,512,"['Edibles', 'Pre-Rolls', 'Live Resin', 'Tinctures']"
+874,513,"['Jar', 'Live Resin', 'Edibles', 'Flower']"
+997,514,"['Vape', 'Live Resin', 'Live Resin']"
+61,515,['Live Resin']
+117,516,"['Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+634,517,"['Flower', 'Topicals']"
+906,518,"['Pre-Rolls', 'Flower', 'Flower']"
+747,519,"['Flower', 'Vape']"
+232,520,"['Tinctures', 'Live Resin', 'Flower', 'Tinctures']"
+346,521,"['Pre-Rolls', 'Flower', 'Vape']"
+291,522,"['Jar', 'Live Resin', 'Jar']"
+337,523,['Tinctures']
+816,524,['Topicals']
+736,525,['Tinctures']
+700,526,"['Jar', 'Live Resin', 'Pre-Rolls']"
+920,527,"['Edibles', 'Vape', 'Tinctures']"
+35,528,"['Edibles', 'Flower', 'Edibles', 'Tinctures']"
+232,529,"['Live Resin', 'Vape']"
+876,530,['Flower']
+415,531,"['Edibles', 'Tinctures', 'Tinctures']"
+595,532,"['Jar', 'Flower', 'Edibles']"
+517,533,"['Vape', 'Vape', 'Flower']"
+833,534,['Tinctures']
+568,535,"['Pre-Rolls', 'Tinctures']"
+828,536,"['Flower', 'Tinctures']"
+574,537,['Jar']
+292,538,['Jar']
+712,539,"['Jar', 'Flower']"
+803,540,"['Edibles', 'Live Resin']"
+214,541,"['Jar', 'Flower']"
+639,542,"['Topicals', 'Live Resin', 'Jar', 'Live Resin']"
+199,543,"['Flower', 'Flower']"
+774,544,['Pre-Rolls']
+795,545,"['Edibles', 'Topicals']"
+252,546,['Flower']
+198,547,"['Flower', 'Live Resin', 'Edibles', 'Jar']"
+897,548,"['Topicals', 'Pre-Rolls']"
+167,549,['Pre-Rolls']
+302,550,['Vape']
+871,551,"['Live Resin', 'Flower']"
+253,552,"['Edibles', 'Edibles', 'Edibles']"
+404,553,"['Topicals', 'Pre-Rolls', 'Topicals']"
+942,554,"['Jar', 'Live Resin', 'Vape']"
+168,555,"['Pre-Rolls', 'Pre-Rolls', 'Jar', 'Edibles']"
+607,556,"['Live Resin', 'Jar']"
+437,557,"['Edibles', 'Tinctures', 'Live Resin', 'Live Resin']"
+136,558,['Jar']
+8,559,"['Jar', 'Tinctures']"
+832,560,"['Jar', 'Edibles', 'Vape']"
+551,561,"['Jar', 'Live Resin', 'Tinctures', 'Flower']"
+28,562,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+356,563,"['Edibles', 'Tinctures', 'Live Resin', 'Topicals']"
+578,564,['Vape']
+765,565,"['Tinctures', 'Topicals']"
+759,566,"['Edibles', 'Topicals', 'Topicals', 'Jar']"
+552,567,"['Vape', 'Live Resin', 'Jar', 'Tinctures']"
+661,568,"['Flower', 'Topicals']"
+237,569,['Edibles']
+126,570,"['Jar', 'Edibles', 'Topicals', 'Vape']"
+130,571,['Pre-Rolls']
+852,572,"['Topicals', 'Tinctures']"
+990,573,['Jar']
+808,574,"['Tinctures', 'Jar', 'Topicals', 'Live Resin']"
+276,575,['Topicals']
+771,576,"['Pre-Rolls', 'Jar', 'Jar', 'Live Resin']"
+277,577,['Tinctures']
+93,578,"['Tinctures', 'Flower', 'Flower', 'Topicals']"
+166,579,"['Live Resin', 'Tinctures']"
+901,580,"['Tinctures', 'Edibles', 'Pre-Rolls', 'Vape']"
+594,581,"['Edibles', 'Vape']"
+59,582,"['Flower', 'Jar', 'Pre-Rolls', 'Tinctures']"
+455,583,"['Edibles', 'Flower', 'Topicals']"
+799,584,['Jar']
+342,585,"['Edibles', 'Edibles']"
+770,586,"['Vape', 'Vape', 'Vape', 'Topicals']"
+613,587,"['Edibles', 'Tinctures', 'Flower', 'Edibles']"
+403,588,['Live Resin']
+321,589,"['Flower', 'Live Resin', 'Pre-Rolls', 'Live Resin']"
+930,590,"['Live Resin', 'Topicals', 'Live Resin']"
+896,591,['Pre-Rolls']
+627,592,"['Vape', 'Edibles']"
+616,593,"['Edibles', 'Edibles', 'Topicals', 'Jar']"
+630,594,"['Jar', 'Pre-Rolls', 'Edibles']"
+138,595,['Flower']
+975,596,"['Edibles', 'Live Resin', 'Tinctures', 'Pre-Rolls']"
+58,597,"['Tinctures', 'Edibles', 'Jar', 'Tinctures']"
+121,598,['Vape']
+147,599,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin', 'Vape']"
+249,600,"['Edibles', 'Jar', 'Topicals', 'Jar']"
+991,601,"['Live Resin', 'Edibles']"
+509,602,['Tinctures']
+412,603,['Jar']
+203,604,"['Flower', 'Edibles']"
+78,605,"['Flower', 'Live Resin']"
+493,606,['Jar']
+471,607,"['Pre-Rolls', 'Tinctures', 'Vape', 'Edibles']"
+317,608,"['Tinctures', 'Tinctures', 'Jar', 'Edibles']"
+603,609,"['Edibles', 'Live Resin']"
+381,610,"['Topicals', 'Flower', 'Flower']"
+285,611,"['Flower', 'Tinctures', 'Live Resin']"
+164,612,"['Pre-Rolls', 'Topicals']"
+68,613,"['Pre-Rolls', 'Tinctures', 'Pre-Rolls']"
+929,614,"['Tinctures', 'Edibles', 'Vape', 'Live Resin']"
+16,615,"['Tinctures', 'Vape', 'Vape']"
+394,616,"['Pre-Rolls', 'Edibles', 'Live Resin']"
+187,617,"['Edibles', 'Vape', 'Pre-Rolls']"
+610,618,['Topicals']
+794,619,"['Jar', 'Vape', 'Edibles', 'Vape']"
+888,620,"['Jar', 'Flower']"
+275,621,['Jar']
+657,622,"['Topicals', 'Pre-Rolls']"
+96,623,"['Edibles', 'Tinctures', 'Topicals']"
+580,624,"['Tinctures', 'Edibles', 'Pre-Rolls']"
+209,625,"['Tinctures', 'Flower', 'Tinctures', 'Flower']"
+924,626,"['Jar', 'Pre-Rolls', 'Flower', 'Jar']"
+459,627,"['Pre-Rolls', 'Live Resin', 'Vape']"
+351,628,"['Flower', 'Vape', 'Edibles']"
+638,629,"['Live Resin', 'Tinctures', 'Pre-Rolls', 'Edibles']"
+816,630,"['Jar', 'Edibles', 'Edibles', 'Tinctures']"
+101,631,"['Live Resin', 'Tinctures']"
+601,632,"['Live Resin', 'Flower', 'Live Resin', 'Vape']"
+136,633,['Live Resin']
+186,634,"['Topicals', 'Flower']"
+406,635,"['Topicals', 'Vape']"
+458,636,"['Vape', 'Topicals']"
+78,637,['Tinctures']
+720,638,['Jar']
+235,639,"['Vape', 'Tinctures']"
+103,640,"['Pre-Rolls', 'Topicals', 'Flower', 'Edibles']"
+494,641,['Topicals']
+382,642,"['Topicals', 'Vape', 'Topicals']"
+238,643,"['Vape', 'Flower', 'Vape']"
+740,644,"['Tinctures', 'Pre-Rolls', 'Flower']"
+411,645,"['Live Resin', 'Jar', 'Pre-Rolls']"
+132,646,['Edibles']
+967,647,"['Edibles', 'Pre-Rolls', 'Jar', 'Topicals']"
+434,648,['Topicals']
+876,649,['Topicals']
+974,650,"['Pre-Rolls', 'Tinctures', 'Edibles', 'Tinctures']"
+281,651,"['Flower', 'Pre-Rolls', 'Topicals', 'Vape']"
+485,652,"['Pre-Rolls', 'Edibles', 'Flower']"
+327,653,"['Jar', 'Edibles']"
+155,654,['Flower']
+684,655,"['Pre-Rolls', 'Jar']"
+874,656,"['Topicals', 'Vape', 'Vape']"
+521,657,['Vape']
+645,658,"['Live Resin', 'Jar']"
+940,659,"['Jar', 'Jar', 'Vape', 'Vape']"
+409,660,"['Tinctures', 'Tinctures', 'Jar']"
+258,661,['Topicals']
+393,662,['Edibles']
+106,663,"['Flower', 'Tinctures']"
+919,664,"['Vape', 'Topicals', 'Vape']"
+928,665,"['Flower', 'Jar', 'Jar']"
+146,666,"['Tinctures', 'Topicals']"
+719,667,"['Tinctures', 'Tinctures', 'Topicals', 'Tinctures']"
+27,668,"['Topicals', 'Tinctures']"
+912,669,"['Pre-Rolls', 'Edibles', 'Jar', 'Jar']"
+636,670,"['Flower', 'Jar', 'Pre-Rolls']"
+436,671,"['Vape', 'Topicals', 'Tinctures']"
+124,672,"['Jar', 'Vape']"
+460,673,"['Pre-Rolls', 'Flower', 'Live Resin']"
+829,674,"['Tinctures', 'Pre-Rolls', 'Flower']"
+785,675,"['Vape', 'Pre-Rolls', 'Topicals']"
+235,676,"['Flower', 'Tinctures', 'Jar', 'Jar']"
+28,677,"['Pre-Rolls', 'Tinctures', 'Pre-Rolls']"
+5,678,['Live Resin']
+585,679,"['Pre-Rolls', 'Flower', 'Topicals', 'Live Resin']"
+608,680,['Tinctures']
+163,681,['Flower']
+676,682,"['Topicals', 'Vape', 'Live Resin']"
+760,683,"['Topicals', 'Topicals']"
+901,684,"['Jar', 'Jar', 'Jar', 'Live Resin']"
+546,685,"['Live Resin', 'Flower', 'Jar']"
+925,686,['Live Resin']
+276,687,['Jar']
+323,688,['Edibles']
+896,689,"['Live Resin', 'Edibles', 'Edibles']"
+141,690,['Tinctures']
+277,691,"['Live Resin', 'Edibles', 'Pre-Rolls']"
+63,692,"['Live Resin', 'Pre-Rolls', 'Jar', 'Jar']"
+196,693,"['Flower', 'Pre-Rolls', 'Edibles']"
+171,694,"['Flower', 'Edibles', 'Jar', 'Live Resin']"
+723,695,"['Topicals', 'Vape', 'Tinctures']"
+109,696,"['Tinctures', 'Pre-Rolls', 'Jar']"
+65,697,"['Flower', 'Topicals', 'Pre-Rolls']"
+363,698,['Pre-Rolls']
+708,699,"['Jar', 'Tinctures', 'Live Resin', 'Pre-Rolls']"
+236,700,"['Flower', 'Vape', 'Topicals']"
+881,701,"['Jar', 'Edibles']"
+340,702,"['Vape', 'Pre-Rolls', 'Live Resin', 'Edibles']"
+364,703,"['Flower', 'Vape', 'Pre-Rolls']"
+11,704,['Tinctures']
+326,705,"['Live Resin', 'Jar', 'Vape']"
+97,706,"['Topicals', 'Edibles', 'Jar', 'Tinctures']"
+278,707,"['Tinctures', 'Jar', 'Flower']"
+215,708,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+738,709,['Edibles']
+791,710,['Edibles']
+143,711,"['Live Resin', 'Jar']"
+103,712,"['Edibles', 'Tinctures', 'Flower']"
+596,713,"['Pre-Rolls', 'Vape', 'Live Resin']"
+656,714,"['Pre-Rolls', 'Jar', 'Live Resin', 'Flower']"
+108,715,"['Jar', 'Pre-Rolls']"
+307,716,"['Vape', 'Flower', 'Tinctures', 'Jar']"
+244,717,"['Topicals', 'Topicals']"
+683,718,"['Tinctures', 'Topicals', 'Jar']"
+862,719,"['Tinctures', 'Tinctures', 'Edibles', 'Edibles']"
+51,720,"['Tinctures', 'Tinctures']"
+530,721,"['Live Resin', 'Jar', 'Edibles']"
+872,722,"['Flower', 'Live Resin', 'Tinctures', 'Edibles']"
+453,723,"['Topicals', 'Topicals', 'Pre-Rolls', 'Live Resin']"
+497,724,"['Jar', 'Vape', 'Jar', 'Vape']"
+940,725,"['Tinctures', 'Jar', 'Live Resin', 'Pre-Rolls']"
+606,726,['Live Resin']
+473,727,"['Topicals', 'Live Resin', 'Pre-Rolls', 'Topicals']"
+654,728,"['Tinctures', 'Topicals', 'Pre-Rolls']"
+144,729,"['Pre-Rolls', 'Tinctures']"
+268,730,"['Live Resin', 'Topicals', 'Flower', 'Tinctures']"
+478,731,"['Jar', 'Live Resin', 'Jar', 'Live Resin']"
+620,732,"['Flower', 'Topicals', 'Vape']"
+998,733,['Live Resin']
+130,734,"['Live Resin', 'Pre-Rolls', 'Edibles', 'Topicals']"
+384,735,"['Pre-Rolls', 'Tinctures', 'Topicals', 'Edibles']"
+710,736,['Pre-Rolls']
+760,737,"['Tinctures', 'Tinctures', 'Flower', 'Flower']"
+258,738,['Flower']
+881,739,"['Flower', 'Jar', 'Pre-Rolls']"
+135,740,"['Pre-Rolls', 'Vape', 'Tinctures', 'Topicals']"
+158,741,"['Pre-Rolls', 'Tinctures', 'Pre-Rolls']"
+995,742,"['Pre-Rolls', 'Tinctures', 'Pre-Rolls', 'Vape']"
+96,743,"['Vape', 'Jar']"
+514,744,"['Flower', 'Flower', 'Flower', 'Topicals']"
+559,745,"['Flower', 'Edibles', 'Edibles', 'Flower']"
+242,746,"['Topicals', 'Pre-Rolls']"
+726,747,"['Edibles', 'Edibles', 'Jar', 'Pre-Rolls']"
+839,748,['Edibles']
+261,749,['Pre-Rolls']
+644,750,"['Live Resin', 'Topicals']"
+818,751,"['Jar', 'Edibles', 'Topicals', 'Topicals']"
+692,752,"['Live Resin', 'Jar', 'Edibles', 'Jar']"
+330,753,"['Flower', 'Topicals', 'Live Resin', 'Jar']"
+718,754,"['Jar', 'Vape', 'Flower', 'Pre-Rolls']"
+955,755,"['Pre-Rolls', 'Jar']"
+553,756,"['Pre-Rolls', 'Flower', 'Edibles']"
+811,757,"['Vape', 'Tinctures', 'Tinctures']"
+113,758,['Vape']
+605,759,"['Live Resin', 'Jar']"
+185,760,"['Flower', 'Pre-Rolls', 'Topicals']"
+754,761,"['Tinctures', 'Jar', 'Vape', 'Vape']"
+950,762,['Topicals']
+993,763,['Pre-Rolls']
+8,764,['Tinctures']
+310,765,['Jar']
+791,766,"['Flower', 'Topicals', 'Live Resin', 'Topicals']"
+556,767,"['Tinctures', 'Tinctures', 'Edibles', 'Topicals']"
+495,768,"['Pre-Rolls', 'Vape', 'Topicals', 'Live Resin']"
+505,769,"['Topicals', 'Vape', 'Flower']"
+43,770,"['Pre-Rolls', 'Topicals']"
+442,771,"['Edibles', 'Flower', 'Vape']"
+505,772,"['Live Resin', 'Tinctures']"
+650,773,"['Edibles', 'Jar', 'Jar']"
+392,774,"['Live Resin', 'Live Resin', 'Topicals']"
+850,775,['Tinctures']
+589,776,['Tinctures']
+204,777,"['Edibles', 'Tinctures', 'Flower']"
+985,778,"['Pre-Rolls', 'Pre-Rolls']"
+214,779,"['Topicals', 'Jar']"
+902,780,"['Edibles', 'Pre-Rolls', 'Tinctures']"
+241,781,"['Vape', 'Edibles', 'Live Resin']"
+776,782,"['Pre-Rolls', 'Flower', 'Topicals']"
+175,783,['Vape']
+604,784,"['Pre-Rolls', 'Pre-Rolls', 'Edibles', 'Jar']"
+604,785,"['Pre-Rolls', 'Vape', 'Tinctures', 'Tinctures']"
+572,786,['Tinctures']
+441,787,"['Edibles', 'Flower', 'Flower']"
+363,788,"['Edibles', 'Topicals']"
+98,789,"['Tinctures', 'Topicals', 'Vape', 'Vape']"
+367,790,"['Vape', 'Edibles', 'Pre-Rolls']"
+894,791,"['Tinctures', 'Flower', 'Edibles', 'Vape']"
+633,792,['Pre-Rolls']
+966,793,"['Live Resin', 'Tinctures']"
+59,794,"['Edibles', 'Edibles', 'Topicals']"
+170,795,"['Edibles', 'Tinctures', 'Tinctures', 'Edibles']"
+349,796,"['Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+479,797,['Edibles']
+734,798,"['Tinctures', 'Flower', 'Tinctures']"
+556,799,['Topicals']
+682,800,"['Flower', 'Live Resin', 'Live Resin']"
+297,801,['Edibles']
+984,802,['Jar']
+444,803,"['Topicals', 'Pre-Rolls', 'Pre-Rolls']"
+282,804,"['Jar', 'Jar', 'Tinctures', 'Topicals']"
+59,805,"['Topicals', 'Edibles', 'Vape']"
+905,806,['Vape']
+533,807,"['Topicals', 'Pre-Rolls', 'Vape', 'Flower']"
+342,808,"['Topicals', 'Edibles', 'Edibles', 'Flower']"
+652,809,"['Edibles', 'Jar', 'Jar', 'Edibles']"
+516,810,['Flower']
+805,811,"['Vape', 'Topicals']"
+804,812,"['Edibles', 'Jar']"
+368,813,"['Jar', 'Vape']"
+753,814,"['Edibles', 'Live Resin']"
+540,815,"['Jar', 'Vape', 'Jar']"
+544,816,"['Vape', 'Flower', 'Tinctures', 'Topicals']"
+197,817,"['Edibles', 'Flower', 'Flower', 'Pre-Rolls']"
+850,818,"['Vape', 'Pre-Rolls']"
+757,819,"['Vape', 'Vape', 'Live Resin', 'Flower']"
+555,820,"['Vape', 'Vape']"
+176,821,['Flower']
+997,822,"['Topicals', 'Pre-Rolls', 'Live Resin', 'Vape']"
+794,823,"['Tinctures', 'Live Resin', 'Edibles']"
+329,824,"['Pre-Rolls', 'Edibles']"
+717,825,"['Pre-Rolls', 'Vape', 'Flower']"
+448,826,"['Flower', 'Vape', 'Jar']"
+728,827,['Jar']
+813,828,['Topicals']
+490,829,['Vape']
+139,830,"['Topicals', 'Flower']"
+415,831,"['Pre-Rolls', 'Topicals', 'Live Resin', 'Topicals']"
+808,832,"['Jar', 'Pre-Rolls', 'Flower', 'Flower']"
+177,833,"['Edibles', 'Pre-Rolls', 'Jar']"
+19,834,"['Topicals', 'Tinctures', 'Flower', 'Edibles']"
+758,835,"['Pre-Rolls', 'Pre-Rolls', 'Jar', 'Vape']"
+521,836,"['Live Resin', 'Live Resin']"
+273,837,"['Pre-Rolls', 'Jar', 'Tinctures', 'Edibles']"
+408,838,"['Jar', 'Flower']"
+494,839,"['Vape', 'Vape', 'Flower', 'Edibles']"
+129,840,['Tinctures']
+675,841,"['Flower', 'Topicals', 'Live Resin', 'Topicals']"
+599,842,"['Edibles', 'Flower', 'Tinctures', 'Flower']"
+798,843,"['Pre-Rolls', 'Edibles']"
+173,844,"['Pre-Rolls', 'Tinctures', 'Vape']"
+372,845,"['Topicals', 'Edibles', 'Edibles']"
+313,846,"['Live Resin', 'Flower', 'Pre-Rolls']"
+947,847,"['Topicals', 'Live Resin']"
+222,848,"['Tinctures', 'Pre-Rolls']"
+883,849,['Jar']
+799,850,"['Tinctures', 'Flower', 'Pre-Rolls', 'Tinctures']"
+653,851,"['Jar', 'Live Resin']"
+896,852,['Topicals']
+327,853,"['Jar', 'Pre-Rolls', 'Jar', 'Vape']"
+755,854,"['Pre-Rolls', 'Vape']"
+383,855,"['Vape', 'Flower']"
+83,856,['Tinctures']
+805,857,"['Tinctures', 'Pre-Rolls']"
+600,858,"['Flower', 'Jar']"
+402,859,"['Jar', 'Topicals', 'Jar']"
+173,860,"['Jar', 'Live Resin', 'Flower', 'Jar']"
+569,861,"['Pre-Rolls', 'Tinctures', 'Live Resin']"
+163,862,"['Topicals', 'Pre-Rolls', 'Live Resin']"
+177,863,"['Vape', 'Edibles', 'Tinctures']"
+188,864,"['Tinctures', 'Edibles', 'Live Resin']"
+891,865,"['Pre-Rolls', 'Pre-Rolls', 'Vape']"
+359,866,"['Topicals', 'Live Resin', 'Topicals', 'Edibles']"
+9,867,['Topicals']
+774,868,"['Vape', 'Jar', 'Live Resin', 'Pre-Rolls']"
+109,869,['Edibles']
+547,870,"['Jar', 'Topicals', 'Pre-Rolls', 'Tinctures']"
+188,871,"['Jar', 'Pre-Rolls', 'Pre-Rolls']"
+362,872,['Pre-Rolls']
+747,873,"['Topicals', 'Edibles', 'Jar', 'Live Resin']"
+815,874,"['Tinctures', 'Flower', 'Flower', 'Tinctures']"
+680,875,"['Vape', 'Flower', 'Edibles']"
+957,876,"['Tinctures', 'Flower', 'Edibles', 'Pre-Rolls']"
+651,877,"['Vape', 'Vape', 'Topicals', 'Vape']"
+416,878,"['Topicals', 'Tinctures']"
+173,879,"['Vape', 'Live Resin', 'Jar']"
+776,880,"['Flower', 'Topicals', 'Jar', 'Flower']"
+905,881,['Flower']
+308,882,"['Flower', 'Tinctures', 'Tinctures']"
+458,883,"['Flower', 'Edibles', 'Pre-Rolls']"
+177,884,"['Live Resin', 'Tinctures']"
+566,885,"['Jar', 'Jar', 'Live Resin']"
+422,886,['Pre-Rolls']
+194,887,"['Topicals', 'Topicals', 'Jar']"
+604,888,['Pre-Rolls']
+779,889,"['Vape', 'Jar']"
+258,890,['Jar']
+902,891,"['Topicals', 'Jar', 'Vape', 'Live Resin']"
+185,892,"['Flower', 'Pre-Rolls']"
+662,893,"['Jar', 'Topicals']"
+14,894,['Edibles']
+93,895,"['Pre-Rolls', 'Jar']"
+872,896,"['Vape', 'Pre-Rolls', 'Flower', 'Vape']"
+969,897,['Pre-Rolls']
+174,898,"['Tinctures', 'Tinctures', 'Flower']"
+812,899,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls', 'Vape']"
+167,900,['Vape']
+252,901,"['Vape', 'Jar', 'Topicals', 'Tinctures']"
+945,902,"['Jar', 'Live Resin', 'Topicals']"
+281,903,"['Jar', 'Flower', 'Live Resin']"
+90,904,['Live Resin']
+295,905,"['Edibles', 'Edibles', 'Edibles']"
+584,906,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+588,907,"['Topicals', 'Topicals']"
+180,908,['Topicals']
+609,909,"['Pre-Rolls', 'Tinctures']"
+12,910,['Jar']
+807,911,"['Vape', 'Tinctures', 'Pre-Rolls']"
+14,912,"['Topicals', 'Live Resin', 'Live Resin', 'Jar']"
+621,913,"['Jar', 'Pre-Rolls', 'Flower']"
+720,914,"['Flower', 'Pre-Rolls', 'Pre-Rolls', 'Topicals']"
+671,915,"['Tinctures', 'Topicals', 'Tinctures']"
+428,916,"['Live Resin', 'Live Resin', 'Edibles', 'Pre-Rolls']"
+404,917,"['Vape', 'Vape', 'Flower', 'Topicals']"
+175,918,['Live Resin']
+852,919,"['Tinctures', 'Topicals', 'Edibles', 'Pre-Rolls']"
+711,920,"['Pre-Rolls', 'Live Resin']"
+455,921,"['Edibles', 'Flower', 'Flower', 'Edibles']"
+41,922,['Pre-Rolls']
+138,923,"['Live Resin', 'Live Resin', 'Tinctures']"
+420,924,"['Topicals', 'Tinctures', 'Edibles']"
+409,925,"['Live Resin', 'Vape', 'Vape']"
+1,926,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls']"
+269,927,"['Topicals', 'Edibles', 'Tinctures', 'Pre-Rolls']"
+941,928,"['Live Resin', 'Topicals', 'Edibles']"
+851,929,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin', 'Tinctures']"
+914,930,"['Vape', 'Tinctures', 'Vape']"
+351,931,"['Pre-Rolls', 'Pre-Rolls', 'Flower']"
+848,932,"['Live Resin', 'Topicals', 'Live Resin']"
+860,933,"['Edibles', 'Jar', 'Jar']"
+54,934,['Vape']
+986,935,"['Edibles', 'Tinctures', 'Jar']"
+595,936,"['Tinctures', 'Tinctures']"
+370,937,"['Live Resin', 'Flower', 'Topicals']"
+441,938,['Live Resin']
+199,939,['Topicals']
+190,940,"['Live Resin', 'Edibles', 'Topicals', 'Live Resin']"
+69,941,"['Tinctures', 'Topicals', 'Edibles', 'Pre-Rolls']"
+489,942,"['Pre-Rolls', 'Flower', 'Tinctures']"
+857,943,"['Topicals', 'Pre-Rolls', 'Jar', 'Flower']"
+292,944,['Live Resin']
+663,945,['Tinctures']
+41,946,"['Edibles', 'Flower', 'Edibles', 'Live Resin']"
+20,947,"['Flower', 'Flower', 'Edibles']"
+735,948,"['Flower', 'Jar', 'Live Resin', 'Topicals']"
+238,949,['Live Resin']
+630,950,"['Vape', 'Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+77,951,"['Vape', 'Edibles', 'Pre-Rolls', 'Tinctures']"
+52,952,"['Live Resin', 'Jar', 'Tinctures', 'Pre-Rolls']"
+756,953,"['Jar', 'Live Resin']"
+779,954,"['Pre-Rolls', 'Pre-Rolls']"
+87,955,"['Flower', 'Live Resin', 'Flower', 'Live Resin']"
+589,956,"['Vape', 'Tinctures']"
+225,957,"['Edibles', 'Tinctures', 'Tinctures']"
+252,958,"['Edibles', 'Tinctures', 'Flower']"
+380,959,['Topicals']
+782,960,"['Flower', 'Live Resin']"
+206,961,"['Vape', 'Live Resin', 'Topicals']"
+552,962,"['Jar', 'Jar']"
+635,963,"['Pre-Rolls', 'Live Resin']"
+182,964,"['Live Resin', 'Edibles', 'Topicals', 'Flower']"
+138,965,"['Flower', 'Flower']"
+165,966,"['Tinctures', 'Pre-Rolls', 'Jar', 'Pre-Rolls']"
+306,967,"['Jar', 'Flower']"
+857,968,"['Pre-Rolls', 'Vape']"
+475,969,"['Tinctures', 'Live Resin', 'Topicals', 'Edibles']"
+96,970,"['Jar', 'Jar']"
+89,971,['Edibles']
+973,972,"['Vape', 'Tinctures']"
+607,973,"['Edibles', 'Topicals']"
+228,974,"['Pre-Rolls', 'Vape']"
+392,975,"['Edibles', 'Edibles', 'Live Resin', 'Vape']"
+873,976,"['Topicals', 'Jar', 'Pre-Rolls']"
+6,977,"['Topicals', 'Topicals', 'Jar', 'Pre-Rolls']"
+712,978,"['Vape', 'Pre-Rolls']"
+48,979,"['Topicals', 'Topicals', 'Edibles']"
+430,980,['Edibles']
+989,981,"['Edibles', 'Tinctures', 'Jar']"
+22,982,"['Tinctures', 'Flower', 'Pre-Rolls', 'Vape']"
+955,983,['Tinctures']
+542,984,['Tinctures']
+148,985,"['Jar', 'Topicals', 'Edibles', 'Topicals']"
+473,986,"['Edibles', 'Topicals', 'Jar', 'Vape']"
+498,987,"['Flower', 'Edibles']"
+675,988,"['Tinctures', 'Tinctures', 'Tinctures']"
+39,989,"['Topicals', 'Flower', 'Edibles']"
+329,990,['Vape']
+410,991,"['Vape', 'Tinctures', 'Jar', 'Flower']"
+288,992,"['Flower', 'Live Resin']"
+410,993,"['Topicals', 'Live Resin', 'Live Resin', 'Flower']"
+114,994,['Jar']
+946,995,"['Jar', 'Edibles', 'Tinctures', 'Live Resin']"
+702,996,"['Vape', 'Pre-Rolls', 'Flower', 'Live Resin']"
+767,997,"['Live Resin', 'Edibles', 'Jar', 'Vape']"
+429,998,['Live Resin']
+851,999,"['Flower', 'Topicals']"
+861,1000,"['Flower', 'Topicals', 'Edibles', 'Jar']"
+57,1001,"['Flower', 'Tinctures']"
+486,1002,"['Jar', 'Topicals']"
+447,1003,"['Jar', 'Topicals', 'Jar']"
+892,1004,"['Topicals', 'Edibles', 'Edibles', 'Jar']"
+133,1005,['Pre-Rolls']
+401,1006,"['Flower', 'Jar']"
+289,1007,"['Flower', 'Live Resin', 'Flower']"
+224,1008,"['Topicals', 'Vape']"
+726,1009,"['Edibles', 'Live Resin', 'Flower']"
+539,1010,['Edibles']
+731,1011,"['Edibles', 'Tinctures', 'Jar']"
+962,1012,"['Jar', 'Live Resin']"
+363,1013,['Live Resin']
+11,1014,"['Vape', 'Edibles', 'Pre-Rolls']"
+16,1015,"['Edibles', 'Tinctures']"
+587,1016,"['Vape', 'Pre-Rolls', 'Vape', 'Jar']"
+334,1017,['Vape']
+234,1018,"['Edibles', 'Jar']"
+475,1019,['Live Resin']
+178,1020,"['Topicals', 'Flower', 'Vape']"
+205,1021,"['Tinctures', 'Pre-Rolls']"
+278,1022,"['Topicals', 'Tinctures']"
+434,1023,['Flower']
+93,1024,"['Pre-Rolls', 'Live Resin', 'Tinctures', 'Pre-Rolls']"
+456,1025,['Live Resin']
+846,1026,"['Pre-Rolls', 'Topicals', 'Jar']"
+436,1027,"['Pre-Rolls', 'Edibles']"
+675,1028,['Vape']
+151,1029,['Topicals']
+878,1030,['Edibles']
+229,1031,"['Tinctures', 'Tinctures']"
+690,1032,['Pre-Rolls']
+114,1033,"['Live Resin', 'Flower', 'Tinctures']"
+211,1034,"['Live Resin', 'Edibles', 'Live Resin']"
+889,1035,"['Edibles', 'Live Resin', 'Flower', 'Tinctures']"
+908,1036,['Pre-Rolls']
+203,1037,"['Live Resin', 'Flower', 'Topicals', 'Edibles']"
+806,1038,"['Topicals', 'Jar']"
+421,1039,['Pre-Rolls']
+118,1040,['Jar']
+13,1041,"['Tinctures', 'Pre-Rolls', 'Tinctures']"
+659,1042,"['Live Resin', 'Jar']"
+960,1043,"['Edibles', 'Live Resin', 'Jar']"
+812,1044,"['Live Resin', 'Jar', 'Flower', 'Flower']"
+633,1045,"['Topicals', 'Tinctures', 'Topicals', 'Pre-Rolls']"
+266,1046,"['Tinctures', 'Edibles', 'Live Resin', 'Tinctures']"
+290,1047,['Tinctures']
+730,1048,"['Vape', 'Topicals']"
+96,1049,"['Live Resin', 'Pre-Rolls', 'Live Resin', 'Topicals']"
+989,1050,"['Edibles', 'Flower', 'Topicals']"
+446,1051,"['Flower', 'Topicals', 'Live Resin']"
+307,1052,"['Edibles', 'Edibles']"
+141,1053,"['Jar', 'Flower', 'Pre-Rolls']"
+962,1054,"['Vape', 'Live Resin', 'Flower']"
+205,1055,"['Pre-Rolls', 'Topicals', 'Live Resin', 'Jar']"
+733,1056,['Edibles']
+102,1057,['Flower']
+399,1058,"['Live Resin', 'Jar', 'Topicals', 'Live Resin']"
+358,1059,"['Topicals', 'Pre-Rolls', 'Jar']"
+283,1060,"['Live Resin', 'Vape', 'Live Resin']"
+922,1061,"['Vape', 'Jar']"
+837,1062,"['Topicals', 'Pre-Rolls']"
+295,1063,"['Flower', 'Tinctures', 'Flower']"
+120,1064,"['Jar', 'Pre-Rolls', 'Jar']"
+938,1065,['Jar']
+767,1066,"['Vape', 'Jar', 'Edibles', 'Tinctures']"
+202,1067,"['Jar', 'Live Resin']"
+471,1068,['Live Resin']
+183,1069,"['Live Resin', 'Live Resin', 'Pre-Rolls', 'Live Resin']"
+476,1070,['Tinctures']
+482,1071,"['Vape', 'Jar', 'Tinctures', 'Live Resin']"
+675,1072,"['Vape', 'Live Resin', 'Edibles', 'Edibles']"
+917,1073,['Live Resin']
+398,1074,"['Pre-Rolls', 'Edibles']"
+536,1075,"['Jar', 'Vape']"
+371,1076,"['Flower', 'Jar']"
+489,1077,"['Topicals', 'Tinctures']"
+974,1078,"['Tinctures', 'Tinctures']"
+431,1079,"['Flower', 'Vape']"
+916,1080,"['Tinctures', 'Topicals']"
+941,1081,"['Jar', 'Flower', 'Jar']"
+771,1082,['Jar']
+33,1083,"['Tinctures', 'Flower', 'Jar']"
+433,1084,"['Vape', 'Tinctures', 'Pre-Rolls']"
+880,1085,"['Jar', 'Pre-Rolls', 'Vape', 'Topicals']"
+710,1086,['Vape']
+214,1087,"['Tinctures', 'Live Resin', 'Flower']"
+810,1088,['Jar']
+258,1089,"['Topicals', 'Pre-Rolls', 'Topicals']"
+619,1090,"['Pre-Rolls', 'Tinctures', 'Edibles', 'Edibles']"
+300,1091,['Topicals']
+185,1092,"['Pre-Rolls', 'Pre-Rolls']"
+639,1093,"['Vape', 'Flower', 'Pre-Rolls']"
+999,1094,"['Live Resin', 'Jar']"
+47,1095,"['Vape', 'Pre-Rolls', 'Pre-Rolls']"
+839,1096,['Live Resin']
+285,1097,"['Live Resin', 'Jar', 'Flower', 'Vape']"
+902,1098,['Tinctures']
+439,1099,"['Vape', 'Edibles']"
+829,1100,"['Edibles', 'Live Resin']"
+72,1101,['Edibles']
+485,1102,"['Jar', 'Jar', 'Tinctures']"
+336,1103,"['Live Resin', 'Live Resin']"
+879,1104,"['Live Resin', 'Tinctures']"
+349,1105,['Topicals']
+103,1106,"['Topicals', 'Pre-Rolls']"
+524,1107,"['Vape', 'Edibles', 'Live Resin', 'Jar']"
+564,1108,"['Topicals', 'Edibles', 'Jar']"
+452,1109,['Tinctures']
+21,1110,"['Vape', 'Flower']"
+89,1111,"['Flower', 'Flower', 'Pre-Rolls', 'Edibles']"
+856,1112,['Vape']
+867,1113,"['Topicals', 'Pre-Rolls', 'Edibles', 'Vape']"
+507,1114,['Vape']
+635,1115,"['Flower', 'Edibles']"
+631,1116,"['Pre-Rolls', 'Topicals', 'Pre-Rolls', 'Topicals']"
+579,1117,['Jar']
+194,1118,"['Live Resin', 'Vape', 'Edibles']"
+177,1119,['Topicals']
+307,1120,"['Jar', 'Vape', 'Live Resin', 'Pre-Rolls']"
+715,1121,['Edibles']
+188,1122,"['Vape', 'Jar', 'Live Resin']"
+43,1123,"['Topicals', 'Vape', 'Flower']"
+904,1124,"['Jar', 'Flower']"
+173,1125,"['Pre-Rolls', 'Topicals', 'Tinctures', 'Tinctures']"
+294,1126,['Pre-Rolls']
+574,1127,"['Vape', 'Tinctures', 'Tinctures', 'Jar']"
+225,1128,['Jar']
+456,1129,['Edibles']
+316,1130,"['Pre-Rolls', 'Live Resin', 'Vape']"
+274,1131,"['Vape', 'Jar']"
+791,1132,"['Edibles', 'Topicals', 'Pre-Rolls', 'Edibles']"
+274,1133,"['Flower', 'Edibles', 'Pre-Rolls', 'Flower']"
+80,1134,['Jar']
+788,1135,"['Live Resin', 'Vape', 'Flower', 'Vape']"
+509,1136,"['Edibles', 'Vape', 'Flower']"
+173,1137,['Vape']
+225,1138,"['Vape', 'Tinctures', 'Tinctures']"
+276,1139,"['Live Resin', 'Flower']"
+354,1140,"['Tinctures', 'Live Resin', 'Pre-Rolls']"
+439,1141,"['Edibles', 'Pre-Rolls']"
+800,1142,"['Pre-Rolls', 'Edibles', 'Edibles']"
+344,1143,"['Tinctures', 'Live Resin', 'Edibles', 'Topicals']"
+816,1144,"['Flower', 'Live Resin']"
+202,1145,"['Live Resin', 'Topicals', 'Edibles']"
+514,1146,"['Vape', 'Topicals', 'Live Resin']"
+844,1147,"['Jar', 'Vape']"
+399,1148,"['Vape', 'Pre-Rolls', 'Edibles', 'Tinctures']"
+587,1149,['Vape']
+262,1150,"['Live Resin', 'Live Resin', 'Tinctures']"
+460,1151,"['Live Resin', 'Live Resin', 'Vape', 'Topicals']"
+584,1152,"['Tinctures', 'Topicals', 'Tinctures']"
+780,1153,"['Topicals', 'Live Resin', 'Live Resin']"
+12,1154,"['Jar', 'Pre-Rolls']"
+170,1155,"['Edibles', 'Pre-Rolls', 'Jar', 'Topicals']"
+368,1156,"['Flower', 'Vape']"
+896,1157,['Tinctures']
+301,1158,"['Flower', 'Topicals', 'Vape']"
+792,1159,"['Live Resin', 'Jar', 'Flower']"
+549,1160,['Flower']
+379,1161,"['Flower', 'Edibles', 'Jar']"
+764,1162,"['Live Resin', 'Tinctures', 'Live Resin']"
+231,1163,"['Vape', 'Topicals', 'Vape', 'Jar']"
+388,1164,"['Vape', 'Vape', 'Pre-Rolls', 'Topicals']"
+863,1165,"['Flower', 'Tinctures']"
+780,1166,"['Tinctures', 'Flower', 'Edibles', 'Topicals']"
+141,1167,['Edibles']
+429,1168,"['Vape', 'Live Resin', 'Tinctures']"
+573,1169,['Edibles']
+582,1170,"['Vape', 'Vape', 'Jar', 'Topicals']"
+43,1171,['Topicals']
+288,1172,"['Pre-Rolls', 'Jar', 'Flower', 'Flower']"
+705,1173,['Topicals']
+479,1174,"['Tinctures', 'Tinctures']"
+178,1175,"['Topicals', 'Live Resin', 'Topicals']"
+203,1176,"['Vape', 'Tinctures']"
+529,1177,"['Jar', 'Jar', 'Live Resin']"
+445,1178,"['Edibles', 'Pre-Rolls', 'Tinctures', 'Flower']"
+752,1179,"['Vape', 'Jar']"
+724,1180,"['Topicals', 'Live Resin']"
+273,1181,"['Jar', 'Pre-Rolls']"
+65,1182,['Flower']
+669,1183,"['Vape', 'Flower']"
+13,1184,['Flower']
+981,1185,"['Topicals', 'Live Resin', 'Jar', 'Edibles']"
+4,1186,"['Topicals', 'Vape', 'Live Resin']"
+610,1187,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls', 'Topicals']"
+348,1188,['Topicals']
+233,1189,"['Tinctures', 'Edibles']"
+513,1190,"['Live Resin', 'Vape', 'Flower', 'Jar']"
+896,1191,"['Pre-Rolls', 'Topicals', 'Tinctures', 'Tinctures']"
+346,1192,"['Tinctures', 'Jar', 'Flower']"
+641,1193,"['Pre-Rolls', 'Tinctures', 'Vape']"
+907,1194,"['Vape', 'Live Resin', 'Tinctures']"
+321,1195,"['Live Resin', 'Tinctures', 'Tinctures']"
+494,1196,['Tinctures']
+760,1197,"['Flower', 'Live Resin']"
+967,1198,"['Topicals', 'Pre-Rolls']"
+275,1199,"['Tinctures', 'Flower']"
+179,1200,"['Tinctures', 'Jar']"
+94,1201,"['Edibles', 'Vape', 'Vape']"
+401,1202,"['Live Resin', 'Topicals', 'Flower']"
+744,1203,"['Tinctures', 'Live Resin', 'Vape']"
+286,1204,['Tinctures']
+241,1205,"['Pre-Rolls', 'Flower']"
+329,1206,"['Edibles', 'Jar', 'Flower']"
+799,1207,"['Tinctures', 'Vape']"
+605,1208,"['Edibles', 'Flower', 'Live Resin']"
+618,1209,['Pre-Rolls']
+17,1210,"['Pre-Rolls', 'Live Resin', 'Flower']"
+856,1211,"['Flower', 'Topicals', 'Vape']"
+818,1212,"['Topicals', 'Pre-Rolls']"
+34,1213,"['Topicals', 'Edibles', 'Edibles', 'Vape']"
+596,1214,"['Pre-Rolls', 'Edibles', 'Vape']"
+800,1215,"['Tinctures', 'Flower', 'Live Resin']"
+226,1216,['Edibles']
+489,1217,"['Pre-Rolls', 'Flower']"
+547,1218,"['Tinctures', 'Topicals', 'Topicals']"
+80,1219,['Live Resin']
+269,1220,['Pre-Rolls']
+689,1221,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin', 'Edibles']"
+438,1222,"['Jar', 'Tinctures', 'Vape', 'Vape']"
+52,1223,"['Jar', 'Tinctures', 'Flower']"
+313,1224,"['Edibles', 'Jar', 'Vape', 'Edibles']"
+501,1225,"['Jar', 'Tinctures', 'Pre-Rolls']"
+867,1226,"['Flower', 'Flower']"
+664,1227,"['Jar', 'Edibles', 'Pre-Rolls', 'Flower']"
+651,1228,"['Vape', 'Flower', 'Pre-Rolls']"
+421,1229,"['Pre-Rolls', 'Jar', 'Live Resin', 'Live Resin']"
+755,1230,['Topicals']
+97,1231,"['Tinctures', 'Jar']"
+301,1232,['Flower']
+228,1233,['Edibles']
+467,1234,['Edibles']
+518,1235,"['Jar', 'Edibles', 'Flower']"
+980,1236,"['Vape', 'Live Resin']"
+929,1237,['Tinctures']
+536,1238,['Topicals']
+269,1239,"['Edibles', 'Jar', 'Tinctures', 'Edibles']"
+283,1240,"['Live Resin', 'Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+218,1241,"['Flower', 'Pre-Rolls', 'Flower', 'Jar']"
+469,1242,"['Jar', 'Vape', 'Jar']"
+53,1243,"['Vape', 'Flower', 'Flower', 'Live Resin']"
+406,1244,"['Live Resin', 'Vape']"
+746,1245,['Edibles']
+385,1246,"['Live Resin', 'Vape', 'Tinctures']"
+85,1247,"['Tinctures', 'Pre-Rolls', 'Jar', 'Topicals']"
+556,1248,['Live Resin']
+771,1249,"['Flower', 'Tinctures']"
+463,1250,['Jar']
+864,1251,"['Pre-Rolls', 'Edibles', 'Topicals', 'Pre-Rolls']"
+668,1252,"['Tinctures', 'Jar', 'Live Resin']"
+987,1253,['Topicals']
+877,1254,"['Live Resin', 'Topicals', 'Flower', 'Jar']"
+360,1255,"['Jar', 'Live Resin', 'Pre-Rolls', 'Edibles']"
+900,1256,"['Live Resin', 'Edibles', 'Edibles']"
+426,1257,"['Topicals', 'Pre-Rolls', 'Jar', 'Flower']"
+263,1258,"['Pre-Rolls', 'Jar', 'Tinctures']"
+918,1259,"['Tinctures', 'Edibles', 'Flower']"
+425,1260,"['Tinctures', 'Vape', 'Flower', 'Flower']"
+870,1261,"['Pre-Rolls', 'Pre-Rolls']"
+479,1262,"['Pre-Rolls', 'Tinctures', 'Tinctures', 'Live Resin']"
+135,1263,"['Live Resin', 'Tinctures', 'Flower', 'Tinctures']"
+696,1264,['Jar']
+898,1265,"['Live Resin', 'Edibles', 'Vape', 'Jar']"
+398,1266,['Pre-Rolls']
+774,1267,"['Live Resin', 'Vape', 'Flower']"
+240,1268,['Vape']
+414,1269,"['Flower', 'Vape', 'Pre-Rolls']"
+567,1270,"['Pre-Rolls', 'Pre-Rolls', 'Flower']"
+947,1271,['Pre-Rolls']
+829,1272,"['Flower', 'Flower', 'Tinctures']"
+923,1273,"['Jar', 'Live Resin', 'Tinctures', 'Live Resin']"
+988,1274,"['Topicals', 'Jar']"
+801,1275,['Jar']
+69,1276,"['Flower', 'Tinctures']"
+377,1277,"['Tinctures', 'Tinctures', 'Flower']"
+675,1278,['Flower']
+305,1279,['Topicals']
+904,1280,"['Pre-Rolls', 'Vape']"
+711,1281,"['Tinctures', 'Flower', 'Live Resin']"
+90,1282,"['Edibles', 'Live Resin', 'Jar']"
+532,1283,"['Topicals', 'Jar', 'Jar']"
+382,1284,"['Live Resin', 'Tinctures']"
+837,1285,"['Edibles', 'Jar', 'Vape']"
+530,1286,"['Pre-Rolls', 'Vape']"
+765,1287,"['Pre-Rolls', 'Jar', 'Flower', 'Flower']"
+624,1288,"['Vape', 'Tinctures']"
+585,1289,['Vape']
+35,1290,"['Topicals', 'Flower']"
+961,1291,"['Jar', 'Live Resin', 'Live Resin']"
+62,1292,['Vape']
+153,1293,"['Edibles', 'Pre-Rolls', 'Flower']"
+464,1294,"['Edibles', 'Vape', 'Flower']"
+487,1295,"['Edibles', 'Jar', 'Jar']"
+947,1296,"['Flower', 'Edibles', 'Vape', 'Tinctures']"
+713,1297,"['Live Resin', 'Topicals']"
+171,1298,"['Live Resin', 'Flower', 'Jar']"
+591,1299,"['Jar', 'Edibles']"
+864,1300,"['Vape', 'Live Resin', 'Jar']"
+113,1301,"['Topicals', 'Topicals', 'Topicals']"
+12,1302,"['Flower', 'Vape']"
+796,1303,"['Topicals', 'Vape']"
+530,1304,"['Jar', 'Tinctures', 'Edibles']"
+316,1305,"['Live Resin', 'Tinctures']"
+343,1306,"['Edibles', 'Topicals', 'Pre-Rolls', 'Flower']"
+42,1307,"['Edibles', 'Edibles']"
+715,1308,['Vape']
+466,1309,"['Jar', 'Edibles', 'Topicals', 'Edibles']"
+666,1310,"['Jar', 'Flower']"
+862,1311,"['Edibles', 'Flower', 'Topicals', 'Live Resin']"
+858,1312,['Edibles']
+576,1313,['Vape']
+395,1314,"['Jar', 'Vape', 'Topicals']"
+21,1315,"['Jar', 'Tinctures', 'Topicals', 'Edibles']"
+298,1316,['Tinctures']
+242,1317,"['Edibles', 'Topicals', 'Edibles']"
+373,1318,"['Edibles', 'Edibles']"
+422,1319,['Edibles']
+771,1320,"['Flower', 'Pre-Rolls', 'Edibles']"
+904,1321,"['Vape', 'Pre-Rolls']"
+439,1322,['Live Resin']
+35,1323,['Topicals']
+346,1324,"['Live Resin', 'Flower', 'Pre-Rolls']"
+922,1325,"['Flower', 'Topicals', 'Flower', 'Jar']"
+38,1326,"['Edibles', 'Topicals', 'Live Resin', 'Tinctures']"
+234,1327,['Flower']
+723,1328,"['Edibles', 'Topicals']"
+254,1329,"['Jar', 'Topicals', 'Pre-Rolls']"
+455,1330,"['Vape', 'Vape', 'Live Resin', 'Pre-Rolls']"
+274,1331,"['Topicals', 'Flower', 'Live Resin', 'Topicals']"
+937,1332,['Tinctures']
+436,1333,"['Live Resin', 'Topicals']"
+607,1334,"['Live Resin', 'Flower', 'Tinctures']"
+522,1335,"['Edibles', 'Tinctures']"
+252,1336,"['Topicals', 'Edibles', 'Vape', 'Jar']"
+217,1337,"['Edibles', 'Flower', 'Jar']"
+28,1338,['Tinctures']
+406,1339,"['Jar', 'Live Resin']"
+495,1340,"['Tinctures', 'Edibles', 'Flower']"
+661,1341,"['Live Resin', 'Jar', 'Tinctures']"
+451,1342,['Flower']
+682,1343,['Flower']
+217,1344,"['Pre-Rolls', 'Topicals', 'Jar', 'Edibles']"
+23,1345,"['Pre-Rolls', 'Tinctures']"
+838,1346,"['Flower', 'Jar', 'Topicals', 'Flower']"
+415,1347,['Topicals']
+483,1348,"['Topicals', 'Jar', 'Live Resin', 'Topicals']"
+718,1349,"['Topicals', 'Topicals', 'Edibles', 'Live Resin']"
+811,1350,['Tinctures']
+909,1351,"['Edibles', 'Flower', 'Flower', 'Live Resin']"
+927,1352,"['Flower', 'Edibles', 'Live Resin', 'Live Resin']"
+124,1353,"['Live Resin', 'Pre-Rolls']"
+562,1354,"['Tinctures', 'Tinctures', 'Flower']"
+956,1355,"['Edibles', 'Edibles', 'Edibles', 'Live Resin']"
+139,1356,['Jar']
+188,1357,['Flower']
+753,1358,"['Flower', 'Vape', 'Edibles']"
+188,1359,"['Topicals', 'Topicals', 'Edibles']"
+431,1360,"['Pre-Rolls', 'Jar', 'Live Resin']"
+421,1361,"['Tinctures', 'Tinctures', 'Tinctures']"
+910,1362,"['Jar', 'Pre-Rolls', 'Pre-Rolls']"
+879,1363,"['Tinctures', 'Edibles']"
+487,1364,"['Flower', 'Tinctures', 'Tinctures', 'Pre-Rolls']"
+934,1365,"['Flower', 'Flower']"
+589,1366,"['Vape', 'Jar', 'Jar']"
+658,1367,"['Tinctures', 'Jar', 'Edibles']"
+288,1368,"['Live Resin', 'Tinctures', 'Edibles', 'Live Resin']"
+795,1369,"['Topicals', 'Jar']"
+84,1370,"['Topicals', 'Live Resin']"
+630,1371,"['Tinctures', 'Pre-Rolls']"
+17,1372,"['Pre-Rolls', 'Tinctures', 'Vape', 'Live Resin']"
+790,1373,"['Live Resin', 'Edibles', 'Topicals', 'Edibles']"
+525,1374,"['Topicals', 'Tinctures']"
+463,1375,['Live Resin']
+521,1376,"['Live Resin', 'Flower', 'Jar', 'Flower']"
+663,1377,"['Pre-Rolls', 'Edibles', 'Live Resin']"
+520,1378,"['Pre-Rolls', 'Live Resin']"
+442,1379,"['Edibles', 'Edibles']"
+337,1380,"['Vape', 'Pre-Rolls', 'Flower', 'Jar']"
+224,1381,"['Pre-Rolls', 'Topicals']"
+515,1382,"['Topicals', 'Jar', 'Tinctures', 'Live Resin']"
+779,1383,['Edibles']
+338,1384,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+693,1385,['Tinctures']
+613,1386,"['Topicals', 'Vape']"
+828,1387,"['Edibles', 'Jar', 'Jar', 'Vape']"
+847,1388,"['Pre-Rolls', 'Vape', 'Flower']"
+48,1389,"['Flower', 'Vape', 'Jar']"
+397,1390,['Flower']
+483,1391,['Edibles']
+770,1392,['Flower']
+211,1393,['Pre-Rolls']
+587,1394,"['Edibles', 'Jar', 'Edibles', 'Live Resin']"
+425,1395,"['Topicals', 'Topicals']"
+210,1396,['Vape']
+312,1397,['Tinctures']
+697,1398,['Flower']
+833,1399,"['Tinctures', 'Topicals']"
+174,1400,"['Flower', 'Jar', 'Live Resin', 'Vape']"
+714,1401,"['Tinctures', 'Edibles']"
+528,1402,['Topicals']
+711,1403,"['Edibles', 'Live Resin', 'Live Resin']"
+633,1404,"['Jar', 'Pre-Rolls']"
+890,1405,"['Jar', 'Edibles', 'Vape']"
+869,1406,"['Edibles', 'Vape']"
+516,1407,"['Flower', 'Jar']"
+775,1408,"['Edibles', 'Jar']"
+494,1409,"['Edibles', 'Live Resin', 'Jar']"
+410,1410,['Tinctures']
+25,1411,['Vape']
+760,1412,"['Jar', 'Topicals']"
+865,1413,['Jar']
+323,1414,"['Jar', 'Tinctures']"
+818,1415,"['Edibles', 'Jar', 'Live Resin']"
+653,1416,"['Topicals', 'Flower', 'Tinctures', 'Vape']"
+331,1417,"['Edibles', 'Tinctures']"
+869,1418,"['Pre-Rolls', 'Vape']"
+23,1419,"['Jar', 'Live Resin']"
+865,1420,['Vape']
+687,1421,"['Tinctures', 'Live Resin', 'Topicals', 'Pre-Rolls']"
+653,1422,"['Vape', 'Pre-Rolls']"
+310,1423,"['Jar', 'Topicals']"
+585,1424,"['Topicals', 'Topicals', 'Tinctures']"
+142,1425,"['Jar', 'Edibles', 'Edibles', 'Edibles']"
+143,1426,"['Tinctures', 'Tinctures', 'Flower']"
+849,1427,"['Topicals', 'Flower', 'Flower', 'Pre-Rolls']"
+121,1428,"['Live Resin', 'Edibles', 'Pre-Rolls', 'Pre-Rolls']"
+712,1429,"['Flower', 'Jar', 'Vape']"
+467,1430,"['Live Resin', 'Flower', 'Vape', 'Pre-Rolls']"
+61,1431,['Vape']
+269,1432,['Topicals']
+664,1433,"['Tinctures', 'Live Resin', 'Vape', 'Edibles']"
+878,1434,"['Vape', 'Jar', 'Jar', 'Flower']"
+575,1435,"['Vape', 'Tinctures']"
+433,1436,"['Topicals', 'Edibles', 'Flower']"
+784,1437,"['Pre-Rolls', 'Pre-Rolls']"
+717,1438,"['Live Resin', 'Tinctures', 'Live Resin', 'Tinctures']"
+784,1439,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls']"
+80,1440,['Vape']
+559,1441,"['Live Resin', 'Topicals', 'Edibles']"
+886,1442,['Edibles']
+412,1443,"['Tinctures', 'Jar', 'Live Resin', 'Flower']"
+700,1444,"['Jar', 'Vape']"
+741,1445,"['Jar', 'Live Resin', 'Jar']"
+454,1446,['Edibles']
+31,1447,"['Pre-Rolls', 'Topicals']"
+417,1448,"['Tinctures', 'Tinctures']"
+401,1449,['Flower']
+211,1450,['Pre-Rolls']
+192,1451,"['Tinctures', 'Flower', 'Vape', 'Vape']"
+860,1452,"['Vape', 'Live Resin', 'Tinctures']"
+63,1453,"['Edibles', 'Flower']"
+781,1454,"['Tinctures', 'Edibles', 'Vape', 'Live Resin']"
+72,1455,"['Jar', 'Pre-Rolls']"
+412,1456,"['Pre-Rolls', 'Vape', 'Vape']"
+782,1457,['Live Resin']
+167,1458,"['Flower', 'Edibles']"
+592,1459,"['Flower', 'Topicals', 'Vape', 'Live Resin']"
+954,1460,"['Edibles', 'Jar', 'Vape']"
+986,1461,"['Jar', 'Tinctures', 'Jar', 'Pre-Rolls']"
+693,1462,['Vape']
+918,1463,"['Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+901,1464,['Flower']
+16,1465,"['Edibles', 'Flower', 'Edibles']"
+486,1466,"['Topicals', 'Vape', 'Vape']"
+197,1467,"['Vape', 'Tinctures', 'Flower', 'Flower']"
+967,1468,"['Jar', 'Flower']"
+830,1469,"['Vape', 'Vape', 'Tinctures', 'Pre-Rolls']"
+595,1470,['Vape']
+596,1471,"['Flower', 'Tinctures']"
+182,1472,"['Vape', 'Topicals', 'Tinctures']"
+786,1473,"['Pre-Rolls', 'Tinctures', 'Edibles', 'Jar']"
+858,1474,"['Flower', 'Edibles']"
+522,1475,"['Jar', 'Tinctures', 'Edibles', 'Jar']"
+860,1476,"['Jar', 'Live Resin', 'Topicals', 'Flower']"
+631,1477,"['Tinctures', 'Flower']"
+83,1478,"['Pre-Rolls', 'Topicals', 'Topicals']"
+690,1479,['Flower']
+581,1480,"['Edibles', 'Jar', 'Jar', 'Topicals']"
+836,1481,"['Flower', 'Flower', 'Topicals', 'Topicals']"
+550,1482,"['Flower', 'Edibles', 'Pre-Rolls']"
+953,1483,['Live Resin']
+164,1484,"['Topicals', 'Vape', 'Jar', 'Vape']"
+503,1485,['Vape']
+123,1486,"['Edibles', 'Edibles', 'Pre-Rolls']"
+576,1487,['Pre-Rolls']
+158,1488,['Jar']
+429,1489,"['Edibles', 'Tinctures', 'Edibles', 'Pre-Rolls']"
+720,1490,"['Pre-Rolls', 'Pre-Rolls']"
+331,1491,"['Tinctures', 'Vape']"
+989,1492,"['Flower', 'Pre-Rolls']"
+905,1493,"['Live Resin', 'Live Resin']"
+788,1494,"['Tinctures', 'Pre-Rolls', 'Topicals']"
+209,1495,['Topicals']
+792,1496,"['Jar', 'Vape', 'Pre-Rolls', 'Tinctures']"
+824,1497,"['Flower', 'Edibles', 'Edibles']"
+239,1498,['Pre-Rolls']
+475,1499,"['Pre-Rolls', 'Pre-Rolls']"
+93,1500,"['Vape', 'Live Resin', 'Live Resin', 'Vape']"
+469,1501,"['Flower', 'Tinctures', 'Edibles', 'Live Resin']"
+756,1502,"['Flower', 'Tinctures', 'Flower']"
+937,1503,"['Pre-Rolls', 'Flower', 'Live Resin']"
+945,1504,['Jar']
+7,1505,['Topicals']
+547,1506,"['Vape', 'Tinctures']"
+434,1507,"['Pre-Rolls', 'Topicals', 'Pre-Rolls']"
+843,1508,"['Flower', 'Pre-Rolls']"
+851,1509,"['Jar', 'Live Resin', 'Pre-Rolls']"
+316,1510,"['Live Resin', 'Edibles', 'Edibles', 'Tinctures']"
+626,1511,"['Tinctures', 'Flower', 'Topicals', 'Pre-Rolls']"
+269,1512,"['Jar', 'Vape', 'Live Resin', 'Topicals']"
+176,1513,"['Edibles', 'Edibles', 'Jar']"
+415,1514,['Pre-Rolls']
+602,1515,"['Flower', 'Edibles', 'Pre-Rolls', 'Vape']"
+299,1516,"['Edibles', 'Tinctures']"
+162,1517,"['Jar', 'Jar']"
+31,1518,['Flower']
+212,1519,"['Topicals', 'Live Resin']"
+736,1520,"['Edibles', 'Vape', 'Tinctures', 'Flower']"
+713,1521,"['Topicals', 'Jar', 'Edibles', 'Edibles']"
+606,1522,"['Live Resin', 'Vape']"
+549,1523,"['Edibles', 'Pre-Rolls', 'Jar', 'Flower']"
+704,1524,"['Tinctures', 'Live Resin']"
+977,1525,"['Vape', 'Pre-Rolls', 'Jar']"
+681,1526,['Topicals']
+241,1527,"['Live Resin', 'Jar']"
+996,1528,"['Flower', 'Flower']"
+906,1529,['Live Resin']
+90,1530,"['Live Resin', 'Topicals']"
+691,1531,"['Topicals', 'Pre-Rolls', 'Live Resin']"
+790,1532,"['Topicals', 'Topicals', 'Edibles']"
+244,1533,['Live Resin']
+981,1534,"['Vape', 'Jar', 'Vape', 'Jar']"
+335,1535,"['Topicals', 'Tinctures', 'Topicals']"
+310,1536,"['Pre-Rolls', 'Edibles', 'Jar', 'Flower']"
+704,1537,"['Tinctures', 'Pre-Rolls', 'Tinctures']"
+656,1538,"['Flower', 'Live Resin', 'Jar']"
+616,1539,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+709,1540,"['Pre-Rolls', 'Jar', 'Edibles', 'Jar']"
+20,1541,"['Topicals', 'Tinctures', 'Topicals', 'Flower']"
+116,1542,"['Tinctures', 'Flower', 'Live Resin', 'Edibles']"
+290,1543,"['Live Resin', 'Jar', 'Edibles', 'Tinctures']"
+368,1544,"['Flower', 'Flower', 'Live Resin']"
+794,1545,"['Jar', 'Vape']"
+580,1546,"['Tinctures', 'Tinctures']"
+626,1547,"['Topicals', 'Flower', 'Tinctures']"
+429,1548,"['Jar', 'Pre-Rolls']"
+461,1549,"['Pre-Rolls', 'Flower']"
+28,1550,"['Tinctures', 'Edibles']"
+390,1551,"['Jar', 'Pre-Rolls']"
+614,1552,"['Vape', 'Live Resin']"
+184,1553,"['Pre-Rolls', 'Pre-Rolls']"
+66,1554,['Topicals']
+632,1555,"['Vape', 'Topicals', 'Flower', 'Tinctures']"
+349,1556,"['Vape', 'Tinctures']"
+840,1557,"['Live Resin', 'Live Resin', 'Edibles']"
+552,1558,"['Jar', 'Pre-Rolls', 'Flower']"
+450,1559,"['Pre-Rolls', 'Pre-Rolls']"
+195,1560,"['Pre-Rolls', 'Live Resin', 'Flower']"
+3,1561,"['Flower', 'Flower']"
+377,1562,"['Edibles', 'Live Resin', 'Topicals', 'Edibles']"
+265,1563,"['Jar', 'Topicals']"
+622,1564,"['Pre-Rolls', 'Topicals', 'Live Resin']"
+544,1565,"['Edibles', 'Vape', 'Edibles', 'Tinctures']"
+167,1566,['Vape']
+982,1567,"['Flower', 'Jar', 'Pre-Rolls', 'Flower']"
+279,1568,"['Jar', 'Edibles', 'Vape', 'Vape']"
+238,1569,"['Tinctures', 'Flower']"
+575,1570,"['Jar', 'Topicals', 'Topicals']"
+935,1571,"['Pre-Rolls', 'Tinctures', 'Flower', 'Topicals']"
+525,1572,"['Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+761,1573,"['Flower', 'Vape', 'Jar']"
+795,1574,"['Pre-Rolls', 'Jar']"
+285,1575,['Live Resin']
+675,1576,"['Live Resin', 'Topicals', 'Tinctures', 'Tinctures']"
+806,1577,"['Live Resin', 'Jar']"
+252,1578,"['Flower', 'Topicals']"
+832,1579,"['Flower', 'Flower', 'Vape', 'Tinctures']"
+56,1580,"['Jar', 'Vape', 'Jar', 'Flower']"
+715,1581,"['Vape', 'Vape']"
+151,1582,['Live Resin']
+802,1583,"['Pre-Rolls', 'Flower', 'Jar']"
+893,1584,['Live Resin']
+711,1585,['Jar']
+695,1586,"['Flower', 'Edibles', 'Pre-Rolls', 'Edibles']"
+842,1587,"['Flower', 'Flower']"
+759,1588,"['Tinctures', 'Topicals']"
+78,1589,"['Flower', 'Live Resin', 'Jar']"
+478,1590,"['Vape', 'Edibles', 'Jar', 'Vape']"
+743,1591,['Tinctures']
+552,1592,"['Tinctures', 'Edibles']"
+115,1593,"['Jar', 'Vape']"
+425,1594,['Flower']
+483,1595,"['Tinctures', 'Flower', 'Live Resin']"
+515,1596,['Vape']
+881,1597,"['Jar', 'Flower']"
+950,1598,['Vape']
+6,1599,"['Tinctures', 'Live Resin']"
+396,1600,"['Topicals', 'Vape', 'Live Resin', 'Flower']"
+650,1601,"['Topicals', 'Pre-Rolls', 'Live Resin']"
+386,1602,"['Vape', 'Vape', 'Flower', 'Jar']"
+977,1603,"['Vape', 'Vape']"
+657,1604,['Edibles']
+278,1605,"['Jar', 'Flower']"
+680,1606,"['Topicals', 'Jar', 'Jar']"
+228,1607,"['Pre-Rolls', 'Vape', 'Topicals']"
+695,1608,"['Jar', 'Flower', 'Jar', 'Flower']"
+117,1609,"['Topicals', 'Live Resin', 'Vape', 'Topicals']"
+352,1610,"['Vape', 'Pre-Rolls', 'Live Resin']"
+905,1611,"['Live Resin', 'Live Resin']"
+661,1612,"['Live Resin', 'Live Resin', 'Topicals']"
+541,1613,['Live Resin']
+594,1614,['Topicals']
+885,1615,"['Pre-Rolls', 'Live Resin', 'Live Resin', 'Live Resin']"
+774,1616,['Jar']
+777,1617,['Vape']
+925,1618,"['Vape', 'Topicals', 'Vape', 'Jar']"
+944,1619,['Vape']
+54,1620,"['Jar', 'Edibles']"
+106,1621,"['Topicals', 'Edibles', 'Live Resin', 'Flower']"
+389,1622,['Pre-Rolls']
+667,1623,"['Live Resin', 'Edibles']"
+872,1624,"['Flower', 'Pre-Rolls', 'Jar', 'Jar']"
+259,1625,['Tinctures']
+904,1626,['Jar']
+791,1627,"['Topicals', 'Live Resin', 'Pre-Rolls', 'Edibles']"
+595,1628,"['Live Resin', 'Tinctures']"
+944,1629,['Vape']
+741,1630,"['Vape', 'Pre-Rolls', 'Tinctures']"
+674,1631,"['Topicals', 'Edibles', 'Jar']"
+146,1632,['Edibles']
+923,1633,['Topicals']
+871,1634,['Live Resin']
+670,1635,['Edibles']
+524,1636,"['Flower', 'Jar', 'Live Resin', 'Edibles']"
+96,1637,"['Vape', 'Flower', 'Live Resin']"
+337,1638,"['Edibles', 'Flower', 'Live Resin', 'Topicals']"
+2,1639,['Topicals']
+205,1640,"['Tinctures', 'Jar']"
+963,1641,"['Live Resin', 'Jar', 'Live Resin']"
+460,1642,"['Topicals', 'Jar']"
+794,1643,['Flower']
+48,1644,"['Edibles', 'Edibles', 'Flower']"
+118,1645,['Flower']
+488,1646,"['Flower', 'Edibles', 'Live Resin', 'Pre-Rolls']"
+56,1647,['Vape']
+960,1648,['Pre-Rolls']
+614,1649,['Vape']
+160,1650,"['Topicals', 'Live Resin', 'Vape']"
+423,1651,"['Vape', 'Flower']"
+646,1652,['Flower']
+306,1653,"['Live Resin', 'Pre-Rolls']"
+44,1654,"['Topicals', 'Live Resin', 'Pre-Rolls', 'Tinctures']"
+457,1655,"['Pre-Rolls', 'Live Resin', 'Topicals', 'Topicals']"
+901,1656,"['Pre-Rolls', 'Vape']"
+50,1657,"['Topicals', 'Vape', 'Flower', 'Topicals']"
+209,1658,['Jar']
+32,1659,"['Edibles', 'Pre-Rolls', 'Tinctures']"
+526,1660,"['Topicals', 'Flower', 'Pre-Rolls', 'Edibles']"
+645,1661,"['Tinctures', 'Live Resin']"
+553,1662,"['Live Resin', 'Jar']"
+33,1663,"['Live Resin', 'Jar', 'Edibles', 'Jar']"
+531,1664,['Pre-Rolls']
+656,1665,"['Live Resin', 'Edibles', 'Live Resin']"
+920,1666,"['Flower', 'Pre-Rolls', 'Topicals']"
+887,1667,"['Edibles', 'Topicals', 'Topicals', 'Flower']"
+985,1668,['Tinctures']
+880,1669,"['Jar', 'Vape', 'Topicals']"
+68,1670,['Pre-Rolls']
+466,1671,"['Topicals', 'Topicals', 'Pre-Rolls', 'Flower']"
+164,1672,"['Tinctures', 'Vape', 'Topicals', 'Pre-Rolls']"
+412,1673,"['Pre-Rolls', 'Vape']"
+154,1674,"['Edibles', 'Edibles', 'Edibles', 'Edibles']"
+542,1675,['Pre-Rolls']
+170,1676,['Topicals']
+616,1677,"['Jar', 'Pre-Rolls', 'Tinctures', 'Vape']"
+969,1678,['Tinctures']
+425,1679,"['Jar', 'Edibles', 'Tinctures']"
+564,1680,['Live Resin']
+179,1681,"['Topicals', 'Flower']"
+667,1682,['Vape']
+892,1683,"['Jar', 'Topicals']"
+789,1684,"['Pre-Rolls', 'Live Resin']"
+304,1685,"['Flower', 'Pre-Rolls']"
+853,1686,"['Topicals', 'Vape', 'Live Resin']"
+307,1687,['Vape']
+863,1688,['Topicals']
+540,1689,"['Topicals', 'Topicals', 'Live Resin', 'Topicals']"
+335,1690,"['Flower', 'Topicals', 'Vape', 'Tinctures']"
+771,1691,"['Edibles', 'Live Resin', 'Topicals', 'Live Resin']"
+970,1692,"['Edibles', 'Topicals']"
+31,1693,"['Edibles', 'Live Resin', 'Vape', 'Live Resin']"
+677,1694,"['Flower', 'Topicals', 'Pre-Rolls']"
+872,1695,"['Vape', 'Jar']"
+20,1696,"['Jar', 'Live Resin', 'Live Resin', 'Live Resin']"
+469,1697,"['Topicals', 'Topicals', 'Pre-Rolls']"
+151,1698,"['Live Resin', 'Topicals', 'Edibles']"
+529,1699,"['Topicals', 'Flower']"
+520,1700,['Vape']
+676,1701,"['Jar', 'Flower']"
+594,1702,"['Jar', 'Vape', 'Live Resin']"
+990,1703,"['Edibles', 'Tinctures', 'Topicals']"
+348,1704,"['Tinctures', 'Flower', 'Edibles', 'Vape']"
+975,1705,"['Topicals', 'Topicals', 'Live Resin']"
+579,1706,"['Jar', 'Pre-Rolls']"
+189,1707,"['Edibles', 'Edibles', 'Pre-Rolls', 'Jar']"
+657,1708,"['Vape', 'Vape', 'Tinctures', 'Flower']"
+663,1709,"['Flower', 'Jar', 'Pre-Rolls', 'Topicals']"
+479,1710,['Pre-Rolls']
+647,1711,"['Edibles', 'Jar']"
+283,1712,['Vape']
+91,1713,"['Live Resin', 'Topicals']"
+78,1714,"['Tinctures', 'Flower']"
+430,1715,"['Live Resin', 'Vape']"
+553,1716,"['Edibles', 'Jar', 'Vape', 'Topicals']"
+3,1717,"['Live Resin', 'Pre-Rolls', 'Jar']"
+434,1718,"['Edibles', 'Edibles']"
+960,1719,"['Edibles', 'Tinctures']"
+607,1720,['Live Resin']
+702,1721,"['Live Resin', 'Flower']"
+116,1722,"['Jar', 'Edibles', 'Pre-Rolls', 'Topicals']"
+737,1723,"['Pre-Rolls', 'Jar', 'Jar']"
+615,1724,"['Pre-Rolls', 'Jar']"
+906,1725,"['Topicals', 'Edibles', 'Flower']"
+916,1726,"['Vape', 'Pre-Rolls']"
+395,1727,"['Edibles', 'Vape']"
+880,1728,"['Jar', 'Flower', 'Pre-Rolls', 'Topicals']"
+113,1729,"['Topicals', 'Vape', 'Vape', 'Topicals']"
+176,1730,"['Flower', 'Pre-Rolls', 'Vape', 'Flower']"
+820,1731,"['Edibles', 'Tinctures']"
+484,1732,"['Live Resin', 'Edibles']"
+416,1733,"['Tinctures', 'Vape']"
+402,1734,['Tinctures']
+136,1735,"['Jar', 'Jar', 'Topicals', 'Vape']"
+16,1736,"['Live Resin', 'Jar', 'Vape', 'Jar']"
+571,1737,"['Vape', 'Live Resin', 'Vape']"
+34,1738,"['Jar', 'Flower', 'Tinctures', 'Vape']"
+544,1739,['Live Resin']
+137,1740,"['Tinctures', 'Topicals', 'Live Resin', 'Edibles']"
+861,1741,['Jar']
+18,1742,"['Tinctures', 'Tinctures']"
+246,1743,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+640,1744,"['Pre-Rolls', 'Jar']"
+123,1745,"['Tinctures', 'Vape']"
+468,1746,"['Live Resin', 'Flower', 'Flower', 'Topicals']"
+59,1747,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls']"
+651,1748,"['Tinctures', 'Flower', 'Vape', 'Live Resin']"
+776,1749,"['Vape', 'Vape']"
+824,1750,"['Live Resin', 'Flower', 'Topicals']"
+180,1751,"['Topicals', 'Flower']"
+945,1752,"['Pre-Rolls', 'Pre-Rolls']"
+432,1753,"['Topicals', 'Jar', 'Tinctures']"
+200,1754,"['Live Resin', 'Flower', 'Topicals', 'Edibles']"
+689,1755,['Jar']
+923,1756,"['Edibles', 'Pre-Rolls', 'Jar', 'Topicals']"
+904,1757,"['Live Resin', 'Tinctures', 'Jar', 'Pre-Rolls']"
+271,1758,"['Flower', 'Topicals', 'Topicals', 'Topicals']"
+288,1759,"['Live Resin', 'Tinctures', 'Tinctures', 'Vape']"
+276,1760,"['Edibles', 'Vape']"
+224,1761,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+334,1762,"['Flower', 'Flower', 'Jar', 'Vape']"
+823,1763,"['Topicals', 'Pre-Rolls']"
+610,1764,"['Vape', 'Jar', 'Topicals']"
+391,1765,['Live Resin']
+646,1766,"['Flower', 'Pre-Rolls', 'Tinctures', 'Flower']"
+667,1767,['Vape']
+189,1768,['Tinctures']
+658,1769,"['Flower', 'Edibles']"
+260,1770,"['Live Resin', 'Edibles']"
+343,1771,"['Vape', 'Tinctures', 'Tinctures', 'Pre-Rolls']"
+535,1772,"['Flower', 'Pre-Rolls', 'Edibles', 'Flower']"
+697,1773,['Edibles']
+842,1774,"['Tinctures', 'Tinctures', 'Live Resin']"
+897,1775,"['Tinctures', 'Pre-Rolls', 'Jar']"
+497,1776,"['Flower', 'Vape', 'Live Resin', 'Live Resin']"
+922,1777,"['Live Resin', 'Edibles']"
+7,1778,"['Jar', 'Pre-Rolls', 'Jar']"
+84,1779,"['Live Resin', 'Topicals', 'Pre-Rolls']"
+183,1780,"['Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+12,1781,['Pre-Rolls']
+754,1782,"['Tinctures', 'Jar', 'Vape']"
+765,1783,['Live Resin']
+303,1784,['Topicals']
+830,1785,"['Topicals', 'Edibles', 'Tinctures']"
+678,1786,"['Vape', 'Pre-Rolls', 'Vape']"
+953,1787,"['Vape', 'Flower', 'Live Resin']"
+674,1788,"['Edibles', 'Jar']"
+147,1789,"['Edibles', 'Edibles', 'Vape']"
+306,1790,['Topicals']
+167,1791,"['Live Resin', 'Topicals', 'Topicals']"
+674,1792,"['Vape', 'Flower', 'Tinctures']"
+898,1793,['Vape']
+383,1794,"['Jar', 'Topicals', 'Live Resin', 'Tinctures']"
+221,1795,['Vape']
+418,1796,"['Flower', 'Tinctures', 'Pre-Rolls']"
+611,1797,"['Vape', 'Edibles']"
+20,1798,"['Topicals', 'Topicals']"
+600,1799,['Vape']
+93,1800,"['Jar', 'Tinctures']"
+962,1801,"['Flower', 'Topicals', 'Edibles']"
+949,1802,"['Edibles', 'Flower']"
+160,1803,"['Vape', 'Pre-Rolls', 'Live Resin']"
+980,1804,"['Flower', 'Flower', 'Topicals']"
+229,1805,"['Topicals', 'Edibles', 'Vape', 'Tinctures']"
+470,1806,"['Pre-Rolls', 'Topicals']"
+373,1807,"['Flower', 'Edibles', 'Edibles', 'Edibles']"
+255,1808,"['Topicals', 'Tinctures']"
+10,1809,"['Pre-Rolls', 'Live Resin', 'Edibles']"
+188,1810,"['Tinctures', 'Jar']"
+565,1811,"['Live Resin', 'Jar']"
+932,1812,"['Edibles', 'Vape', 'Live Resin', 'Tinctures']"
+273,1813,"['Vape', 'Edibles', 'Edibles']"
+584,1814,"['Flower', 'Vape']"
+463,1815,['Tinctures']
+415,1816,['Tinctures']
+843,1817,['Edibles']
+836,1818,"['Topicals', 'Flower', 'Vape']"
+950,1819,['Edibles']
+722,1820,"['Jar', 'Topicals', 'Pre-Rolls', 'Vape']"
+61,1821,"['Edibles', 'Edibles']"
+256,1822,['Vape']
+625,1823,['Tinctures']
+386,1824,"['Pre-Rolls', 'Jar']"
+665,1825,"['Edibles', 'Live Resin']"
+780,1826,"['Tinctures', 'Jar']"
+460,1827,"['Live Resin', 'Flower', 'Topicals', 'Edibles']"
+1,1828,"['Edibles', 'Flower', 'Tinctures', 'Edibles']"
+136,1829,['Live Resin']
+941,1830,"['Flower', 'Pre-Rolls', 'Flower']"
+773,1831,['Tinctures']
+301,1832,"['Vape', 'Flower']"
+249,1833,"['Topicals', 'Topicals']"
+385,1834,"['Jar', 'Flower', 'Live Resin']"
+326,1835,['Topicals']
+137,1836,"['Jar', 'Pre-Rolls', 'Flower', 'Live Resin']"
+865,1837,"['Pre-Rolls', 'Vape', 'Pre-Rolls', 'Live Resin']"
+784,1838,"['Tinctures', 'Edibles']"
+913,1839,"['Tinctures', 'Edibles', 'Jar', 'Flower']"
+707,1840,"['Live Resin', 'Edibles']"
+316,1841,['Flower']
+44,1842,"['Live Resin', 'Flower', 'Tinctures']"
+361,1843,"['Tinctures', 'Flower', 'Jar', 'Jar']"
+364,1844,"['Flower', 'Flower', 'Pre-Rolls', 'Topicals']"
+228,1845,"['Jar', 'Jar', 'Tinctures', 'Vape']"
+716,1846,"['Tinctures', 'Live Resin']"
+783,1847,['Flower']
+436,1848,"['Edibles', 'Pre-Rolls', 'Flower', 'Flower']"
+262,1849,"['Edibles', 'Topicals', 'Flower', 'Jar']"
+514,1850,"['Tinctures', 'Vape']"
+772,1851,"['Topicals', 'Tinctures']"
+82,1852,['Jar']
+717,1853,"['Live Resin', 'Topicals', 'Topicals']"
+546,1854,"['Vape', 'Tinctures']"
+835,1855,"['Pre-Rolls', 'Flower', 'Live Resin', 'Vape']"
+451,1856,"['Pre-Rolls', 'Vape']"
+809,1857,"['Pre-Rolls', 'Topicals', 'Pre-Rolls']"
+377,1858,"['Edibles', 'Tinctures', 'Edibles']"
+798,1859,"['Flower', 'Tinctures', 'Topicals', 'Vape']"
+965,1860,"['Jar', 'Live Resin']"
+286,1861,"['Live Resin', 'Tinctures']"
+696,1862,"['Tinctures', 'Vape', 'Tinctures', 'Flower']"
+17,1863,['Topicals']
+995,1864,"['Jar', 'Topicals']"
+249,1865,"['Pre-Rolls', 'Topicals', 'Jar', 'Jar']"
+895,1866,"['Jar', 'Live Resin', 'Topicals']"
+410,1867,['Jar']
+847,1868,"['Live Resin', 'Edibles']"
+719,1869,"['Flower', 'Jar']"
+279,1870,"['Edibles', 'Live Resin']"
+861,1871,"['Pre-Rolls', 'Vape', 'Live Resin']"
+899,1872,"['Jar', 'Flower', 'Edibles', 'Topicals']"
+921,1873,"['Topicals', 'Flower', 'Edibles']"
+523,1874,['Topicals']
+560,1875,"['Edibles', 'Pre-Rolls', 'Live Resin']"
+151,1876,"['Edibles', 'Topicals']"
+122,1877,"['Jar', 'Edibles']"
+361,1878,['Jar']
+896,1879,"['Edibles', 'Edibles', 'Topicals', 'Jar']"
+735,1880,['Tinctures']
+584,1881,"['Edibles', 'Edibles', 'Vape', 'Jar']"
+463,1882,['Pre-Rolls']
+511,1883,"['Pre-Rolls', 'Topicals', 'Jar']"
+255,1884,"['Topicals', 'Vape', 'Jar']"
+531,1885,"['Jar', 'Topicals']"
+379,1886,"['Live Resin', 'Live Resin']"
+284,1887,['Topicals']
+962,1888,['Tinctures']
+730,1889,"['Topicals', 'Pre-Rolls', 'Topicals']"
+410,1890,"['Pre-Rolls', 'Jar', 'Jar']"
+421,1891,['Flower']
+156,1892,"['Flower', 'Edibles']"
+203,1893,['Jar']
+984,1894,"['Vape', 'Live Resin']"
+131,1895,"['Tinctures', 'Jar']"
+237,1896,"['Topicals', 'Vape', 'Edibles', 'Live Resin']"
+439,1897,"['Jar', 'Tinctures']"
+40,1898,"['Flower', 'Pre-Rolls', 'Live Resin']"
+391,1899,['Tinctures']
+413,1900,"['Flower', 'Edibles', 'Jar']"
+827,1901,"['Flower', 'Edibles', 'Edibles']"
+475,1902,"['Jar', 'Topicals']"
+619,1903,['Tinctures']
+795,1904,"['Topicals', 'Topicals', 'Tinctures']"
+640,1905,"['Live Resin', 'Flower', 'Flower', 'Jar']"
+994,1906,"['Live Resin', 'Pre-Rolls']"
+542,1907,"['Edibles', 'Topicals', 'Vape']"
+418,1908,"['Topicals', 'Topicals', 'Jar']"
+291,1909,"['Pre-Rolls', 'Topicals', 'Vape', 'Edibles']"
+600,1910,"['Pre-Rolls', 'Jar', 'Vape', 'Live Resin']"
+76,1911,"['Vape', 'Flower', 'Flower']"
+133,1912,['Jar']
+382,1913,['Live Resin']
+596,1914,"['Topicals', 'Topicals']"
+318,1915,"['Topicals', 'Pre-Rolls', 'Vape', 'Tinctures']"
+581,1916,"['Edibles', 'Jar', 'Tinctures']"
+837,1917,"['Vape', 'Jar']"
+497,1918,"['Live Resin', 'Edibles', 'Flower']"
+992,1919,['Edibles']
+934,1920,"['Flower', 'Live Resin', 'Edibles', 'Vape']"
+876,1921,"['Pre-Rolls', 'Live Resin', 'Jar']"
+909,1922,['Tinctures']
+683,1923,['Topicals']
+927,1924,"['Topicals', 'Edibles', 'Topicals']"
+179,1925,"['Tinctures', 'Pre-Rolls']"
+139,1926,"['Vape', 'Tinctures', 'Tinctures']"
+767,1927,"['Vape', 'Live Resin', 'Pre-Rolls', 'Jar']"
+52,1928,"['Edibles', 'Tinctures', 'Flower', 'Vape']"
+975,1929,"['Pre-Rolls', 'Jar', 'Topicals', 'Live Resin']"
+263,1930,"['Edibles', 'Edibles', 'Pre-Rolls', 'Vape']"
+191,1931,['Live Resin']
+620,1932,['Topicals']
+538,1933,['Flower']
+397,1934,"['Edibles', 'Edibles', 'Jar', 'Edibles']"
+189,1935,['Topicals']
+170,1936,"['Topicals', 'Topicals', 'Jar', 'Edibles']"
+985,1937,['Tinctures']
+421,1938,['Live Resin']
+578,1939,"['Topicals', 'Vape', 'Topicals']"
+635,1940,"['Tinctures', 'Pre-Rolls', 'Vape', 'Tinctures']"
+132,1941,"['Live Resin', 'Topicals', 'Live Resin', 'Live Resin']"
+12,1942,['Flower']
+394,1943,"['Edibles', 'Vape', 'Pre-Rolls', 'Tinctures']"
+427,1944,"['Pre-Rolls', 'Edibles']"
+408,1945,"['Edibles', 'Flower']"
+75,1946,"['Vape', 'Jar']"
+990,1947,"['Flower', 'Jar', 'Jar', 'Jar']"
+465,1948,['Vape']
+972,1949,"['Pre-Rolls', 'Tinctures', 'Tinctures', 'Pre-Rolls']"
+954,1950,"['Edibles', 'Jar', 'Topicals', 'Jar']"
+583,1951,"['Edibles', 'Flower']"
+598,1952,['Tinctures']
+418,1953,"['Flower', 'Flower', 'Live Resin', 'Flower']"
+182,1954,"['Live Resin', 'Flower']"
+194,1955,"['Jar', 'Tinctures', 'Vape', 'Flower']"
+914,1956,"['Flower', 'Tinctures', 'Topicals', 'Topicals']"
+354,1957,"['Jar', 'Live Resin']"
+387,1958,"['Live Resin', 'Jar', 'Vape']"
+625,1959,"['Pre-Rolls', 'Flower', 'Live Resin', 'Topicals']"
+605,1960,"['Pre-Rolls', 'Jar', 'Pre-Rolls']"
+931,1961,"['Vape', 'Jar', 'Live Resin', 'Jar']"
+912,1962,"['Topicals', 'Edibles', 'Vape']"
+971,1963,['Live Resin']
+616,1964,"['Live Resin', 'Live Resin', 'Pre-Rolls']"
+674,1965,['Flower']
+841,1966,"['Topicals', 'Pre-Rolls']"
+159,1967,"['Vape', 'Flower']"
+603,1968,"['Jar', 'Vape']"
+937,1969,"['Tinctures', 'Flower', 'Tinctures', 'Vape']"
+755,1970,"['Topicals', 'Pre-Rolls', 'Vape', 'Pre-Rolls']"
+618,1971,"['Tinctures', 'Tinctures', 'Flower', 'Flower']"
+811,1972,"['Topicals', 'Flower', 'Jar', 'Tinctures']"
+975,1973,"['Edibles', 'Jar', 'Pre-Rolls']"
+752,1974,"['Vape', 'Topicals']"
+562,1975,"['Jar', 'Live Resin', 'Pre-Rolls', 'Edibles']"
+254,1976,"['Pre-Rolls', 'Tinctures']"
+221,1977,"['Flower', 'Flower', 'Pre-Rolls', 'Tinctures']"
+329,1978,"['Jar', 'Tinctures', 'Tinctures', 'Vape']"
+770,1979,"['Jar', 'Tinctures', 'Tinctures', 'Topicals']"
+567,1980,"['Vape', 'Pre-Rolls']"
+753,1981,"['Vape', 'Tinctures', 'Live Resin', 'Vape']"
+489,1982,"['Live Resin', 'Vape']"
+886,1983,"['Pre-Rolls', 'Tinctures']"
+996,1984,['Flower']
+410,1985,"['Tinctures', 'Live Resin']"
+570,1986,['Flower']
+528,1987,"['Vape', 'Tinctures', 'Topicals']"
+476,1988,['Tinctures']
+728,1989,"['Flower', 'Topicals', 'Tinctures', 'Tinctures']"
+508,1990,"['Tinctures', 'Edibles']"
+462,1991,"['Topicals', 'Pre-Rolls']"
+626,1992,"['Edibles', 'Vape', 'Pre-Rolls', 'Live Resin']"
+192,1993,['Topicals']
+382,1994,"['Tinctures', 'Live Resin', 'Edibles', 'Pre-Rolls']"
+939,1995,['Live Resin']
+800,1996,"['Jar', 'Flower', 'Jar', 'Topicals']"
+445,1997,"['Pre-Rolls', 'Topicals', 'Topicals']"
+13,1998,"['Edibles', 'Pre-Rolls']"
+309,1999,"['Tinctures', 'Live Resin', 'Vape', 'Jar']"
+125,2000,"['Flower', 'Pre-Rolls', 'Tinctures']"
+253,2001,"['Live Resin', 'Tinctures']"
+261,2002,"['Pre-Rolls', 'Tinctures', 'Topicals', 'Vape']"
+538,2003,"['Flower', 'Tinctures']"
+177,2004,"['Live Resin', 'Tinctures', 'Tinctures', 'Edibles']"
+51,2005,"['Flower', 'Tinctures', 'Vape']"
+536,2006,['Pre-Rolls']
+971,2007,"['Pre-Rolls', 'Pre-Rolls', 'Edibles', 'Flower']"
+888,2008,"['Pre-Rolls', 'Flower']"
+827,2009,"['Jar', 'Jar', 'Jar', 'Flower']"
+258,2010,"['Live Resin', 'Tinctures', 'Topicals', 'Live Resin']"
+917,2011,"['Live Resin', 'Edibles', 'Topicals', 'Jar']"
+623,2012,"['Vape', 'Pre-Rolls']"
+833,2013,['Flower']
+253,2014,"['Pre-Rolls', 'Vape']"
+98,2015,"['Vape', 'Live Resin', 'Jar']"
+336,2016,"['Vape', 'Edibles']"
+205,2017,"['Pre-Rolls', 'Jar', 'Tinctures']"
+618,2018,"['Topicals', 'Tinctures', 'Jar', 'Tinctures']"
+541,2019,"['Pre-Rolls', 'Topicals', 'Flower']"
+764,2020,"['Pre-Rolls', 'Pre-Rolls']"
+195,2021,"['Jar', 'Pre-Rolls', 'Jar']"
+783,2022,"['Tinctures', 'Edibles', 'Live Resin']"
+614,2023,['Live Resin']
+87,2024,"['Flower', 'Flower']"
+159,2025,"['Edibles', 'Flower']"
+130,2026,"['Live Resin', 'Tinctures']"
+413,2027,"['Jar', 'Tinctures', 'Vape', 'Pre-Rolls']"
+11,2028,"['Live Resin', 'Tinctures', 'Vape', 'Vape']"
+31,2029,"['Topicals', 'Live Resin']"
+5,2030,"['Tinctures', 'Edibles', 'Jar']"
+919,2031,"['Flower', 'Edibles', 'Edibles', 'Flower']"
+69,2032,['Topicals']
+297,2033,"['Jar', 'Flower', 'Live Resin', 'Tinctures']"
+305,2034,"['Jar', 'Topicals']"
+51,2035,"['Live Resin', 'Tinctures', 'Live Resin']"
+669,2036,"['Pre-Rolls', 'Topicals', 'Edibles']"
+675,2037,"['Jar', 'Flower', 'Flower', 'Tinctures']"
+716,2038,"['Edibles', 'Jar', 'Topicals', 'Pre-Rolls']"
+478,2039,['Flower']
+953,2040,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+409,2041,"['Jar', 'Jar', 'Topicals']"
+151,2042,"['Live Resin', 'Tinctures', 'Tinctures']"
+861,2043,"['Flower', 'Pre-Rolls', 'Vape', 'Flower']"
+632,2044,"['Jar', 'Jar', 'Pre-Rolls']"
+742,2045,['Tinctures']
+765,2046,"['Topicals', 'Live Resin', 'Live Resin', 'Edibles']"
+967,2047,"['Live Resin', 'Topicals']"
+69,2048,"['Topicals', 'Pre-Rolls']"
+980,2049,['Jar']
+812,2050,"['Tinctures', 'Flower', 'Jar']"
+313,2051,"['Pre-Rolls', 'Flower']"
+759,2052,"['Tinctures', 'Flower']"
+668,2053,"['Topicals', 'Jar', 'Vape', 'Topicals']"
+678,2054,"['Topicals', 'Tinctures']"
+233,2055,"['Topicals', 'Jar', 'Pre-Rolls']"
+874,2056,"['Edibles', 'Vape']"
+35,2057,['Pre-Rolls']
+892,2058,"['Flower', 'Tinctures', 'Live Resin', 'Edibles']"
+292,2059,['Flower']
+749,2060,"['Pre-Rolls', 'Topicals']"
+959,2061,"['Topicals', 'Jar', 'Jar', 'Flower']"
+578,2062,"['Flower', 'Tinctures', 'Live Resin']"
+73,2063,"['Topicals', 'Live Resin', 'Topicals', 'Live Resin']"
+223,2064,"['Edibles', 'Edibles', 'Jar', 'Edibles']"
+308,2065,"['Vape', 'Edibles']"
+122,2066,"['Flower', 'Tinctures', 'Jar']"
+18,2067,"['Pre-Rolls', 'Jar', 'Edibles']"
+210,2068,['Flower']
+529,2069,"['Edibles', 'Pre-Rolls', 'Tinctures']"
+832,2070,"['Tinctures', 'Pre-Rolls']"
+589,2071,"['Jar', 'Jar']"
+508,2072,['Edibles']
+330,2073,"['Pre-Rolls', 'Pre-Rolls']"
+156,2074,['Flower']
+923,2075,"['Pre-Rolls', 'Live Resin']"
+651,2076,"['Flower', 'Edibles']"
+864,2077,['Edibles']
+557,2078,"['Topicals', 'Pre-Rolls']"
+482,2079,"['Edibles', 'Edibles', 'Pre-Rolls', 'Flower']"
+136,2080,"['Edibles', 'Topicals', 'Edibles', 'Tinctures']"
+34,2081,"['Pre-Rolls', 'Flower', 'Pre-Rolls', 'Pre-Rolls']"
+606,2082,['Edibles']
+628,2083,"['Jar', 'Live Resin']"
+554,2084,['Jar']
+446,2085,"['Edibles', 'Live Resin', 'Flower', 'Flower']"
+660,2086,"['Vape', 'Tinctures', 'Vape']"
+336,2087,"['Flower', 'Live Resin', 'Edibles']"
+853,2088,"['Edibles', 'Vape', 'Tinctures', 'Tinctures']"
+688,2089,"['Edibles', 'Tinctures']"
+393,2090,"['Pre-Rolls', 'Vape', 'Vape']"
+305,2091,['Topicals']
+164,2092,['Flower']
+761,2093,"['Live Resin', 'Edibles']"
+805,2094,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls', 'Jar']"
+684,2095,"['Live Resin', 'Topicals']"
+963,2096,['Jar']
+715,2097,"['Edibles', 'Edibles', 'Vape', 'Jar']"
+139,2098,"['Flower', 'Tinctures']"
+304,2099,['Jar']
+931,2100,"['Edibles', 'Jar', 'Pre-Rolls']"
+12,2101,"['Edibles', 'Vape', 'Edibles', 'Edibles']"
+338,2102,"['Flower', 'Edibles', 'Edibles', 'Edibles']"
+636,2103,"['Tinctures', 'Tinctures']"
+993,2104,"['Flower', 'Vape']"
+727,2105,"['Pre-Rolls', 'Live Resin', 'Vape']"
+665,2106,['Jar']
+155,2107,"['Tinctures', 'Edibles']"
+57,2108,"['Pre-Rolls', 'Jar', 'Edibles']"
+532,2109,['Jar']
+188,2110,['Jar']
+240,2111,['Topicals']
+345,2112,"['Flower', 'Pre-Rolls', 'Vape']"
+852,2113,['Edibles']
+238,2114,"['Flower', 'Tinctures']"
+32,2115,"['Flower', 'Edibles', 'Jar', 'Topicals']"
+584,2116,['Flower']
+955,2117,"['Topicals', 'Jar', 'Flower']"
+497,2118,['Live Resin']
+437,2119,['Topicals']
+439,2120,['Tinctures']
+624,2121,"['Jar', 'Pre-Rolls', 'Topicals']"
+966,2122,"['Pre-Rolls', 'Flower', 'Jar']"
+820,2123,['Pre-Rolls']
+105,2124,['Jar']
+638,2125,"['Live Resin', 'Topicals']"
+966,2126,"['Jar', 'Jar', 'Tinctures']"
+268,2127,"['Flower', 'Live Resin', 'Topicals']"
+573,2128,"['Topicals', 'Edibles']"
+928,2129,"['Vape', 'Flower', 'Topicals']"
+636,2130,"['Live Resin', 'Live Resin', 'Jar']"
+411,2131,"['Pre-Rolls', 'Tinctures']"
+129,2132,"['Live Resin', 'Jar', 'Jar']"
+938,2133,['Pre-Rolls']
+961,2134,"['Flower', 'Edibles']"
+583,2135,"['Topicals', 'Live Resin', 'Vape', 'Jar']"
+963,2136,['Live Resin']
+848,2137,"['Jar', 'Pre-Rolls', 'Flower']"
+796,2138,"['Jar', 'Vape']"
+559,2139,"['Jar', 'Edibles', 'Edibles', 'Jar']"
+944,2140,"['Vape', 'Jar', 'Jar', 'Flower']"
+997,2141,"['Topicals', 'Vape']"
+837,2142,"['Jar', 'Jar', 'Live Resin']"
+35,2143,['Edibles']
+665,2144,"['Pre-Rolls', 'Jar', 'Vape', 'Live Resin']"
+878,2145,"['Topicals', 'Flower', 'Vape', 'Edibles']"
+379,2146,"['Live Resin', 'Vape', 'Tinctures']"
+412,2147,['Vape']
+547,2148,"['Vape', 'Topicals', 'Vape']"
+135,2149,"['Pre-Rolls', 'Vape']"
+901,2150,"['Jar', 'Flower', 'Flower']"
+5,2151,"['Topicals', 'Jar', 'Edibles']"
+88,2152,"['Vape', 'Edibles', 'Pre-Rolls', 'Flower']"
+486,2153,"['Vape', 'Flower', 'Pre-Rolls']"
+675,2154,"['Pre-Rolls', 'Tinctures']"
+374,2155,['Tinctures']
+252,2156,['Topicals']
+644,2157,"['Jar', 'Flower', 'Pre-Rolls']"
+958,2158,"['Topicals', 'Vape']"
+3,2159,"['Vape', 'Vape']"
+460,2160,['Flower']
+631,2161,['Vape']
+419,2162,"['Topicals', 'Tinctures', 'Edibles']"
+419,2163,"['Edibles', 'Topicals', 'Flower']"
+103,2164,"['Tinctures', 'Topicals', 'Tinctures', 'Live Resin']"
+959,2165,"['Vape', 'Topicals', 'Flower', 'Vape']"
+539,2166,['Edibles']
+441,2167,"['Vape', 'Tinctures', 'Edibles', 'Tinctures']"
+586,2168,"['Edibles', 'Edibles', 'Flower', 'Flower']"
+342,2169,"['Vape', 'Topicals', 'Vape', 'Jar']"
+492,2170,"['Live Resin', 'Jar', 'Tinctures']"
+157,2171,"['Pre-Rolls', 'Live Resin', 'Live Resin']"
+776,2172,"['Pre-Rolls', 'Vape', 'Jar']"
+783,2173,"['Topicals', 'Vape']"
+668,2174,"['Live Resin', 'Vape']"
+938,2175,"['Topicals', 'Topicals', 'Vape']"
+751,2176,"['Pre-Rolls', 'Tinctures']"
+658,2177,"['Edibles', 'Edibles', 'Live Resin']"
+987,2178,"['Flower', 'Pre-Rolls']"
+790,2179,['Tinctures']
+298,2180,"['Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+870,2181,"['Live Resin', 'Vape']"
+867,2182,['Topicals']
+7,2183,"['Jar', 'Live Resin', 'Jar', 'Jar']"
+318,2184,"['Flower', 'Vape', 'Live Resin', 'Topicals']"
+254,2185,"['Live Resin', 'Edibles', 'Vape']"
+815,2186,['Live Resin']
+962,2187,"['Tinctures', 'Edibles', 'Tinctures']"
+315,2188,"['Pre-Rolls', 'Tinctures', 'Edibles', 'Pre-Rolls']"
+503,2189,"['Jar', 'Vape']"
+264,2190,['Flower']
+124,2191,"['Topicals', 'Edibles', 'Topicals', 'Topicals']"
+728,2192,"['Flower', 'Edibles']"
+168,2193,['Jar']
+326,2194,['Topicals']
+231,2195,"['Pre-Rolls', 'Vape', 'Jar']"
+988,2196,"['Pre-Rolls', 'Live Resin', 'Topicals']"
+75,2197,"['Tinctures', 'Tinctures', 'Edibles']"
+673,2198,"['Edibles', 'Edibles', 'Pre-Rolls', 'Tinctures']"
+199,2199,"['Tinctures', 'Topicals']"
+494,2200,"['Vape', 'Jar', 'Live Resin', 'Flower']"
+677,2201,['Flower']
+634,2202,['Tinctures']
+324,2203,"['Tinctures', 'Topicals', 'Topicals']"
+871,2204,"['Pre-Rolls', 'Pre-Rolls', 'Jar', 'Edibles']"
+415,2205,['Live Resin']
+100,2206,"['Flower', 'Vape', 'Edibles', 'Pre-Rolls']"
+14,2207,"['Live Resin', 'Topicals']"
+54,2208,"['Live Resin', 'Jar']"
+509,2209,"['Vape', 'Live Resin']"
+502,2210,"['Flower', 'Tinctures', 'Tinctures']"
+508,2211,['Vape']
+202,2212,"['Vape', 'Tinctures']"
+658,2213,"['Topicals', 'Flower', 'Live Resin']"
+174,2214,['Topicals']
+76,2215,"['Tinctures', 'Edibles', 'Topicals', 'Tinctures']"
+509,2216,"['Live Resin', 'Topicals', 'Live Resin', 'Live Resin']"
+994,2217,"['Topicals', 'Flower', 'Live Resin', 'Flower']"
+359,2218,"['Jar', 'Jar']"
+64,2219,"['Pre-Rolls', 'Jar', 'Flower', 'Flower']"
+232,2220,"['Jar', 'Vape', 'Vape', 'Vape']"
+430,2221,['Vape']
+89,2222,"['Edibles', 'Tinctures']"
+776,2223,"['Vape', 'Live Resin', 'Topicals', 'Live Resin']"
+590,2224,"['Jar', 'Topicals']"
+781,2225,"['Tinctures', 'Tinctures']"
+680,2226,['Topicals']
+184,2227,"['Jar', 'Vape', 'Flower']"
+990,2228,"['Jar', 'Jar', 'Flower', 'Topicals']"
+47,2229,"['Tinctures', 'Edibles', 'Vape']"
+151,2230,"['Topicals', 'Topicals']"
+712,2231,"['Pre-Rolls', 'Topicals']"
+342,2232,['Edibles']
+854,2233,"['Jar', 'Pre-Rolls', 'Edibles']"
+637,2234,"['Topicals', 'Vape']"
+763,2235,['Flower']
+856,2236,"['Tinctures', 'Live Resin', 'Edibles', 'Live Resin']"
+598,2237,['Topicals']
+612,2238,"['Jar', 'Topicals']"
+740,2239,['Edibles']
+73,2240,"['Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+605,2241,"['Vape', 'Edibles', 'Tinctures']"
+204,2242,"['Tinctures', 'Edibles', 'Tinctures', 'Jar']"
+529,2243,"['Jar', 'Pre-Rolls']"
+496,2244,"['Vape', 'Live Resin', 'Jar', 'Live Resin']"
+199,2245,"['Live Resin', 'Live Resin', 'Live Resin', 'Pre-Rolls']"
+216,2246,"['Pre-Rolls', 'Jar']"
+471,2247,['Tinctures']
+42,2248,"['Edibles', 'Live Resin', 'Topicals']"
+195,2249,['Pre-Rolls']
+306,2250,"['Flower', 'Topicals']"
+750,2251,"['Jar', 'Live Resin']"
+189,2252,"['Tinctures', 'Tinctures']"
+830,2253,['Live Resin']
+301,2254,"['Edibles', 'Pre-Rolls', 'Flower', 'Flower']"
+873,2255,['Edibles']
+318,2256,['Tinctures']
+282,2257,['Pre-Rolls']
+867,2258,"['Flower', 'Topicals', 'Topicals']"
+460,2259,"['Tinctures', 'Jar']"
+294,2260,"['Live Resin', 'Vape', 'Edibles']"
+564,2261,"['Flower', 'Edibles', 'Flower']"
+624,2262,"['Edibles', 'Jar', 'Topicals', 'Live Resin']"
+1,2263,['Topicals']
+799,2264,['Pre-Rolls']
+278,2265,"['Tinctures', 'Flower', 'Jar', 'Live Resin']"
+506,2266,"['Live Resin', 'Tinctures', 'Jar', 'Live Resin']"
+442,2267,"['Flower', 'Jar']"
+27,2268,['Flower']
+455,2269,"['Tinctures', 'Live Resin']"
+768,2270,"['Jar', 'Topicals']"
+982,2271,"['Vape', 'Flower']"
+548,2272,"['Jar', 'Live Resin', 'Vape']"
+426,2273,"['Pre-Rolls', 'Live Resin', 'Edibles']"
+887,2274,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+132,2275,"['Live Resin', 'Live Resin']"
+794,2276,['Edibles']
+231,2277,['Pre-Rolls']
+323,2278,"['Edibles', 'Live Resin', 'Live Resin']"
+68,2279,"['Vape', 'Jar']"
+946,2280,['Jar']
+992,2281,"['Jar', 'Jar', 'Edibles']"
+907,2282,['Pre-Rolls']
+6,2283,"['Tinctures', 'Pre-Rolls', 'Jar', 'Live Resin']"
+709,2284,"['Tinctures', 'Tinctures', 'Jar']"
+858,2285,"['Topicals', 'Live Resin', 'Flower']"
+482,2286,"['Jar', 'Tinctures']"
+424,2287,"['Live Resin', 'Jar']"
+330,2288,"['Jar', 'Pre-Rolls', 'Jar', 'Topicals']"
+79,2289,"['Live Resin', 'Jar', 'Jar']"
+797,2290,"['Topicals', 'Live Resin', 'Edibles']"
+776,2291,"['Pre-Rolls', 'Tinctures', 'Topicals']"
+623,2292,"['Topicals', 'Pre-Rolls', 'Flower', 'Vape']"
+74,2293,"['Flower', 'Pre-Rolls', 'Tinctures']"
+806,2294,"['Live Resin', 'Vape', 'Flower', 'Topicals']"
+483,2295,"['Pre-Rolls', 'Tinctures', 'Topicals', 'Pre-Rolls']"
+645,2296,['Tinctures']
+35,2297,"['Pre-Rolls', 'Topicals', 'Flower', 'Live Resin']"
+941,2298,['Pre-Rolls']
+705,2299,"['Tinctures', 'Tinctures']"
+571,2300,"['Jar', 'Tinctures', 'Vape']"
+874,2301,['Tinctures']
+800,2302,"['Jar', 'Topicals', 'Flower', 'Topicals']"
+999,2303,['Live Resin']
+366,2304,"['Live Resin', 'Tinctures']"
+92,2305,['Topicals']
+495,2306,['Pre-Rolls']
+712,2307,['Jar']
+245,2308,"['Vape', 'Topicals']"
+985,2309,['Pre-Rolls']
+674,2310,['Flower']
+171,2311,"['Jar', 'Pre-Rolls']"
+885,2312,"['Live Resin', 'Jar']"
+552,2313,"['Tinctures', 'Topicals']"
+608,2314,"['Live Resin', 'Topicals', 'Jar', 'Topicals']"
+356,2315,"['Jar', 'Flower', 'Tinctures', 'Tinctures']"
+81,2316,"['Live Resin', 'Tinctures']"
+275,2317,"['Topicals', 'Edibles', 'Pre-Rolls', 'Vape']"
+361,2318,['Topicals']
+393,2319,['Flower']
+198,2320,['Flower']
+995,2321,"['Live Resin', 'Jar']"
+262,2322,['Live Resin']
+38,2323,['Pre-Rolls']
+620,2324,['Jar']
+834,2325,"['Topicals', 'Live Resin', 'Live Resin']"
+76,2326,"['Tinctures', 'Tinctures', 'Tinctures', 'Flower']"
+572,2327,"['Edibles', 'Topicals', 'Topicals', 'Tinctures']"
+814,2328,"['Live Resin', 'Pre-Rolls', 'Topicals']"
+363,2329,"['Tinctures', 'Pre-Rolls', 'Flower', 'Pre-Rolls']"
+522,2330,"['Jar', 'Flower']"
+2,2331,"['Live Resin', 'Flower']"
+353,2332,"['Live Resin', 'Pre-Rolls', 'Jar', 'Live Resin']"
+355,2333,['Live Resin']
+558,2334,['Edibles']
+760,2335,"['Vape', 'Tinctures']"
+81,2336,"['Edibles', 'Tinctures', 'Edibles', 'Vape']"
+747,2337,"['Live Resin', 'Live Resin']"
+755,2338,"['Pre-Rolls', 'Topicals', 'Edibles']"
+828,2339,"['Tinctures', 'Live Resin']"
+98,2340,"['Live Resin', 'Flower', 'Pre-Rolls', 'Flower']"
+329,2341,"['Edibles', 'Flower', 'Jar', 'Pre-Rolls']"
+917,2342,['Flower']
+856,2343,"['Topicals', 'Flower', 'Live Resin', 'Flower']"
+463,2344,"['Tinctures', 'Topicals', 'Live Resin', 'Topicals']"
+267,2345,"['Flower', 'Tinctures']"
+278,2346,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+736,2347,"['Pre-Rolls', 'Topicals', 'Flower', 'Topicals']"
+820,2348,"['Vape', 'Live Resin', 'Vape']"
+635,2349,['Flower']
+402,2350,"['Edibles', 'Live Resin']"
+686,2351,"['Jar', 'Topicals']"
+375,2352,"['Edibles', 'Jar']"
+255,2353,"['Pre-Rolls', 'Topicals', 'Topicals', 'Topicals']"
+617,2354,['Pre-Rolls']
+683,2355,"['Flower', 'Tinctures']"
+120,2356,"['Flower', 'Live Resin']"
+944,2357,"['Jar', 'Flower', 'Pre-Rolls']"
+408,2358,"['Jar', 'Flower']"
+49,2359,['Pre-Rolls']
+663,2360,"['Tinctures', 'Flower']"
+504,2361,"['Jar', 'Jar']"
+841,2362,"['Tinctures', 'Flower']"
+485,2363,"['Tinctures', 'Pre-Rolls']"
+3,2364,"['Pre-Rolls', 'Topicals', 'Flower', 'Tinctures']"
+52,2365,['Live Resin']
+292,2366,['Pre-Rolls']
+12,2367,"['Flower', 'Vape', 'Live Resin']"
+602,2368,"['Vape', 'Flower']"
+252,2369,['Vape']
+914,2370,"['Tinctures', 'Edibles', 'Pre-Rolls']"
+849,2371,['Flower']
+821,2372,"['Vape', 'Tinctures', 'Edibles']"
+13,2373,"['Flower', 'Jar']"
+735,2374,"['Flower', 'Topicals']"
+319,2375,['Flower']
+327,2376,"['Flower', 'Pre-Rolls']"
+915,2377,"['Topicals', 'Live Resin', 'Tinctures']"
+320,2378,"['Live Resin', 'Live Resin', 'Live Resin']"
+121,2379,"['Vape', 'Topicals']"
+553,2380,"['Pre-Rolls', 'Tinctures', 'Edibles']"
+283,2381,"['Edibles', 'Vape', 'Live Resin']"
+19,2382,"['Tinctures', 'Vape']"
+780,2383,"['Topicals', 'Vape', 'Pre-Rolls', 'Edibles']"
+255,2384,"['Vape', 'Pre-Rolls', 'Pre-Rolls']"
+619,2385,"['Jar', 'Edibles', 'Pre-Rolls', 'Pre-Rolls']"
+946,2386,['Tinctures']
+808,2387,['Edibles']
+729,2388,"['Pre-Rolls', 'Topicals', 'Topicals', 'Live Resin']"
+560,2389,"['Edibles', 'Pre-Rolls', 'Flower', 'Topicals']"
+154,2390,"['Edibles', 'Pre-Rolls', 'Flower']"
+183,2391,"['Topicals', 'Topicals']"
+84,2392,"['Topicals', 'Flower', 'Tinctures', 'Pre-Rolls']"
+824,2393,['Live Resin']
+553,2394,"['Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+25,2395,"['Pre-Rolls', 'Edibles', 'Flower']"
+698,2396,"['Vape', 'Live Resin']"
+215,2397,"['Pre-Rolls', 'Topicals', 'Live Resin', 'Live Resin']"
+603,2398,"['Live Resin', 'Topicals', 'Pre-Rolls', 'Vape']"
+392,2399,"['Topicals', 'Edibles', 'Vape']"
+404,2400,"['Live Resin', 'Vape']"
+788,2401,"['Tinctures', 'Live Resin', 'Live Resin']"
+165,2402,['Flower']
+786,2403,"['Flower', 'Topicals', 'Pre-Rolls', 'Pre-Rolls']"
+963,2404,"['Topicals', 'Jar', 'Live Resin']"
+757,2405,"['Edibles', 'Jar', 'Jar']"
+749,2406,"['Tinctures', 'Pre-Rolls']"
+41,2407,"['Live Resin', 'Edibles', 'Vape', 'Pre-Rolls']"
+245,2408,"['Tinctures', 'Pre-Rolls', 'Flower']"
+527,2409,"['Live Resin', 'Jar']"
+381,2410,"['Topicals', 'Flower', 'Jar', 'Topicals']"
+938,2411,['Vape']
+841,2412,"['Live Resin', 'Vape']"
+558,2413,"['Jar', 'Pre-Rolls', 'Tinctures', 'Edibles']"
+568,2414,"['Pre-Rolls', 'Edibles', 'Tinctures']"
+409,2415,"['Edibles', 'Live Resin', 'Flower']"
+701,2416,['Pre-Rolls']
+972,2417,"['Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+286,2418,"['Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+644,2419,"['Jar', 'Vape', 'Edibles']"
+996,2420,"['Tinctures', 'Tinctures', 'Pre-Rolls', 'Live Resin']"
+711,2421,"['Jar', 'Flower', 'Pre-Rolls', 'Flower']"
+762,2422,"['Edibles', 'Flower', 'Jar']"
+22,2423,['Topicals']
+676,2424,"['Edibles', 'Live Resin']"
+456,2425,['Pre-Rolls']
+547,2426,"['Live Resin', 'Pre-Rolls', 'Vape']"
+554,2427,['Live Resin']
+13,2428,"['Tinctures', 'Jar']"
+156,2429,"['Flower', 'Tinctures', 'Edibles', 'Jar']"
+402,2430,['Pre-Rolls']
+330,2431,['Edibles']
+162,2432,['Pre-Rolls']
+623,2433,"['Tinctures', 'Edibles', 'Edibles']"
+715,2434,['Pre-Rolls']
+347,2435,"['Vape', 'Flower']"
+93,2436,"['Jar', 'Topicals']"
+995,2437,['Flower']
+923,2438,"['Tinctures', 'Tinctures']"
+392,2439,"['Tinctures', 'Live Resin', 'Flower', 'Vape']"
+290,2440,['Tinctures']
+709,2441,"['Vape', 'Edibles', 'Tinctures', 'Topicals']"
+448,2442,"['Live Resin', 'Edibles', 'Jar']"
+727,2443,"['Jar', 'Jar', 'Tinctures', 'Topicals']"
+615,2444,"['Flower', 'Tinctures']"
+212,2445,"['Edibles', 'Vape', 'Topicals']"
+888,2446,"['Jar', 'Jar']"
+209,2447,"['Live Resin', 'Topicals', 'Vape']"
+740,2448,"['Topicals', 'Topicals', 'Flower', 'Topicals']"
+243,2449,"['Tinctures', 'Vape', 'Live Resin', 'Jar']"
+351,2450,"['Tinctures', 'Live Resin', 'Pre-Rolls', 'Edibles']"
+739,2451,"['Live Resin', 'Topicals', 'Topicals', 'Vape']"
+428,2452,"['Jar', 'Live Resin', 'Edibles']"
+136,2453,"['Topicals', 'Jar', 'Tinctures']"
+205,2454,"['Tinctures', 'Edibles', 'Pre-Rolls']"
+57,2455,"['Jar', 'Jar', 'Topicals']"
+955,2456,"['Tinctures', 'Topicals']"
+195,2457,['Vape']
+620,2458,"['Flower', 'Jar', 'Topicals', 'Jar']"
+480,2459,"['Jar', 'Edibles', 'Edibles', 'Vape']"
+308,2460,"['Vape', 'Tinctures']"
+270,2461,"['Topicals', 'Jar']"
+871,2462,"['Vape', 'Vape', 'Flower', 'Tinctures']"
+22,2463,"['Tinctures', 'Tinctures', 'Live Resin', 'Topicals']"
+516,2464,['Jar']
+930,2465,['Tinctures']
+520,2466,"['Live Resin', 'Topicals', 'Pre-Rolls', 'Live Resin']"
+922,2467,"['Flower', 'Topicals']"
+55,2468,"['Pre-Rolls', 'Jar', 'Pre-Rolls']"
+781,2469,"['Jar', 'Pre-Rolls', 'Live Resin', 'Jar']"
+788,2470,['Flower']
+861,2471,"['Pre-Rolls', 'Edibles', 'Vape']"
+443,2472,"['Live Resin', 'Jar', 'Topicals', 'Topicals']"
+500,2473,"['Tinctures', 'Jar', 'Tinctures']"
+44,2474,"['Live Resin', 'Flower']"
+518,2475,"['Jar', 'Edibles', 'Topicals']"
+738,2476,"['Pre-Rolls', 'Tinctures', 'Topicals', 'Topicals']"
+989,2477,"['Flower', 'Flower']"
+620,2478,"['Vape', 'Edibles', 'Jar']"
+572,2479,"['Topicals', 'Live Resin', 'Edibles', 'Pre-Rolls']"
+495,2480,"['Flower', 'Tinctures']"
+993,2481,"['Edibles', 'Edibles', 'Pre-Rolls']"
+44,2482,['Pre-Rolls']
+611,2483,"['Pre-Rolls', 'Edibles', 'Tinctures', 'Tinctures']"
+173,2484,"['Pre-Rolls', 'Flower', 'Edibles']"
+43,2485,"['Tinctures', 'Vape', 'Vape']"
+696,2486,"['Jar', 'Jar', 'Tinctures', 'Vape']"
+733,2487,"['Flower', 'Topicals', 'Vape', 'Tinctures']"
+121,2488,"['Edibles', 'Flower']"
+614,2489,"['Flower', 'Edibles', 'Live Resin', 'Flower']"
+717,2490,['Pre-Rolls']
+630,2491,"['Vape', 'Edibles']"
+95,2492,"['Pre-Rolls', 'Live Resin', 'Topicals']"
+554,2493,"['Pre-Rolls', 'Flower', 'Pre-Rolls', 'Vape']"
+860,2494,"['Flower', 'Vape', 'Pre-Rolls', 'Jar']"
+741,2495,['Edibles']
+843,2496,"['Tinctures', 'Pre-Rolls', 'Tinctures']"
+710,2497,['Topicals']
+645,2498,['Live Resin']
+907,2499,"['Pre-Rolls', 'Edibles', 'Tinctures', 'Flower']"
+289,2500,"['Edibles', 'Flower', 'Vape', 'Vape']"
+887,2501,['Jar']
+228,2502,"['Topicals', 'Pre-Rolls', 'Tinctures', 'Live Resin']"
+81,2503,['Topicals']
+95,2504,"['Tinctures', 'Vape', 'Flower', 'Topicals']"
+205,2505,"['Edibles', 'Vape']"
+698,2506,"['Topicals', 'Tinctures', 'Edibles', 'Vape']"
+877,2507,"['Jar', 'Jar', 'Pre-Rolls', 'Jar']"
+933,2508,['Vape']
+149,2509,"['Tinctures', 'Jar']"
+831,2510,['Jar']
+400,2511,"['Pre-Rolls', 'Flower', 'Jar']"
+388,2512,"['Topicals', 'Live Resin']"
+103,2513,"['Pre-Rolls', 'Pre-Rolls', 'Vape']"
+99,2514,"['Live Resin', 'Vape', 'Flower', 'Tinctures']"
+344,2515,"['Live Resin', 'Flower', 'Vape', 'Live Resin']"
+551,2516,"['Edibles', 'Flower', 'Flower']"
+283,2517,"['Jar', 'Live Resin', 'Flower']"
+567,2518,"['Flower', 'Pre-Rolls', 'Live Resin', 'Edibles']"
+347,2519,['Vape']
+575,2520,['Edibles']
+49,2521,"['Live Resin', 'Tinctures', 'Vape', 'Tinctures']"
+352,2522,"['Tinctures', 'Tinctures', 'Tinctures']"
+167,2523,['Pre-Rolls']
+820,2524,"['Topicals', 'Pre-Rolls', 'Edibles']"
+409,2525,"['Pre-Rolls', 'Live Resin', 'Flower', 'Live Resin']"
+247,2526,"['Tinctures', 'Vape', 'Edibles']"
+191,2527,"['Flower', 'Vape']"
+674,2528,"['Vape', 'Jar', 'Topicals']"
+123,2529,"['Pre-Rolls', 'Pre-Rolls', 'Edibles', 'Flower']"
+115,2530,"['Flower', 'Topicals']"
+609,2531,['Edibles']
+672,2532,"['Topicals', 'Flower', 'Pre-Rolls']"
+413,2533,['Flower']
+34,2534,"['Tinctures', 'Topicals']"
+303,2535,"['Pre-Rolls', 'Tinctures', 'Tinctures', 'Jar']"
+466,2536,"['Tinctures', 'Flower']"
+818,2537,"['Live Resin', 'Pre-Rolls', 'Topicals']"
+701,2538,"['Live Resin', 'Flower']"
+689,2539,['Topicals']
+163,2540,['Jar']
+151,2541,"['Tinctures', 'Live Resin', 'Live Resin']"
+19,2542,['Vape']
+322,2543,['Live Resin']
+232,2544,['Topicals']
+616,2545,"['Flower', 'Edibles', 'Vape', 'Pre-Rolls']"
+927,2546,"['Tinctures', 'Tinctures']"
+482,2547,"['Edibles', 'Live Resin', 'Pre-Rolls', 'Jar']"
+695,2548,['Live Resin']
+8,2549,"['Live Resin', 'Pre-Rolls', 'Flower', 'Pre-Rolls']"
+488,2550,['Live Resin']
+489,2551,"['Tinctures', 'Flower']"
+975,2552,['Flower']
+280,2553,"['Pre-Rolls', 'Edibles', 'Jar']"
+373,2554,"['Tinctures', 'Edibles']"
+729,2555,"['Tinctures', 'Jar', 'Topicals', 'Live Resin']"
+286,2556,['Topicals']
+304,2557,"['Flower', 'Jar', 'Pre-Rolls']"
+492,2558,"['Pre-Rolls', 'Vape', 'Pre-Rolls']"
+744,2559,"['Pre-Rolls', 'Live Resin']"
+715,2560,['Live Resin']
+982,2561,"['Pre-Rolls', 'Flower', 'Topicals', 'Jar']"
+809,2562,"['Flower', 'Live Resin']"
+59,2563,"['Jar', 'Vape', 'Vape']"
+885,2564,"['Edibles', 'Vape', 'Jar', 'Flower']"
+545,2565,"['Jar', 'Edibles']"
+696,2566,['Jar']
+914,2567,['Edibles']
+696,2568,['Tinctures']
+792,2569,"['Flower', 'Edibles', 'Topicals', 'Flower']"
+141,2570,['Live Resin']
+941,2571,['Flower']
+656,2572,"['Vape', 'Live Resin']"
+917,2573,"['Vape', 'Flower', 'Pre-Rolls', 'Live Resin']"
+202,2574,"['Live Resin', 'Live Resin', 'Flower', 'Edibles']"
+82,2575,"['Live Resin', 'Vape', 'Jar']"
+455,2576,"['Edibles', 'Edibles']"
+769,2577,"['Jar', 'Jar', 'Topicals']"
+66,2578,"['Flower', 'Live Resin', 'Live Resin', 'Tinctures']"
+297,2579,"['Pre-Rolls', 'Jar', 'Edibles']"
+400,2580,"['Vape', 'Flower']"
+764,2581,"['Edibles', 'Tinctures', 'Pre-Rolls']"
+76,2582,"['Tinctures', 'Live Resin', 'Topicals', 'Vape']"
+843,2583,"['Flower', 'Flower', 'Live Resin']"
+633,2584,"['Edibles', 'Jar', 'Live Resin']"
+587,2585,"['Jar', 'Live Resin', 'Tinctures']"
+348,2586,"['Edibles', 'Vape', 'Edibles']"
+747,2587,"['Live Resin', 'Topicals', 'Live Resin', 'Topicals']"
+250,2588,"['Live Resin', 'Tinctures', 'Pre-Rolls', 'Pre-Rolls']"
+591,2589,"['Tinctures', 'Tinctures', 'Pre-Rolls']"
+279,2590,"['Live Resin', 'Edibles', 'Vape', 'Pre-Rolls']"
+432,2591,"['Flower', 'Edibles']"
+898,2592,"['Flower', 'Jar']"
+812,2593,"['Jar', 'Edibles', 'Vape']"
+498,2594,"['Live Resin', 'Edibles', 'Edibles', 'Jar']"
+824,2595,"['Tinctures', 'Pre-Rolls']"
+397,2596,"['Flower', 'Tinctures']"
+418,2597,['Tinctures']
+136,2598,"['Tinctures', 'Flower', 'Pre-Rolls', 'Jar']"
+894,2599,"['Live Resin', 'Pre-Rolls']"
+418,2600,"['Tinctures', 'Pre-Rolls']"
+185,2601,"['Vape', 'Jar', 'Vape']"
+255,2602,['Vape']
+335,2603,"['Live Resin', 'Topicals', 'Live Resin']"
+720,2604,['Edibles']
+778,2605,"['Vape', 'Jar']"
+591,2606,"['Topicals', 'Pre-Rolls']"
+385,2607,['Live Resin']
+945,2608,"['Vape', 'Vape']"
+3,2609,"['Tinctures', 'Edibles']"
+373,2610,"['Live Resin', 'Jar', 'Pre-Rolls', 'Flower']"
+238,2611,"['Topicals', 'Live Resin']"
+14,2612,"['Flower', 'Pre-Rolls', 'Pre-Rolls']"
+142,2613,"['Live Resin', 'Live Resin', 'Edibles', 'Live Resin']"
+768,2614,"['Tinctures', 'Edibles', 'Vape']"
+394,2615,"['Tinctures', 'Topicals', 'Pre-Rolls']"
+76,2616,"['Pre-Rolls', 'Tinctures']"
+758,2617,['Edibles']
+548,2618,"['Live Resin', 'Pre-Rolls', 'Flower']"
+309,2619,"['Live Resin', 'Vape']"
+17,2620,['Topicals']
+133,2621,['Tinctures']
+383,2622,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls', 'Jar']"
+498,2623,"['Topicals', 'Tinctures']"
+833,2624,"['Edibles', 'Jar']"
+569,2625,"['Live Resin', 'Flower', 'Pre-Rolls', 'Pre-Rolls']"
+929,2626,['Jar']
+460,2627,"['Tinctures', 'Topicals', 'Topicals']"
+7,2628,['Flower']
+222,2629,['Flower']
+929,2630,"['Vape', 'Live Resin', 'Live Resin']"
+398,2631,"['Tinctures', 'Pre-Rolls', 'Topicals']"
+530,2632,"['Edibles', 'Flower']"
+411,2633,['Edibles']
+50,2634,"['Edibles', 'Tinctures', 'Vape', 'Tinctures']"
+339,2635,"['Live Resin', 'Pre-Rolls', 'Tinctures']"
+951,2636,"['Edibles', 'Edibles', 'Edibles']"
+833,2637,"['Live Resin', 'Flower', 'Tinctures']"
+54,2638,"['Live Resin', 'Pre-Rolls', 'Jar']"
+403,2639,['Edibles']
+243,2640,"['Topicals', 'Vape', 'Jar', 'Vape']"
+43,2641,"['Pre-Rolls', 'Pre-Rolls', 'Topicals']"
+406,2642,"['Vape', 'Flower', 'Vape', 'Edibles']"
+406,2643,"['Pre-Rolls', 'Topicals']"
+245,2644,"['Vape', 'Vape', 'Tinctures', 'Topicals']"
+445,2645,['Live Resin']
+850,2646,['Live Resin']
+9,2647,"['Topicals', 'Tinctures']"
+380,2648,"['Jar', 'Jar', 'Flower']"
+46,2649,"['Topicals', 'Live Resin', 'Flower']"
+133,2650,['Jar']
+749,2651,['Tinctures']
+544,2652,['Flower']
+909,2653,"['Pre-Rolls', 'Edibles', 'Jar', 'Tinctures']"
+657,2654,"['Vape', 'Edibles', 'Topicals']"
+90,2655,['Vape']
+663,2656,['Vape']
+649,2657,"['Topicals', 'Edibles']"
+440,2658,"['Pre-Rolls', 'Jar', 'Edibles', 'Jar']"
+273,2659,['Pre-Rolls']
+858,2660,"['Topicals', 'Edibles', 'Pre-Rolls', 'Topicals']"
+9,2661,['Tinctures']
+639,2662,"['Tinctures', 'Jar']"
+559,2663,"['Pre-Rolls', 'Flower', 'Vape', 'Pre-Rolls']"
+602,2664,['Pre-Rolls']
+124,2665,"['Pre-Rolls', 'Edibles', 'Live Resin', 'Edibles']"
+12,2666,"['Live Resin', 'Vape', 'Flower']"
+881,2667,"['Vape', 'Topicals', 'Vape']"
+222,2668,"['Edibles', 'Edibles']"
+601,2669,['Topicals']
+45,2670,"['Topicals', 'Edibles']"
+607,2671,"['Edibles', 'Topicals', 'Flower']"
+122,2672,['Tinctures']
+169,2673,"['Jar', 'Tinctures', 'Edibles']"
+61,2674,"['Vape', 'Jar', 'Pre-Rolls']"
+825,2675,"['Flower', 'Edibles']"
+759,2676,"['Flower', 'Edibles']"
+243,2677,"['Topicals', 'Flower', 'Vape', 'Flower']"
+655,2678,"['Topicals', 'Jar', 'Jar']"
+30,2679,"['Pre-Rolls', 'Topicals', 'Edibles', 'Vape']"
+147,2680,"['Vape', 'Edibles', 'Tinctures', 'Jar']"
+374,2681,"['Pre-Rolls', 'Edibles', 'Jar', 'Topicals']"
+139,2682,"['Edibles', 'Pre-Rolls', 'Tinctures']"
+24,2683,"['Edibles', 'Flower']"
+623,2684,['Edibles']
+269,2685,"['Flower', 'Pre-Rolls']"
+348,2686,"['Tinctures', 'Edibles']"
+162,2687,"['Jar', 'Vape', 'Tinctures']"
+706,2688,"['Vape', 'Topicals', 'Flower']"
+205,2689,"['Vape', 'Topicals']"
+786,2690,"['Vape', 'Jar', 'Live Resin', 'Edibles']"
+966,2691,"['Vape', 'Flower']"
+472,2692,"['Pre-Rolls', 'Tinctures']"
+776,2693,"['Vape', 'Tinctures', 'Jar']"
+380,2694,"['Flower', 'Live Resin', 'Live Resin', 'Jar']"
+583,2695,['Topicals']
+479,2696,"['Tinctures', 'Live Resin']"
+713,2697,"['Jar', 'Live Resin', 'Topicals', 'Flower']"
+612,2698,"['Live Resin', 'Vape', 'Edibles', 'Flower']"
+376,2699,"['Pre-Rolls', 'Vape', 'Topicals', 'Flower']"
+237,2700,['Tinctures']
+879,2701,"['Flower', 'Pre-Rolls']"
+115,2702,['Flower']
+589,2703,"['Vape', 'Topicals', 'Live Resin', 'Vape']"
+665,2704,"['Topicals', 'Vape', 'Jar']"
+845,2705,"['Topicals', 'Edibles', 'Jar']"
+192,2706,"['Vape', 'Live Resin']"
+993,2707,"['Tinctures', 'Pre-Rolls', 'Vape', 'Tinctures']"
+402,2708,['Vape']
+43,2709,"['Jar', 'Tinctures']"
+51,2710,"['Live Resin', 'Jar']"
+639,2711,['Live Resin']
+734,2712,['Topicals']
+547,2713,"['Tinctures', 'Pre-Rolls']"
+441,2714,"['Tinctures', 'Edibles', 'Pre-Rolls', 'Tinctures']"
+45,2715,['Edibles']
+137,2716,"['Vape', 'Edibles', 'Tinctures', 'Pre-Rolls']"
+884,2717,"['Topicals', 'Live Resin']"
+991,2718,['Pre-Rolls']
+475,2719,['Live Resin']
+358,2720,['Live Resin']
+940,2721,"['Pre-Rolls', 'Flower', 'Topicals', 'Topicals']"
+835,2722,"['Tinctures', 'Pre-Rolls', 'Live Resin', 'Jar']"
+971,2723,"['Jar', 'Vape', 'Edibles', 'Tinctures']"
+505,2724,['Pre-Rolls']
+957,2725,"['Edibles', 'Topicals', 'Topicals']"
+303,2726,"['Topicals', 'Vape', 'Vape']"
+678,2727,"['Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+330,2728,"['Tinctures', 'Flower']"
+264,2729,"['Edibles', 'Pre-Rolls', 'Topicals']"
+831,2730,['Jar']
+280,2731,"['Pre-Rolls', 'Edibles']"
+646,2732,['Flower']
+605,2733,"['Live Resin', 'Topicals', 'Pre-Rolls', 'Edibles']"
+975,2734,"['Jar', 'Tinctures']"
+141,2735,"['Pre-Rolls', 'Flower', 'Pre-Rolls', 'Flower']"
+45,2736,"['Edibles', 'Live Resin', 'Tinctures']"
+327,2737,"['Vape', 'Vape', 'Tinctures', 'Topicals']"
+293,2738,"['Jar', 'Live Resin']"
+766,2739,"['Flower', 'Tinctures', 'Vape', 'Tinctures']"
+571,2740,['Vape']
+986,2741,['Live Resin']
+620,2742,['Tinctures']
+289,2743,"['Topicals', 'Live Resin', 'Pre-Rolls']"
+711,2744,"['Edibles', 'Edibles']"
+293,2745,"['Live Resin', 'Pre-Rolls']"
+948,2746,"['Tinctures', 'Live Resin', 'Tinctures', 'Edibles']"
+338,2747,['Topicals']
+231,2748,"['Tinctures', 'Edibles']"
+527,2749,['Jar']
+93,2750,"['Tinctures', 'Flower']"
+128,2751,"['Pre-Rolls', 'Topicals', 'Flower', 'Flower']"
+571,2752,"['Edibles', 'Flower']"
+17,2753,"['Jar', 'Topicals']"
+646,2754,"['Edibles', 'Flower', 'Flower']"
+575,2755,"['Edibles', 'Vape']"
+124,2756,"['Edibles', 'Topicals', 'Flower']"
+736,2757,['Live Resin']
+562,2758,['Vape']
+610,2759,"['Jar', 'Edibles', 'Jar']"
+399,2760,"['Live Resin', 'Tinctures', 'Vape', 'Edibles']"
+357,2761,"['Live Resin', 'Flower', 'Tinctures']"
+645,2762,"['Flower', 'Topicals']"
+359,2763,"['Topicals', 'Live Resin']"
+543,2764,"['Tinctures', 'Tinctures', 'Topicals']"
+217,2765,"['Vape', 'Edibles', 'Flower']"
+291,2766,"['Pre-Rolls', 'Edibles', 'Flower', 'Flower']"
+908,2767,"['Jar', 'Flower', 'Edibles']"
+860,2768,['Topicals']
+866,2769,['Tinctures']
+290,2770,['Tinctures']
+781,2771,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+339,2772,"['Vape', 'Flower', 'Live Resin']"
+408,2773,"['Vape', 'Tinctures']"
+416,2774,"['Jar', 'Live Resin', 'Vape']"
+161,2775,['Live Resin']
+888,2776,"['Edibles', 'Live Resin', 'Live Resin', 'Live Resin']"
+172,2777,"['Live Resin', 'Live Resin', 'Pre-Rolls', 'Edibles']"
+612,2778,"['Live Resin', 'Live Resin']"
+814,2779,['Vape']
+703,2780,"['Edibles', 'Tinctures']"
+380,2781,"['Vape', 'Flower', 'Topicals', 'Live Resin']"
+153,2782,"['Flower', 'Topicals']"
+127,2783,"['Edibles', 'Topicals', 'Pre-Rolls']"
+506,2784,"['Jar', 'Edibles', 'Live Resin']"
+632,2785,"['Topicals', 'Edibles']"
+507,2786,['Live Resin']
+54,2787,"['Topicals', 'Flower', 'Tinctures', 'Edibles']"
+323,2788,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls']"
+717,2789,"['Edibles', 'Pre-Rolls']"
+418,2790,"['Jar', 'Vape']"
+390,2791,['Pre-Rolls']
+13,2792,"['Topicals', 'Tinctures', 'Tinctures']"
+241,2793,"['Live Resin', 'Edibles']"
+993,2794,"['Topicals', 'Flower', 'Jar']"
+832,2795,"['Pre-Rolls', 'Jar']"
+419,2796,"['Flower', 'Vape', 'Flower', 'Live Resin']"
+106,2797,['Pre-Rolls']
+831,2798,"['Live Resin', 'Topicals']"
+431,2799,"['Flower', 'Pre-Rolls']"
+861,2800,"['Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+143,2801,"['Topicals', 'Topicals', 'Flower']"
+318,2802,"['Jar', 'Live Resin', 'Live Resin', 'Vape']"
+555,2803,"['Edibles', 'Flower']"
+434,2804,['Live Resin']
+32,2805,"['Flower', 'Topicals']"
+459,2806,['Topicals']
+11,2807,"['Edibles', 'Edibles', 'Vape', 'Topicals']"
+304,2808,"['Edibles', 'Live Resin', 'Pre-Rolls', 'Live Resin']"
+460,2809,['Topicals']
+885,2810,['Flower']
+656,2811,"['Jar', 'Jar', 'Live Resin']"
+158,2812,['Jar']
+776,2813,"['Topicals', 'Vape', 'Jar']"
+432,2814,"['Topicals', 'Topicals']"
+924,2815,"['Flower', 'Topicals', 'Jar', 'Live Resin']"
+944,2816,['Edibles']
+416,2817,['Edibles']
+17,2818,"['Live Resin', 'Flower', 'Tinctures', 'Tinctures']"
+135,2819,"['Pre-Rolls', 'Live Resin']"
+202,2820,['Topicals']
+362,2821,"['Tinctures', 'Flower', 'Live Resin']"
+819,2822,"['Vape', 'Topicals']"
+65,2823,"['Jar', 'Live Resin', 'Topicals', 'Flower']"
+375,2824,"['Flower', 'Topicals']"
+517,2825,"['Edibles', 'Live Resin']"
+374,2826,"['Vape', 'Topicals', 'Jar', 'Vape']"
+28,2827,"['Live Resin', 'Flower', 'Topicals']"
+73,2828,['Edibles']
+384,2829,"['Flower', 'Edibles']"
+978,2830,"['Topicals', 'Tinctures', 'Vape', 'Tinctures']"
+204,2831,['Topicals']
+698,2832,"['Jar', 'Pre-Rolls', 'Edibles']"
+5,2833,['Vape']
+70,2834,"['Pre-Rolls', 'Edibles', 'Live Resin', 'Flower']"
+452,2835,['Tinctures']
+236,2836,"['Tinctures', 'Live Resin', 'Topicals']"
+696,2837,"['Vape', 'Pre-Rolls']"
+744,2838,"['Live Resin', 'Topicals', 'Flower', 'Pre-Rolls']"
+651,2839,"['Jar', 'Vape']"
+974,2840,"['Edibles', 'Vape', 'Tinctures']"
+93,2841,['Edibles']
+434,2842,"['Topicals', 'Edibles', 'Edibles']"
+509,2843,['Flower']
+829,2844,"['Flower', 'Jar']"
+97,2845,['Live Resin']
+324,2846,['Tinctures']
+434,2847,"['Tinctures', 'Flower', 'Flower', 'Pre-Rolls']"
+56,2848,"['Vape', 'Edibles']"
+356,2849,"['Topicals', 'Vape', 'Jar']"
+540,2850,"['Tinctures', 'Pre-Rolls', 'Tinctures', 'Topicals']"
+451,2851,"['Pre-Rolls', 'Jar']"
+586,2852,['Edibles']
+64,2853,"['Edibles', 'Pre-Rolls', 'Topicals', 'Topicals']"
+383,2854,"['Jar', 'Edibles']"
+133,2855,"['Pre-Rolls', 'Pre-Rolls', 'Tinctures']"
+184,2856,"['Pre-Rolls', 'Vape', 'Jar', 'Vape']"
+262,2857,"['Flower', 'Edibles', 'Topicals']"
+310,2858,"['Flower', 'Vape', 'Tinctures']"
+77,2859,"['Tinctures', 'Pre-Rolls']"
+215,2860,"['Tinctures', 'Pre-Rolls', 'Flower']"
+252,2861,"['Pre-Rolls', 'Vape']"
+605,2862,['Pre-Rolls']
+335,2863,['Live Resin']
+315,2864,"['Flower', 'Live Resin', 'Edibles']"
+453,2865,"['Tinctures', 'Pre-Rolls', 'Topicals', 'Topicals']"
+581,2866,"['Pre-Rolls', 'Vape']"
+272,2867,"['Live Resin', 'Live Resin', 'Live Resin']"
+58,2868,"['Topicals', 'Topicals', 'Topicals', 'Jar']"
+727,2869,"['Tinctures', 'Flower', 'Topicals']"
+385,2870,"['Topicals', 'Flower', 'Flower', 'Jar']"
+992,2871,['Jar']
+271,2872,"['Jar', 'Topicals']"
+750,2873,"['Vape', 'Live Resin', 'Pre-Rolls', 'Pre-Rolls']"
+764,2874,"['Live Resin', 'Live Resin']"
+375,2875,"['Pre-Rolls', 'Topicals']"
+219,2876,"['Flower', 'Edibles', 'Vape', 'Edibles']"
+100,2877,['Topicals']
+697,2878,['Live Resin']
+832,2879,"['Pre-Rolls', 'Topicals']"
+328,2880,"['Tinctures', 'Jar', 'Flower']"
+712,2881,['Jar']
+962,2882,['Tinctures']
+940,2883,"['Topicals', 'Live Resin']"
+479,2884,['Live Resin']
+598,2885,"['Jar', 'Vape']"
+56,2886,"['Edibles', 'Live Resin', 'Topicals']"
+327,2887,"['Edibles', 'Jar']"
+741,2888,['Tinctures']
+472,2889,"['Pre-Rolls', 'Flower']"
+127,2890,"['Topicals', 'Tinctures']"
+587,2891,"['Topicals', 'Vape', 'Live Resin']"
+956,2892,"['Vape', 'Tinctures', 'Jar']"
+753,2893,['Live Resin']
+82,2894,"['Jar', 'Topicals', 'Pre-Rolls']"
+777,2895,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+659,2896,['Vape']
+955,2897,"['Tinctures', 'Edibles', 'Live Resin', 'Topicals']"
+538,2898,"['Live Resin', 'Edibles']"
+653,2899,"['Vape', 'Vape']"
+590,2900,"['Flower', 'Vape', 'Tinctures']"
+545,2901,"['Jar', 'Vape']"
+408,2902,"['Jar', 'Edibles', 'Live Resin', 'Jar']"
+446,2903,"['Flower', 'Topicals', 'Flower']"
+988,2904,"['Jar', 'Pre-Rolls', 'Pre-Rolls']"
+762,2905,['Edibles']
+960,2906,"['Jar', 'Tinctures']"
+308,2907,['Edibles']
+868,2908,['Pre-Rolls']
+736,2909,['Vape']
+415,2910,"['Vape', 'Flower']"
+595,2911,"['Topicals', 'Pre-Rolls', 'Pre-Rolls', 'Vape']"
+220,2912,"['Live Resin', 'Jar']"
+440,2913,"['Live Resin', 'Topicals', 'Vape', 'Tinctures']"
+339,2914,"['Pre-Rolls', 'Topicals']"
+398,2915,"['Tinctures', 'Live Resin']"
+907,2916,"['Vape', 'Live Resin']"
+127,2917,"['Jar', 'Vape']"
+568,2918,['Pre-Rolls']
+241,2919,['Flower']
+200,2920,['Vape']
+903,2921,"['Flower', 'Live Resin', 'Live Resin', 'Vape']"
+331,2922,['Topicals']
+731,2923,"['Topicals', 'Jar']"
+622,2924,"['Pre-Rolls', 'Tinctures', 'Live Resin', 'Edibles']"
+507,2925,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+271,2926,['Flower']
+643,2927,"['Vape', 'Flower', 'Tinctures']"
+687,2928,['Live Resin']
+573,2929,"['Flower', 'Pre-Rolls']"
+472,2930,['Live Resin']
+406,2931,"['Tinctures', 'Live Resin']"
+561,2932,"['Tinctures', 'Edibles', 'Vape', 'Live Resin']"
+978,2933,"['Topicals', 'Edibles']"
+8,2934,"['Pre-Rolls', 'Flower', 'Vape']"
+384,2935,"['Pre-Rolls', 'Flower', 'Vape', 'Jar']"
+704,2936,['Flower']
+480,2937,['Live Resin']
+51,2938,"['Vape', 'Flower']"
+791,2939,"['Edibles', 'Vape', 'Edibles', 'Topicals']"
+191,2940,"['Vape', 'Tinctures', 'Pre-Rolls']"
+994,2941,"['Flower', 'Vape', 'Tinctures', 'Tinctures']"
+249,2942,['Pre-Rolls']
+764,2943,"['Pre-Rolls', 'Edibles', 'Live Resin', 'Pre-Rolls']"
+711,2944,"['Flower', 'Tinctures', 'Vape', 'Tinctures']"
+490,2945,['Flower']
+868,2946,"['Flower', 'Topicals', 'Edibles', 'Live Resin']"
+486,2947,"['Flower', 'Vape', 'Topicals']"
+821,2948,['Tinctures']
+749,2949,['Flower']
+91,2950,"['Jar', 'Live Resin', 'Pre-Rolls', 'Live Resin']"
+556,2951,"['Pre-Rolls', 'Pre-Rolls', 'Flower']"
+272,2952,"['Edibles', 'Topicals', 'Pre-Rolls']"
+251,2953,['Topicals']
+877,2954,"['Vape', 'Tinctures', 'Jar', 'Jar']"
+7,2955,"['Jar', 'Vape', 'Live Resin']"
+826,2956,"['Jar', 'Pre-Rolls']"
+658,2957,['Edibles']
+103,2958,"['Vape', 'Flower', 'Topicals']"
+578,2959,"['Topicals', 'Pre-Rolls']"
+191,2960,['Topicals']
+168,2961,"['Vape', 'Edibles', 'Live Resin', 'Jar']"
+27,2962,"['Tinctures', 'Topicals', 'Tinctures']"
+618,2963,"['Edibles', 'Jar', 'Jar']"
+369,2964,"['Topicals', 'Flower', 'Live Resin', 'Jar']"
+443,2965,"['Pre-Rolls', 'Live Resin', 'Topicals']"
+501,2966,['Edibles']
+248,2967,['Jar']
+223,2968,"['Live Resin', 'Vape', 'Jar', 'Topicals']"
+195,2969,['Live Resin']
+871,2970,"['Live Resin', 'Pre-Rolls']"
+837,2971,"['Live Resin', 'Live Resin']"
+148,2972,['Edibles']
+707,2973,"['Topicals', 'Tinctures']"
+724,2974,['Jar']
+619,2975,"['Pre-Rolls', 'Vape', 'Topicals']"
+716,2976,"['Live Resin', 'Flower']"
+491,2977,"['Live Resin', 'Flower', 'Topicals']"
+218,2978,['Live Resin']
+806,2979,"['Jar', 'Pre-Rolls']"
+699,2980,['Live Resin']
+137,2981,"['Jar', 'Vape', 'Jar']"
+216,2982,"['Flower', 'Tinctures']"
+580,2983,"['Live Resin', 'Tinctures']"
+882,2984,"['Live Resin', 'Edibles', 'Vape']"
+415,2985,"['Jar', 'Live Resin', 'Vape']"
+297,2986,['Vape']
+266,2987,"['Flower', 'Flower']"
+41,2988,"['Live Resin', 'Pre-Rolls', 'Edibles']"
+191,2989,"['Tinctures', 'Vape', 'Topicals']"
+890,2990,"['Pre-Rolls', 'Jar']"
+575,2991,"['Flower', 'Flower', 'Flower', 'Pre-Rolls']"
+944,2992,"['Tinctures', 'Jar', 'Flower', 'Tinctures']"
+137,2993,['Tinctures']
+330,2994,"['Edibles', 'Tinctures', 'Jar']"
+246,2995,"['Tinctures', 'Vape', 'Pre-Rolls']"
+782,2996,"['Topicals', 'Live Resin', 'Live Resin', 'Flower']"
+168,2997,"['Flower', 'Jar', 'Flower', 'Flower']"
+836,2998,"['Topicals', 'Jar', 'Edibles', 'Topicals']"
+405,2999,"['Tinctures', 'Live Resin']"
+958,3000,['Flower']
+824,3001,"['Edibles', 'Live Resin', 'Topicals']"
+918,3002,"['Tinctures', 'Jar', 'Live Resin']"
+988,3003,['Jar']
+472,3004,"['Live Resin', 'Jar']"
+386,3005,"['Edibles', 'Pre-Rolls']"
+633,3006,"['Live Resin', 'Topicals', 'Flower', 'Pre-Rolls']"
+881,3007,"['Pre-Rolls', 'Jar', 'Jar']"
+608,3008,['Vape']
+669,3009,"['Live Resin', 'Topicals', 'Edibles']"
+192,3010,"['Vape', 'Live Resin', 'Pre-Rolls']"
+265,3011,"['Edibles', 'Topicals']"
+170,3012,['Live Resin']
+450,3013,"['Jar', 'Tinctures']"
+485,3014,"['Vape', 'Edibles', 'Vape']"
+941,3015,"['Tinctures', 'Tinctures']"
+243,3016,"['Edibles', 'Pre-Rolls']"
+637,3017,['Flower']
+956,3018,"['Edibles', 'Tinctures', 'Vape', 'Flower']"
+727,3019,"['Topicals', 'Topicals', 'Pre-Rolls']"
+164,3020,"['Live Resin', 'Live Resin', 'Edibles', 'Pre-Rolls']"
+230,3021,"['Edibles', 'Live Resin', 'Jar']"
+739,3022,"['Flower', 'Topicals', 'Pre-Rolls', 'Jar']"
+548,3023,"['Edibles', 'Edibles']"
+889,3024,"['Topicals', 'Pre-Rolls', 'Live Resin', 'Jar']"
+347,3025,"['Live Resin', 'Jar', 'Pre-Rolls', 'Live Resin']"
+668,3026,"['Jar', 'Jar', 'Topicals', 'Live Resin']"
+145,3027,"['Flower', 'Pre-Rolls', 'Vape', 'Flower']"
+48,3028,"['Vape', 'Jar', 'Topicals']"
+140,3029,"['Pre-Rolls', 'Vape', 'Edibles']"
+245,3030,"['Pre-Rolls', 'Flower', 'Topicals', 'Live Resin']"
+703,3031,"['Live Resin', 'Vape']"
+187,3032,"['Pre-Rolls', 'Topicals', 'Topicals', 'Vape']"
+23,3033,"['Flower', 'Jar']"
+590,3034,['Pre-Rolls']
+97,3035,['Jar']
+258,3036,"['Live Resin', 'Tinctures']"
+706,3037,"['Topicals', 'Flower', 'Flower', 'Jar']"
+1,3038,"['Vape', 'Topicals', 'Jar', 'Jar']"
+67,3039,"['Flower', 'Tinctures']"
+434,3040,"['Edibles', 'Topicals']"
+632,3041,"['Flower', 'Tinctures']"
+194,3042,['Tinctures']
+234,3043,"['Tinctures', 'Flower']"
+780,3044,['Edibles']
+818,3045,['Topicals']
+180,3046,['Jar']
+529,3047,"['Topicals', 'Pre-Rolls', 'Pre-Rolls']"
+286,3048,"['Pre-Rolls', 'Pre-Rolls', 'Vape', 'Topicals']"
+301,3049,"['Vape', 'Jar', 'Edibles']"
+142,3050,"['Edibles', 'Topicals', 'Tinctures']"
+218,3051,"['Live Resin', 'Topicals', 'Pre-Rolls', 'Live Resin']"
+985,3052,"['Pre-Rolls', 'Edibles']"
+305,3053,"['Tinctures', 'Live Resin', 'Edibles', 'Tinctures']"
+507,3054,"['Pre-Rolls', 'Jar', 'Jar']"
+676,3055,"['Tinctures', 'Tinctures', 'Pre-Rolls', 'Jar']"
+73,3056,"['Edibles', 'Live Resin', 'Vape']"
+620,3057,"['Jar', 'Flower', 'Edibles']"
+606,3058,['Jar']
+538,3059,"['Topicals', 'Jar']"
+153,3060,"['Live Resin', 'Jar', 'Vape']"
+911,3061,"['Jar', 'Topicals']"
+623,3062,"['Jar', 'Pre-Rolls']"
+10,3063,['Live Resin']
+819,3064,"['Tinctures', 'Jar', 'Live Resin', 'Flower']"
+689,3065,['Flower']
+495,3066,"['Live Resin', 'Edibles']"
+340,3067,['Pre-Rolls']
+840,3068,"['Flower', 'Tinctures']"
+329,3069,"['Vape', 'Edibles', 'Vape', 'Edibles']"
+883,3070,"['Edibles', 'Flower', 'Topicals']"
+87,3071,"['Jar', 'Vape', 'Topicals']"
+337,3072,"['Jar', 'Vape', 'Vape']"
+863,3073,['Edibles']
+276,3074,"['Pre-Rolls', 'Jar', 'Jar', 'Tinctures']"
+707,3075,"['Tinctures', 'Pre-Rolls']"
+351,3076,['Vape']
+130,3077,"['Tinctures', 'Vape', 'Jar']"
+919,3078,"['Pre-Rolls', 'Tinctures']"
+399,3079,['Topicals']
+59,3080,['Tinctures']
+937,3081,['Live Resin']
+949,3082,"['Pre-Rolls', 'Topicals', 'Edibles']"
+454,3083,"['Vape', 'Flower', 'Vape']"
+332,3084,"['Topicals', 'Tinctures', 'Pre-Rolls']"
+447,3085,['Live Resin']
+583,3086,"['Pre-Rolls', 'Flower', 'Tinctures']"
+707,3087,"['Vape', 'Flower']"
+624,3088,"['Flower', 'Vape', 'Topicals', 'Topicals']"
+638,3089,['Topicals']
+72,3090,"['Edibles', 'Flower']"
+207,3091,['Live Resin']
+565,3092,"['Edibles', 'Vape', 'Tinctures', 'Pre-Rolls']"
+983,3093,"['Vape', 'Live Resin']"
+227,3094,"['Tinctures', 'Live Resin', 'Jar', 'Pre-Rolls']"
+128,3095,"['Topicals', 'Live Resin', 'Jar']"
+31,3096,['Live Resin']
+4,3097,"['Live Resin', 'Pre-Rolls']"
+734,3098,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls', 'Topicals']"
+853,3099,['Topicals']
+403,3100,"['Edibles', 'Vape', 'Jar', 'Jar']"
+808,3101,"['Edibles', 'Pre-Rolls', 'Tinctures', 'Tinctures']"
+292,3102,"['Topicals', 'Vape']"
+252,3103,"['Flower', 'Vape', 'Edibles', 'Pre-Rolls']"
+219,3104,['Edibles']
+690,3105,"['Topicals', 'Tinctures']"
+159,3106,"['Flower', 'Jar']"
+189,3107,"['Live Resin', 'Pre-Rolls']"
+793,3108,"['Topicals', 'Live Resin']"
+777,3109,"['Tinctures', 'Tinctures', 'Edibles', 'Vape']"
+443,3110,['Tinctures']
+641,3111,"['Edibles', 'Edibles', 'Vape', 'Live Resin']"
+743,3112,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls']"
+798,3113,"['Edibles', 'Topicals', 'Vape', 'Edibles']"
+155,3114,['Jar']
+936,3115,"['Vape', 'Flower']"
+132,3116,"['Pre-Rolls', 'Edibles', 'Flower', 'Flower']"
+505,3117,"['Topicals', 'Tinctures', 'Jar']"
+461,3118,"['Tinctures', 'Jar', 'Topicals']"
+479,3119,"['Topicals', 'Tinctures', 'Vape']"
+479,3120,"['Edibles', 'Topicals', 'Vape', 'Vape']"
+224,3121,['Flower']
+209,3122,"['Vape', 'Vape', 'Live Resin', 'Jar']"
+962,3123,"['Pre-Rolls', 'Vape']"
+78,3124,"['Flower', 'Live Resin', 'Pre-Rolls', 'Live Resin']"
+425,3125,['Flower']
+908,3126,"['Tinctures', 'Pre-Rolls']"
+744,3127,"['Flower', 'Flower']"
+519,3128,['Flower']
+717,3129,['Jar']
+984,3130,"['Vape', 'Pre-Rolls']"
+35,3131,"['Live Resin', 'Live Resin', 'Pre-Rolls', 'Topicals']"
+978,3132,"['Pre-Rolls', 'Jar', 'Edibles', 'Live Resin']"
+408,3133,"['Topicals', 'Live Resin']"
+412,3134,['Tinctures']
+951,3135,"['Topicals', 'Jar', 'Tinctures']"
+306,3136,"['Vape', 'Topicals']"
+748,3137,"['Pre-Rolls', 'Jar', 'Topicals', 'Edibles']"
+490,3138,"['Topicals', 'Jar', 'Tinctures']"
+29,3139,"['Edibles', 'Live Resin', 'Pre-Rolls']"
+948,3140,"['Tinctures', 'Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+822,3141,['Live Resin']
+454,3142,"['Jar', 'Pre-Rolls', 'Pre-Rolls', 'Jar']"
+4,3143,"['Jar', 'Flower', 'Flower']"
+213,3144,"['Tinctures', 'Live Resin']"
+572,3145,"['Vape', 'Vape', 'Jar']"
+371,3146,"['Topicals', 'Vape', 'Edibles']"
+54,3147,['Vape']
+244,3148,"['Vape', 'Pre-Rolls']"
+388,3149,['Topicals']
+817,3150,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls']"
+36,3151,"['Live Resin', 'Vape']"
+344,3152,"['Live Resin', 'Jar']"
+630,3153,"['Flower', 'Topicals', 'Edibles', 'Topicals']"
+321,3154,"['Jar', 'Topicals']"
+174,3155,"['Flower', 'Vape']"
+639,3156,"['Flower', 'Edibles', 'Tinctures', 'Live Resin']"
+516,3157,"['Vape', 'Vape']"
+816,3158,['Flower']
+312,3159,"['Pre-Rolls', 'Vape']"
+139,3160,"['Tinctures', 'Vape', 'Vape']"
+646,3161,"['Flower', 'Edibles', 'Topicals']"
+295,3162,"['Vape', 'Topicals', 'Flower', 'Live Resin']"
+87,3163,"['Pre-Rolls', 'Tinctures', 'Flower', 'Live Resin']"
+746,3164,"['Topicals', 'Live Resin']"
+844,3165,"['Live Resin', 'Flower', 'Flower', 'Live Resin']"
+39,3166,"['Topicals', 'Topicals']"
+656,3167,"['Jar', 'Jar', 'Jar', 'Topicals']"
+485,3168,"['Jar', 'Flower']"
+811,3169,"['Tinctures', 'Jar', 'Vape']"
+726,3170,"['Flower', 'Pre-Rolls', 'Pre-Rolls']"
+305,3171,"['Pre-Rolls', 'Jar']"
+746,3172,"['Live Resin', 'Vape']"
+55,3173,"['Jar', 'Vape', 'Tinctures', 'Vape']"
+136,3174,"['Live Resin', 'Vape', 'Live Resin']"
+920,3175,"['Topicals', 'Jar']"
+508,3176,"['Live Resin', 'Flower']"
+277,3177,"['Live Resin', 'Vape', 'Tinctures']"
+19,3178,"['Topicals', 'Topicals']"
+692,3179,"['Jar', 'Jar', 'Edibles', 'Flower']"
+664,3180,"['Edibles', 'Topicals', 'Jar']"
+890,3181,['Flower']
+445,3182,"['Jar', 'Vape', 'Jar', 'Live Resin']"
+485,3183,"['Topicals', 'Topicals']"
+801,3184,"['Flower', 'Tinctures', 'Pre-Rolls']"
+777,3185,['Jar']
+376,3186,"['Jar', 'Edibles', 'Tinctures']"
+519,3187,"['Topicals', 'Flower', 'Tinctures']"
+172,3188,"['Edibles', 'Tinctures']"
+439,3189,['Edibles']
+465,3190,"['Tinctures', 'Topicals', 'Live Resin', 'Jar']"
+431,3191,['Vape']
+142,3192,"['Live Resin', 'Live Resin']"
+381,3193,"['Flower', 'Edibles']"
+583,3194,"['Vape', 'Flower']"
+949,3195,['Jar']
+3,3196,"['Edibles', 'Pre-Rolls']"
+863,3197,"['Flower', 'Flower']"
+949,3198,"['Tinctures', 'Edibles']"
+441,3199,"['Vape', 'Tinctures', 'Edibles']"
+851,3200,"['Tinctures', 'Jar']"
+164,3201,"['Edibles', 'Topicals']"
+15,3202,['Vape']
+863,3203,['Vape']
+41,3204,"['Flower', 'Vape', 'Tinctures', 'Edibles']"
+251,3205,"['Live Resin', 'Vape', 'Flower', 'Edibles']"
+724,3206,"['Pre-Rolls', 'Flower']"
+415,3207,"['Edibles', 'Live Resin']"
+196,3208,"['Pre-Rolls', 'Jar', 'Flower', 'Flower']"
+825,3209,['Edibles']
+521,3210,['Live Resin']
+679,3211,"['Pre-Rolls', 'Tinctures', 'Vape', 'Topicals']"
+366,3212,"['Tinctures', 'Topicals', 'Tinctures']"
+650,3213,"['Edibles', 'Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+868,3214,"['Live Resin', 'Topicals', 'Jar']"
+813,3215,['Edibles']
+830,3216,"['Flower', 'Live Resin', 'Flower', 'Vape']"
+967,3217,"['Vape', 'Vape', 'Flower', 'Topicals']"
+414,3218,['Flower']
+905,3219,"['Flower', 'Tinctures']"
+979,3220,"['Edibles', 'Vape', 'Tinctures']"
+815,3221,"['Edibles', 'Jar']"
+269,3222,['Flower']
+969,3223,"['Tinctures', 'Vape', 'Topicals']"
+422,3224,['Tinctures']
+747,3225,"['Pre-Rolls', 'Vape']"
+73,3226,"['Jar', 'Vape', 'Pre-Rolls', 'Vape']"
+290,3227,['Vape']
+588,3228,['Tinctures']
+459,3229,['Edibles']
+274,3230,"['Live Resin', 'Pre-Rolls', 'Topicals', 'Vape']"
+323,3231,"['Vape', 'Jar']"
+610,3232,"['Flower', 'Edibles', 'Edibles', 'Jar']"
+498,3233,"['Edibles', 'Edibles', 'Jar', 'Live Resin']"
+662,3234,"['Vape', 'Flower', 'Vape', 'Pre-Rolls']"
+601,3235,['Pre-Rolls']
+214,3236,"['Jar', 'Topicals']"
+107,3237,"['Jar', 'Live Resin']"
+536,3238,"['Flower', 'Vape']"
+948,3239,"['Flower', 'Topicals']"
+223,3240,['Live Resin']
+602,3241,"['Tinctures', 'Flower', 'Topicals']"
+716,3242,['Pre-Rolls']
+789,3243,"['Edibles', 'Topicals']"
+585,3244,['Flower']
+696,3245,"['Flower', 'Live Resin', 'Pre-Rolls']"
+497,3246,"['Flower', 'Topicals', 'Pre-Rolls']"
+767,3247,"['Topicals', 'Jar']"
+589,3248,"['Live Resin', 'Flower', 'Tinctures', 'Live Resin']"
+859,3249,"['Jar', 'Live Resin', 'Live Resin']"
+555,3250,['Flower']
+726,3251,"['Flower', 'Live Resin']"
+285,3252,"['Topicals', 'Topicals', 'Flower', 'Pre-Rolls']"
+863,3253,"['Pre-Rolls', 'Pre-Rolls']"
+613,3254,['Edibles']
+809,3255,"['Vape', 'Live Resin', 'Vape', 'Live Resin']"
+80,3256,"['Tinctures', 'Vape', 'Vape', 'Flower']"
+264,3257,['Tinctures']
+614,3258,"['Flower', 'Pre-Rolls']"
+936,3259,['Edibles']
+724,3260,"['Edibles', 'Tinctures']"
+519,3261,"['Flower', 'Jar', 'Tinctures']"
+438,3262,"['Flower', 'Edibles', 'Flower', 'Pre-Rolls']"
+36,3263,['Vape']
+604,3264,"['Flower', 'Jar', 'Pre-Rolls']"
+758,3265,['Edibles']
+636,3266,"['Topicals', 'Live Resin', 'Edibles', 'Edibles']"
+911,3267,"['Flower', 'Jar', 'Topicals', 'Pre-Rolls']"
+323,3268,"['Jar', 'Jar', 'Tinctures', 'Edibles']"
+834,3269,"['Topicals', 'Flower']"
+322,3270,"['Flower', 'Topicals', 'Topicals', 'Edibles']"
+15,3271,"['Edibles', 'Flower']"
+888,3272,['Edibles']
+289,3273,"['Pre-Rolls', 'Jar', 'Live Resin']"
+612,3274,"['Live Resin', 'Live Resin', 'Jar', 'Edibles']"
+720,3275,"['Vape', 'Topicals', 'Jar']"
+820,3276,['Edibles']
+678,3277,"['Flower', 'Vape', 'Edibles', 'Live Resin']"
+213,3278,"['Topicals', 'Pre-Rolls', 'Edibles', 'Live Resin']"
+147,3279,"['Flower', 'Vape', 'Vape', 'Tinctures']"
+844,3280,['Topicals']
+427,3281,"['Tinctures', 'Topicals', 'Live Resin']"
+794,3282,"['Live Resin', 'Live Resin']"
+894,3283,"['Pre-Rolls', 'Tinctures']"
+447,3284,"['Flower', 'Pre-Rolls']"
+304,3285,"['Topicals', 'Live Resin']"
+222,3286,"['Pre-Rolls', 'Live Resin']"
+131,3287,"['Live Resin', 'Vape']"
+135,3288,"['Tinctures', 'Pre-Rolls']"
+764,3289,"['Flower', 'Vape', 'Topicals', 'Flower']"
+228,3290,"['Jar', 'Jar']"
+999,3291,"['Topicals', 'Jar']"
+605,3292,"['Topicals', 'Topicals', 'Vape']"
+264,3293,"['Tinctures', 'Tinctures', 'Pre-Rolls', 'Jar']"
+915,3294,"['Vape', 'Tinctures', 'Edibles']"
+391,3295,"['Live Resin', 'Jar', 'Vape', 'Vape']"
+104,3296,"['Tinctures', 'Pre-Rolls', 'Tinctures', 'Tinctures']"
+134,3297,"['Flower', 'Jar', 'Vape']"
+104,3298,['Edibles']
+161,3299,"['Jar', 'Tinctures', 'Tinctures', 'Topicals']"
+736,3300,['Edibles']
+562,3301,"['Vape', 'Edibles', 'Pre-Rolls']"
+600,3302,"['Tinctures', 'Topicals', 'Pre-Rolls', 'Vape']"
+721,3303,"['Tinctures', 'Jar', 'Vape', 'Jar']"
+957,3304,"['Tinctures', 'Tinctures']"
+902,3305,"['Live Resin', 'Flower', 'Topicals']"
+547,3306,"['Topicals', 'Pre-Rolls', 'Pre-Rolls']"
+825,3307,['Topicals']
+667,3308,"['Topicals', 'Topicals']"
+77,3309,"['Edibles', 'Edibles']"
+677,3310,['Live Resin']
+888,3311,"['Topicals', 'Topicals', 'Topicals']"
+933,3312,"['Live Resin', 'Topicals', 'Vape']"
+107,3313,['Topicals']
+338,3314,"['Topicals', 'Jar']"
+631,3315,"['Edibles', 'Pre-Rolls']"
+296,3316,['Vape']
+576,3317,['Edibles']
+956,3318,"['Topicals', 'Live Resin', 'Vape', 'Topicals']"
+348,3319,"['Topicals', 'Vape', 'Live Resin', 'Vape']"
+234,3320,"['Live Resin', 'Tinctures', 'Pre-Rolls']"
+258,3321,"['Live Resin', 'Pre-Rolls']"
+17,3322,['Pre-Rolls']
+5,3323,"['Flower', 'Flower']"
+717,3324,"['Pre-Rolls', 'Edibles', 'Topicals', 'Pre-Rolls']"
+75,3325,['Tinctures']
+187,3326,"['Live Resin', 'Vape', 'Tinctures']"
+702,3327,['Pre-Rolls']
+462,3328,"['Vape', 'Topicals', 'Pre-Rolls', 'Tinctures']"
+448,3329,['Flower']
+760,3330,['Vape']
+716,3331,"['Jar', 'Topicals', 'Tinctures']"
+942,3332,"['Jar', 'Vape', 'Topicals', 'Tinctures']"
+897,3333,['Edibles']
+168,3334,"['Jar', 'Flower', 'Jar']"
+141,3335,"['Jar', 'Edibles', 'Flower', 'Jar']"
+932,3336,"['Tinctures', 'Live Resin', 'Topicals', 'Edibles']"
+198,3337,"['Edibles', 'Live Resin']"
+837,3338,['Jar']
+606,3339,"['Flower', 'Jar', 'Edibles']"
+996,3340,"['Live Resin', 'Edibles', 'Pre-Rolls']"
+544,3341,['Edibles']
+721,3342,['Vape']
+938,3343,"['Flower', 'Vape', 'Tinctures']"
+312,3344,['Jar']
+962,3345,['Flower']
+510,3346,"['Flower', 'Vape', 'Live Resin']"
+308,3347,"['Jar', 'Tinctures']"
+177,3348,"['Edibles', 'Vape']"
+847,3349,['Jar']
+911,3350,['Topicals']
+952,3351,"['Vape', 'Pre-Rolls', 'Flower']"
+653,3352,"['Jar', 'Jar', 'Live Resin', 'Topicals']"
+166,3353,"['Flower', 'Flower']"
+350,3354,['Topicals']
+408,3355,['Topicals']
+733,3356,"['Vape', 'Topicals', 'Jar']"
+473,3357,['Live Resin']
+765,3358,"['Live Resin', 'Vape']"
+517,3359,"['Jar', 'Edibles']"
+713,3360,"['Pre-Rolls', 'Vape', 'Pre-Rolls']"
+504,3361,"['Live Resin', 'Pre-Rolls', 'Live Resin']"
+66,3362,"['Tinctures', 'Live Resin', 'Vape', 'Tinctures']"
+868,3363,['Pre-Rolls']
+526,3364,"['Live Resin', 'Live Resin', 'Live Resin']"
+793,3365,"['Jar', 'Live Resin']"
+514,3366,"['Flower', 'Live Resin', 'Topicals', 'Edibles']"
+539,3367,['Pre-Rolls']
+145,3368,"['Topicals', 'Edibles']"
+931,3369,"['Flower', 'Topicals', 'Tinctures']"
+989,3370,['Tinctures']
+132,3371,"['Jar', 'Flower', 'Vape']"
+210,3372,"['Jar', 'Jar', 'Jar']"
+462,3373,['Jar']
+539,3374,"['Pre-Rolls', 'Topicals']"
+659,3375,"['Jar', 'Flower', 'Live Resin', 'Pre-Rolls']"
+560,3376,['Vape']
+665,3377,['Flower']
+495,3378,['Topicals']
+60,3379,"['Jar', 'Vape']"
+338,3380,"['Jar', 'Topicals']"
+674,3381,"['Edibles', 'Flower', 'Vape']"
+560,3382,"['Pre-Rolls', 'Topicals', 'Flower']"
+996,3383,"['Tinctures', 'Pre-Rolls', 'Jar']"
+869,3384,"['Tinctures', 'Pre-Rolls', 'Vape']"
+298,3385,"['Tinctures', 'Live Resin', 'Live Resin']"
+70,3386,"['Flower', 'Live Resin', 'Jar']"
+398,3387,"['Pre-Rolls', 'Live Resin', 'Tinctures']"
+535,3388,"['Topicals', 'Pre-Rolls', 'Vape', 'Pre-Rolls']"
+51,3389,['Vape']
+394,3390,"['Pre-Rolls', 'Topicals']"
+715,3391,"['Live Resin', 'Flower', 'Edibles', 'Live Resin']"
+79,3392,"['Vape', 'Vape', 'Live Resin']"
+749,3393,"['Topicals', 'Jar']"
+205,3394,"['Vape', 'Tinctures', 'Jar']"
+715,3395,"['Topicals', 'Flower', 'Vape', 'Flower']"
+741,3396,"['Pre-Rolls', 'Topicals']"
+262,3397,['Live Resin']
+590,3398,['Flower']
+658,3399,"['Edibles', 'Pre-Rolls', 'Edibles']"
+379,3400,"['Topicals', 'Vape']"
+411,3401,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls', 'Tinctures']"
+314,3402,"['Edibles', 'Tinctures', 'Live Resin']"
+479,3403,"['Tinctures', 'Pre-Rolls', 'Vape', 'Topicals']"
+766,3404,"['Edibles', 'Topicals', 'Vape', 'Jar']"
+589,3405,"['Flower', 'Topicals']"
+614,3406,['Pre-Rolls']
+550,3407,"['Flower', 'Jar']"
+996,3408,"['Tinctures', 'Topicals']"
+891,3409,"['Edibles', 'Edibles', 'Live Resin', 'Live Resin']"
+992,3410,"['Live Resin', 'Vape']"
+278,3411,"['Jar', 'Pre-Rolls']"
+401,3412,"['Tinctures', 'Flower']"
+26,3413,"['Edibles', 'Edibles', 'Live Resin']"
+772,3414,['Jar']
+696,3415,['Tinctures']
+333,3416,"['Tinctures', 'Flower']"
+528,3417,"['Topicals', 'Topicals', 'Edibles']"
+439,3418,"['Tinctures', 'Jar', 'Jar']"
+704,3419,['Vape']
+455,3420,['Tinctures']
+639,3421,['Tinctures']
+276,3422,"['Flower', 'Vape', 'Edibles', 'Flower']"
+581,3423,"['Jar', 'Live Resin']"
+794,3424,"['Live Resin', 'Live Resin', 'Live Resin', 'Live Resin']"
+816,3425,"['Jar', 'Pre-Rolls']"
+397,3426,"['Jar', 'Topicals', 'Pre-Rolls', 'Pre-Rolls']"
+198,3427,"['Pre-Rolls', 'Flower', 'Tinctures']"
+905,3428,"['Edibles', 'Pre-Rolls', 'Topicals']"
+695,3429,"['Pre-Rolls', 'Edibles']"
+555,3430,['Flower']
+248,3431,"['Jar', 'Tinctures']"
+995,3432,"['Pre-Rolls', 'Tinctures', 'Tinctures']"
+4,3433,['Vape']
+877,3434,"['Tinctures', 'Tinctures']"
+636,3435,['Tinctures']
+879,3436,"['Edibles', 'Topicals', 'Pre-Rolls']"
+941,3437,"['Flower', 'Live Resin', 'Flower']"
+456,3438,"['Jar', 'Topicals']"
+158,3439,['Jar']
+207,3440,"['Jar', 'Flower']"
+405,3441,"['Live Resin', 'Topicals', 'Edibles', 'Pre-Rolls']"
+824,3442,['Topicals']
+123,3443,"['Live Resin', 'Jar', 'Vape']"
+52,3444,['Jar']
+860,3445,"['Tinctures', 'Topicals', 'Vape']"
+557,3446,"['Live Resin', 'Tinctures', 'Flower', 'Vape']"
+61,3447,"['Flower', 'Jar', 'Pre-Rolls']"
+588,3448,"['Vape', 'Pre-Rolls', 'Vape', 'Flower']"
+902,3449,"['Tinctures', 'Pre-Rolls']"
+145,3450,"['Live Resin', 'Live Resin']"
+428,3451,['Vape']
+86,3452,"['Vape', 'Topicals', 'Edibles']"
+394,3453,"['Pre-Rolls', 'Edibles', 'Jar']"
+411,3454,"['Edibles', 'Topicals', 'Pre-Rolls']"
+136,3455,"['Topicals', 'Topicals', 'Jar', 'Topicals']"
+8,3456,"['Vape', 'Tinctures', 'Flower']"
+102,3457,['Topicals']
+429,3458,['Pre-Rolls']
+331,3459,"['Topicals', 'Vape']"
+365,3460,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls', 'Topicals']"
+923,3461,"['Flower', 'Edibles', 'Live Resin', 'Live Resin']"
+327,3462,"['Flower', 'Edibles', 'Topicals']"
+751,3463,"['Live Resin', 'Flower', 'Tinctures', 'Jar']"
+461,3464,"['Vape', 'Pre-Rolls', 'Flower', 'Vape']"
+701,3465,['Flower']
+519,3466,"['Edibles', 'Live Resin', 'Live Resin']"
+417,3467,['Live Resin']
+974,3468,"['Topicals', 'Jar']"
+285,3469,['Tinctures']
+339,3470,['Jar']
+512,3471,['Tinctures']
+682,3472,"['Flower', 'Live Resin', 'Vape']"
+950,3473,['Jar']
+536,3474,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls']"
+970,3475,"['Live Resin', 'Pre-Rolls']"
+409,3476,"['Vape', 'Tinctures', 'Vape']"
+331,3477,"['Live Resin', 'Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+336,3478,['Jar']
+770,3479,"['Edibles', 'Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+777,3480,['Pre-Rolls']
+368,3481,"['Jar', 'Jar', 'Edibles']"
+910,3482,"['Jar', 'Topicals', 'Flower', 'Tinctures']"
+506,3483,"['Tinctures', 'Jar', 'Topicals', 'Jar']"
+361,3484,['Pre-Rolls']
+103,3485,"['Pre-Rolls', 'Edibles', 'Jar']"
+990,3486,['Edibles']
+177,3487,"['Tinctures', 'Pre-Rolls']"
+261,3488,"['Tinctures', 'Vape', 'Vape', 'Topicals']"
+482,3489,"['Edibles', 'Vape', 'Pre-Rolls']"
+442,3490,"['Jar', 'Edibles', 'Vape', 'Edibles']"
+282,3491,"['Jar', 'Live Resin']"
+6,3492,"['Jar', 'Live Resin', 'Topicals']"
+8,3493,"['Jar', 'Tinctures', 'Edibles', 'Jar']"
+54,3494,"['Flower', 'Pre-Rolls']"
+396,3495,"['Live Resin', 'Flower']"
+537,3496,"['Tinctures', 'Jar', 'Vape']"
+458,3497,"['Pre-Rolls', 'Edibles']"
+346,3498,"['Topicals', 'Vape', 'Tinctures', 'Flower']"
+534,3499,['Vape']
+806,3500,"['Topicals', 'Jar', 'Flower', 'Edibles']"
+829,3501,"['Jar', 'Tinctures', 'Edibles', 'Edibles']"
+425,3502,"['Tinctures', 'Live Resin', 'Flower', 'Pre-Rolls']"
+828,3503,"['Tinctures', 'Jar', 'Flower']"
+544,3504,"['Vape', 'Vape', 'Tinctures', 'Flower']"
+877,3505,"['Tinctures', 'Pre-Rolls', 'Jar', 'Live Resin']"
+136,3506,"['Pre-Rolls', 'Live Resin']"
+299,3507,"['Pre-Rolls', 'Jar', 'Topicals', 'Vape']"
+700,3508,"['Edibles', 'Flower', 'Topicals']"
+59,3509,['Flower']
+366,3510,"['Vape', 'Live Resin']"
+74,3511,"['Flower', 'Tinctures']"
+425,3512,"['Topicals', 'Vape']"
+392,3513,"['Topicals', 'Jar', 'Tinctures', 'Pre-Rolls']"
+362,3514,"['Tinctures', 'Pre-Rolls']"
+262,3515,"['Edibles', 'Edibles', 'Vape', 'Flower']"
+333,3516,"['Flower', 'Jar']"
+110,3517,"['Jar', 'Vape', 'Edibles']"
+158,3518,"['Tinctures', 'Edibles', 'Edibles']"
+180,3519,['Vape']
+914,3520,['Live Resin']
+263,3521,"['Flower', 'Tinctures', 'Jar', 'Jar']"
+883,3522,"['Jar', 'Tinctures', 'Jar', 'Topicals']"
+310,3523,"['Vape', 'Edibles', 'Tinctures', 'Vape']"
+267,3524,"['Pre-Rolls', 'Topicals', 'Pre-Rolls', 'Flower']"
+71,3525,"['Tinctures', 'Live Resin']"
+789,3526,['Vape']
+525,3527,"['Flower', 'Tinctures', 'Live Resin']"
+603,3528,"['Tinctures', 'Pre-Rolls', 'Tinctures']"
+627,3529,['Tinctures']
+484,3530,"['Topicals', 'Pre-Rolls']"
+956,3531,"['Live Resin', 'Pre-Rolls']"
+304,3532,"['Live Resin', 'Edibles', 'Pre-Rolls', 'Flower']"
+6,3533,"['Flower', 'Pre-Rolls']"
+148,3534,"['Live Resin', 'Flower', 'Live Resin', 'Edibles']"
+821,3535,"['Jar', 'Pre-Rolls']"
+869,3536,"['Topicals', 'Topicals']"
+854,3537,['Pre-Rolls']
+207,3538,"['Tinctures', 'Vape']"
+207,3539,['Edibles']
+542,3540,"['Edibles', 'Topicals', 'Live Resin']"
+417,3541,"['Live Resin', 'Jar', 'Topicals', 'Edibles']"
+935,3542,"['Jar', 'Edibles']"
+548,3543,"['Pre-Rolls', 'Live Resin', 'Jar', 'Pre-Rolls']"
+437,3544,"['Vape', 'Vape']"
+18,3545,"['Edibles', 'Pre-Rolls', 'Topicals', 'Flower']"
+525,3546,"['Topicals', 'Topicals']"
+795,3547,"['Tinctures', 'Topicals', 'Pre-Rolls']"
+239,3548,"['Live Resin', 'Jar', 'Jar', 'Edibles']"
+857,3549,"['Jar', 'Pre-Rolls']"
+326,3550,"['Flower', 'Flower', 'Edibles']"
+841,3551,"['Pre-Rolls', 'Jar', 'Live Resin']"
+482,3552,"['Vape', 'Tinctures']"
+889,3553,"['Tinctures', 'Jar', 'Flower']"
+43,3554,['Topicals']
+748,3555,['Vape']
+66,3556,"['Flower', 'Jar', 'Jar', 'Edibles']"
+464,3557,"['Tinctures', 'Jar', 'Flower']"
+21,3558,"['Flower', 'Live Resin', 'Vape', 'Flower']"
+982,3559,"['Flower', 'Tinctures']"
+252,3560,"['Edibles', 'Edibles']"
+419,3561,"['Flower', 'Jar']"
+199,3562,"['Live Resin', 'Jar', 'Tinctures', 'Live Resin']"
+47,3563,"['Flower', 'Tinctures']"
+904,3564,"['Tinctures', 'Topicals', 'Topicals', 'Tinctures']"
+638,3565,"['Pre-Rolls', 'Jar', 'Live Resin', 'Flower']"
+306,3566,"['Edibles', 'Flower', 'Pre-Rolls', 'Jar']"
+830,3567,"['Live Resin', 'Topicals', 'Tinctures']"
+960,3568,"['Live Resin', 'Live Resin', 'Flower', 'Pre-Rolls']"
+275,3569,"['Jar', 'Live Resin', 'Tinctures']"
+158,3570,"['Edibles', 'Jar']"
+939,3571,"['Flower', 'Pre-Rolls', 'Topicals']"
+218,3572,"['Live Resin', 'Tinctures', 'Flower', 'Pre-Rolls']"
+525,3573,"['Edibles', 'Flower', 'Vape', 'Pre-Rolls']"
+659,3574,"['Edibles', 'Vape']"
+422,3575,"['Jar', 'Jar']"
+63,3576,"['Pre-Rolls', 'Topicals']"
+178,3577,"['Flower', 'Flower', 'Pre-Rolls', 'Flower']"
+47,3578,"['Flower', 'Edibles', 'Topicals']"
+817,3579,"['Edibles', 'Pre-Rolls', 'Live Resin', 'Flower']"
+711,3580,['Flower']
+341,3581,['Flower']
+749,3582,['Live Resin']
+50,3583,"['Pre-Rolls', 'Topicals']"
+554,3584,"['Live Resin', 'Tinctures', 'Topicals', 'Live Resin']"
+627,3585,"['Tinctures', 'Jar', 'Tinctures']"
+754,3586,['Topicals']
+548,3587,['Tinctures']
+229,3588,['Pre-Rolls']
+32,3589,"['Live Resin', 'Edibles', 'Tinctures', 'Vape']"
+624,3590,['Tinctures']
+796,3591,['Pre-Rolls']
+894,3592,"['Vape', 'Topicals', 'Vape']"
+285,3593,"['Edibles', 'Edibles', 'Edibles']"
+765,3594,['Tinctures']
+71,3595,"['Topicals', 'Flower', 'Topicals']"
+218,3596,"['Topicals', 'Edibles']"
+276,3597,"['Pre-Rolls', 'Live Resin']"
+685,3598,['Tinctures']
+593,3599,"['Tinctures', 'Live Resin']"
+13,3600,"['Live Resin', 'Jar', 'Jar', 'Flower']"
+598,3601,"['Vape', 'Pre-Rolls', 'Edibles', 'Tinctures']"
+789,3602,"['Flower', 'Tinctures', 'Live Resin']"
+444,3603,"['Live Resin', 'Topicals']"
+654,3604,"['Tinctures', 'Flower', 'Edibles']"
+68,3605,"['Jar', 'Tinctures']"
+844,3606,"['Tinctures', 'Live Resin']"
+622,3607,['Vape']
+488,3608,"['Jar', 'Tinctures', 'Vape', 'Flower']"
+611,3609,"['Edibles', 'Pre-Rolls', 'Topicals', 'Edibles']"
+497,3610,"['Edibles', 'Tinctures', 'Tinctures']"
+889,3611,['Edibles']
+865,3612,"['Jar', 'Flower', 'Pre-Rolls', 'Live Resin']"
+942,3613,"['Jar', 'Live Resin', 'Live Resin', 'Edibles']"
+841,3614,"['Vape', 'Flower']"
+917,3615,"['Flower', 'Vape']"
+590,3616,"['Pre-Rolls', 'Live Resin', 'Topicals', 'Flower']"
+899,3617,"['Vape', 'Tinctures', 'Flower']"
+499,3618,"['Jar', 'Flower']"
+139,3619,"['Live Resin', 'Live Resin', 'Live Resin', 'Edibles']"
+861,3620,"['Topicals', 'Live Resin']"
+280,3621,"['Jar', 'Pre-Rolls']"
+345,3622,"['Live Resin', 'Edibles', 'Tinctures']"
+157,3623,"['Topicals', 'Jar', 'Live Resin', 'Topicals']"
+569,3624,"['Edibles', 'Topicals', 'Pre-Rolls']"
+276,3625,"['Live Resin', 'Pre-Rolls']"
+113,3626,"['Pre-Rolls', 'Live Resin']"
+215,3627,"['Topicals', 'Vape', 'Pre-Rolls']"
+372,3628,"['Jar', 'Flower']"
+399,3629,['Pre-Rolls']
+625,3630,['Edibles']
+277,3631,['Pre-Rolls']
+540,3632,"['Live Resin', 'Tinctures', 'Tinctures', 'Pre-Rolls']"
+14,3633,['Pre-Rolls']
+306,3634,"['Jar', 'Topicals', 'Jar', 'Live Resin']"
+326,3635,['Pre-Rolls']
+937,3636,['Jar']
+44,3637,['Tinctures']
+476,3638,"['Edibles', 'Tinctures']"
+210,3639,"['Jar', 'Pre-Rolls', 'Flower']"
+363,3640,"['Live Resin', 'Pre-Rolls']"
+772,3641,"['Flower', 'Tinctures', 'Topicals', 'Pre-Rolls']"
+789,3642,"['Tinctures', 'Tinctures', 'Tinctures', 'Vape']"
+387,3643,"['Topicals', 'Pre-Rolls']"
+770,3644,"['Topicals', 'Pre-Rolls']"
+708,3645,"['Flower', 'Pre-Rolls', 'Edibles', 'Pre-Rolls']"
+504,3646,"['Live Resin', 'Vape', 'Jar']"
+307,3647,"['Flower', 'Tinctures']"
+522,3648,"['Topicals', 'Vape']"
+998,3649,"['Edibles', 'Jar', 'Edibles', 'Jar']"
+15,3650,"['Jar', 'Live Resin']"
+587,3651,"['Live Resin', 'Jar', 'Vape']"
+330,3652,"['Live Resin', 'Flower']"
+511,3653,"['Pre-Rolls', 'Topicals']"
+656,3654,"['Live Resin', 'Vape', 'Jar', 'Edibles']"
+655,3655,"['Edibles', 'Vape']"
+977,3656,"['Topicals', 'Edibles']"
+229,3657,"['Tinctures', 'Vape']"
+587,3658,['Jar']
+258,3659,"['Pre-Rolls', 'Tinctures']"
+694,3660,"['Edibles', 'Pre-Rolls', 'Topicals']"
+20,3661,"['Pre-Rolls', 'Topicals', 'Edibles']"
+910,3662,"['Pre-Rolls', 'Tinctures']"
+345,3663,['Topicals']
+599,3664,['Flower']
+849,3665,"['Pre-Rolls', 'Jar']"
+644,3666,"['Flower', 'Tinctures']"
+780,3667,"['Vape', 'Jar']"
+562,3668,"['Tinctures', 'Pre-Rolls', 'Topicals', 'Flower']"
+47,3669,"['Live Resin', 'Jar', 'Pre-Rolls']"
+144,3670,"['Edibles', 'Jar', 'Jar', 'Vape']"
+674,3671,['Tinctures']
+443,3672,"['Pre-Rolls', 'Flower']"
+2,3673,"['Vape', 'Jar', 'Pre-Rolls', 'Jar']"
+173,3674,"['Tinctures', 'Topicals', 'Live Resin']"
+735,3675,"['Flower', 'Vape', 'Tinctures', 'Flower']"
+632,3676,"['Pre-Rolls', 'Live Resin']"
+257,3677,"['Topicals', 'Jar']"
+277,3678,"['Tinctures', 'Jar', 'Tinctures', 'Edibles']"
+151,3679,"['Tinctures', 'Tinctures', 'Flower', 'Topicals']"
+667,3680,"['Flower', 'Edibles', 'Live Resin', 'Vape']"
+893,3681,"['Vape', 'Flower', 'Tinctures', 'Tinctures']"
+829,3682,"['Topicals', 'Flower', 'Topicals', 'Live Resin']"
+878,3683,"['Edibles', 'Edibles', 'Jar']"
+46,3684,"['Topicals', 'Tinctures']"
+821,3685,['Tinctures']
+239,3686,['Flower']
+993,3687,['Jar']
+93,3688,"['Tinctures', 'Jar', 'Jar', 'Vape']"
+363,3689,"['Topicals', 'Pre-Rolls']"
+934,3690,"['Topicals', 'Edibles', 'Topicals']"
+544,3691,['Pre-Rolls']
+615,3692,"['Jar', 'Vape', 'Vape', 'Pre-Rolls']"
+999,3693,['Edibles']
+782,3694,['Topicals']
+144,3695,"['Edibles', 'Flower', 'Jar', 'Jar']"
+341,3696,['Flower']
+534,3697,"['Jar', 'Flower']"
+288,3698,"['Jar', 'Flower', 'Edibles']"
+626,3699,"['Topicals', 'Pre-Rolls', 'Tinctures', 'Edibles']"
+862,3700,"['Vape', 'Topicals', 'Topicals', 'Edibles']"
+892,3701,['Jar']
+18,3702,"['Live Resin', 'Topicals', 'Pre-Rolls', 'Live Resin']"
+480,3703,"['Vape', 'Edibles']"
+196,3704,"['Pre-Rolls', 'Flower', 'Vape', 'Topicals']"
+865,3705,"['Tinctures', 'Tinctures']"
+320,3706,"['Topicals', 'Topicals', 'Flower']"
+158,3707,"['Edibles', 'Edibles', 'Flower', 'Live Resin']"
+42,3708,"['Pre-Rolls', 'Flower']"
+233,3709,"['Tinctures', 'Flower']"
+99,3710,"['Flower', 'Jar', 'Jar']"
+578,3711,"['Edibles', 'Topicals', 'Pre-Rolls', 'Tinctures']"
+762,3712,"['Tinctures', 'Edibles']"
+451,3713,"['Edibles', 'Topicals', 'Live Resin', 'Pre-Rolls']"
+681,3714,"['Topicals', 'Edibles', 'Vape']"
+471,3715,"['Topicals', 'Vape']"
+483,3716,"['Flower', 'Vape']"
+293,3717,['Pre-Rolls']
+546,3718,"['Flower', 'Pre-Rolls']"
+448,3719,"['Edibles', 'Live Resin']"
+472,3720,"['Flower', 'Edibles', 'Vape', 'Jar']"
+372,3721,"['Vape', 'Pre-Rolls', 'Flower', 'Pre-Rolls']"
+625,3722,['Live Resin']
+375,3723,"['Vape', 'Topicals']"
+979,3724,['Tinctures']
+972,3725,"['Tinctures', 'Flower', 'Tinctures']"
+117,3726,"['Pre-Rolls', 'Flower']"
+673,3727,"['Live Resin', 'Topicals']"
+317,3728,"['Vape', 'Tinctures', 'Tinctures', 'Topicals']"
+69,3729,"['Flower', 'Tinctures', 'Live Resin']"
+526,3730,"['Pre-Rolls', 'Topicals', 'Tinctures', 'Topicals']"
+921,3731,"['Pre-Rolls', 'Flower']"
+436,3732,"['Tinctures', 'Flower']"
+756,3733,"['Topicals', 'Edibles', 'Topicals', 'Jar']"
+274,3734,"['Vape', 'Flower']"
+931,3735,"['Flower', 'Pre-Rolls', 'Flower']"
+704,3736,"['Live Resin', 'Edibles', 'Pre-Rolls']"
+536,3737,['Pre-Rolls']
+739,3738,['Vape']
+163,3739,"['Live Resin', 'Live Resin']"
+207,3740,"['Edibles', 'Flower']"
+4,3741,['Live Resin']
+513,3742,"['Topicals', 'Topicals', 'Live Resin']"
+535,3743,"['Edibles', 'Edibles']"
+773,3744,"['Edibles', 'Live Resin', 'Topicals', 'Flower']"
+742,3745,['Tinctures']
+133,3746,"['Pre-Rolls', 'Jar', 'Topicals']"
+860,3747,"['Pre-Rolls', 'Live Resin', 'Tinctures', 'Live Resin']"
+621,3748,"['Topicals', 'Jar', 'Jar']"
+328,3749,"['Flower', 'Live Resin', 'Vape', 'Tinctures']"
+806,3750,"['Jar', 'Flower', 'Topicals', 'Live Resin']"
+657,3751,"['Edibles', 'Vape', 'Flower']"
+533,3752,['Flower']
+895,3753,"['Jar', 'Tinctures']"
+406,3754,"['Pre-Rolls', 'Vape']"
+714,3755,"['Flower', 'Topicals', 'Tinctures']"
+527,3756,"['Pre-Rolls', 'Edibles']"
+826,3757,"['Flower', 'Vape', 'Jar', 'Pre-Rolls']"
+961,3758,"['Live Resin', 'Pre-Rolls', 'Vape', 'Jar']"
+284,3759,"['Topicals', 'Flower', 'Tinctures', 'Edibles']"
+109,3760,"['Tinctures', 'Jar', 'Live Resin', 'Edibles']"
+585,3761,"['Pre-Rolls', 'Vape', 'Topicals', 'Edibles']"
+431,3762,"['Pre-Rolls', 'Tinctures']"
+163,3763,"['Jar', 'Topicals', 'Vape', 'Tinctures']"
+251,3764,"['Flower', 'Tinctures']"
+663,3765,"['Tinctures', 'Pre-Rolls', 'Vape']"
+785,3766,"['Flower', 'Pre-Rolls', 'Tinctures', 'Vape']"
+226,3767,"['Tinctures', 'Topicals', 'Flower', 'Edibles']"
+173,3768,['Topicals']
+995,3769,"['Topicals', 'Live Resin', 'Pre-Rolls', 'Topicals']"
+913,3770,"['Tinctures', 'Live Resin', 'Live Resin', 'Flower']"
+440,3771,"['Flower', 'Jar', 'Live Resin']"
+32,3772,['Topicals']
+755,3773,"['Jar', 'Pre-Rolls', 'Live Resin']"
+659,3774,"['Tinctures', 'Jar', 'Edibles', 'Flower']"
+370,3775,"['Topicals', 'Flower']"
+740,3776,"['Live Resin', 'Tinctures', 'Jar']"
+562,3777,['Flower']
+386,3778,['Topicals']
+734,3779,['Live Resin']
+638,3780,"['Jar', 'Topicals', 'Tinctures']"
+775,3781,['Live Resin']
+287,3782,"['Edibles', 'Live Resin']"
+170,3783,"['Edibles', 'Jar', 'Edibles', 'Jar']"
+471,3784,"['Live Resin', 'Vape', 'Tinctures']"
+431,3785,"['Tinctures', 'Topicals', 'Edibles', 'Edibles']"
+859,3786,['Topicals']
+493,3787,"['Live Resin', 'Jar', 'Live Resin']"
+300,3788,['Vape']
+951,3789,"['Pre-Rolls', 'Live Resin', 'Vape', 'Edibles']"
+529,3790,"['Edibles', 'Vape']"
+215,3791,"['Pre-Rolls', 'Vape', 'Topicals', 'Edibles']"
+102,3792,"['Flower', 'Topicals', 'Edibles', 'Pre-Rolls']"
+870,3793,"['Pre-Rolls', 'Tinctures', 'Live Resin']"
+455,3794,"['Flower', 'Topicals']"
+198,3795,"['Live Resin', 'Jar']"
+717,3796,"['Edibles', 'Pre-Rolls']"
+3,3797,"['Jar', 'Live Resin', 'Flower']"
+394,3798,"['Edibles', 'Jar', 'Topicals', 'Topicals']"
+413,3799,['Topicals']
+187,3800,"['Flower', 'Flower', 'Flower']"
+864,3801,"['Flower', 'Live Resin', 'Pre-Rolls']"
+605,3802,"['Flower', 'Vape', 'Tinctures', 'Edibles']"
+219,3803,['Jar']
+673,3804,"['Flower', 'Live Resin', 'Live Resin']"
+990,3805,"['Jar', 'Vape']"
+658,3806,"['Pre-Rolls', 'Topicals']"
+937,3807,"['Live Resin', 'Tinctures']"
+698,3808,"['Topicals', 'Live Resin', 'Vape']"
+89,3809,"['Edibles', 'Live Resin', 'Tinctures']"
+381,3810,"['Jar', 'Pre-Rolls', 'Topicals', 'Live Resin']"
+95,3811,"['Live Resin', 'Tinctures', 'Live Resin']"
+832,3812,['Flower']
+543,3813,"['Tinctures', 'Vape', 'Pre-Rolls']"
+946,3814,['Jar']
+915,3815,"['Live Resin', 'Edibles', 'Pre-Rolls', 'Tinctures']"
+818,3816,"['Flower', 'Edibles', 'Live Resin', 'Topicals']"
+783,3817,"['Flower', 'Topicals']"
+93,3818,['Vape']
+480,3819,"['Jar', 'Flower', 'Flower']"
+554,3820,"['Edibles', 'Tinctures', 'Edibles']"
+513,3821,"['Jar', 'Live Resin', 'Live Resin', 'Pre-Rolls']"
+154,3822,"['Live Resin', 'Flower']"
+302,3823,"['Edibles', 'Vape', 'Live Resin', 'Live Resin']"
+798,3824,['Live Resin']
+151,3825,"['Tinctures', 'Pre-Rolls', 'Flower', 'Jar']"
+908,3826,"['Vape', 'Live Resin', 'Vape']"
+391,3827,['Topicals']
+844,3828,"['Edibles', 'Live Resin']"
+371,3829,"['Live Resin', 'Jar', 'Vape', 'Vape']"
+842,3830,"['Flower', 'Vape', 'Pre-Rolls', 'Topicals']"
+349,3831,"['Edibles', 'Jar']"
+577,3832,"['Edibles', 'Pre-Rolls']"
+320,3833,"['Jar', 'Topicals', 'Live Resin']"
+425,3834,"['Pre-Rolls', 'Jar']"
+638,3835,['Topicals']
+562,3836,"['Live Resin', 'Vape', 'Flower', 'Tinctures']"
+608,3837,"['Flower', 'Jar', 'Edibles', 'Pre-Rolls']"
+857,3838,"['Flower', 'Vape', 'Jar']"
+24,3839,['Tinctures']
+956,3840,"['Flower', 'Live Resin', 'Tinctures']"
+431,3841,['Vape']
+951,3842,"['Flower', 'Jar']"
+157,3843,"['Live Resin', 'Jar', 'Jar', 'Pre-Rolls']"
+242,3844,"['Flower', 'Pre-Rolls', 'Tinctures']"
+137,3845,"['Topicals', 'Vape']"
+472,3846,['Jar']
+743,3847,"['Tinctures', 'Pre-Rolls', 'Tinctures']"
+148,3848,"['Jar', 'Edibles']"
+226,3849,"['Flower', 'Pre-Rolls', 'Edibles', 'Tinctures']"
+670,3850,['Pre-Rolls']
+486,3851,"['Tinctures', 'Vape', 'Edibles', 'Tinctures']"
+122,3852,"['Live Resin', 'Jar', 'Topicals', 'Pre-Rolls']"
+462,3853,"['Pre-Rolls', 'Vape', 'Jar']"
+640,3854,['Pre-Rolls']
+515,3855,['Flower']
+969,3856,"['Flower', 'Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+594,3857,['Pre-Rolls']
+28,3858,"['Pre-Rolls', 'Flower']"
+156,3859,"['Live Resin', 'Topicals', 'Topicals', 'Edibles']"
+906,3860,"['Tinctures', 'Pre-Rolls']"
+176,3861,"['Vape', 'Pre-Rolls', 'Jar', 'Vape']"
+234,3862,"['Tinctures', 'Pre-Rolls', 'Jar', 'Flower']"
+483,3863,['Jar']
+696,3864,"['Pre-Rolls', 'Pre-Rolls']"
+848,3865,['Pre-Rolls']
+587,3866,['Live Resin']
+58,3867,"['Pre-Rolls', 'Edibles', 'Tinctures', 'Live Resin']"
+37,3868,"['Pre-Rolls', 'Tinctures', 'Edibles']"
+726,3869,"['Live Resin', 'Tinctures']"
+833,3870,"['Topicals', 'Pre-Rolls', 'Flower']"
+816,3871,['Live Resin']
+782,3872,"['Vape', 'Edibles', 'Tinctures', 'Topicals']"
+439,3873,"['Edibles', 'Jar', 'Topicals', 'Jar']"
+324,3874,['Pre-Rolls']
+844,3875,"['Jar', 'Pre-Rolls']"
+280,3876,"['Vape', 'Vape']"
+894,3877,"['Topicals', 'Live Resin']"
+819,3878,['Edibles']
+732,3879,['Edibles']
+556,3880,"['Edibles', 'Vape', 'Live Resin']"
+643,3881,['Topicals']
+654,3882,['Topicals']
+459,3883,"['Live Resin', 'Topicals']"
+57,3884,['Vape']
+688,3885,"['Edibles', 'Live Resin', 'Tinctures', 'Flower']"
+910,3886,['Flower']
+566,3887,"['Flower', 'Pre-Rolls', 'Flower']"
+288,3888,['Topicals']
+830,3889,['Tinctures']
+478,3890,"['Topicals', 'Flower']"
+458,3891,"['Flower', 'Edibles', 'Flower']"
+595,3892,"['Jar', 'Tinctures', 'Pre-Rolls']"
+331,3893,"['Flower', 'Vape', 'Edibles', 'Tinctures']"
+721,3894,['Edibles']
+266,3895,"['Jar', 'Topicals', 'Jar', 'Flower']"
+73,3896,"['Edibles', 'Vape']"
+643,3897,"['Jar', 'Live Resin', 'Jar']"
+811,3898,"['Vape', 'Edibles', 'Vape']"
+456,3899,"['Tinctures', 'Jar', 'Vape']"
+431,3900,['Live Resin']
+509,3901,"['Topicals', 'Pre-Rolls', 'Edibles']"
+322,3902,"['Jar', 'Flower']"
+322,3903,"['Flower', 'Tinctures']"
+208,3904,"['Edibles', 'Topicals']"
+608,3905,"['Pre-Rolls', 'Jar', 'Pre-Rolls', 'Live Resin']"
+538,3906,['Jar']
+80,3907,"['Pre-Rolls', 'Live Resin', 'Edibles', 'Tinctures']"
+839,3908,['Topicals']
+900,3909,"['Flower', 'Topicals', 'Tinctures']"
+886,3910,"['Topicals', 'Edibles', 'Jar', 'Topicals']"
+558,3911,"['Flower', 'Jar', 'Vape']"
+554,3912,"['Tinctures', 'Vape', 'Vape']"
+640,3913,"['Flower', 'Live Resin']"
+702,3914,"['Topicals', 'Live Resin']"
+41,3915,"['Topicals', 'Edibles', 'Vape', 'Jar']"
+864,3916,['Tinctures']
+464,3917,"['Pre-Rolls', 'Live Resin', 'Topicals']"
+767,3918,"['Jar', 'Edibles', 'Flower']"
+216,3919,"['Tinctures', 'Tinctures', 'Topicals']"
+474,3920,['Tinctures']
+527,3921,"['Topicals', 'Topicals', 'Vape']"
+68,3922,"['Pre-Rolls', 'Edibles', 'Vape', 'Flower']"
+362,3923,"['Jar', 'Pre-Rolls', 'Jar', 'Tinctures']"
+598,3924,"['Pre-Rolls', 'Jar']"
+67,3925,"['Live Resin', 'Jar']"
+329,3926,"['Vape', 'Tinctures']"
+506,3927,"['Tinctures', 'Edibles', 'Vape', 'Live Resin']"
+617,3928,"['Tinctures', 'Topicals', 'Edibles']"
+60,3929,"['Pre-Rolls', 'Pre-Rolls']"
+572,3930,"['Flower', 'Vape', 'Vape', 'Flower']"
+595,3931,['Live Resin']
+310,3932,"['Edibles', 'Flower', 'Jar', 'Vape']"
+379,3933,"['Pre-Rolls', 'Flower', 'Vape']"
+523,3934,"['Topicals', 'Topicals', 'Live Resin', 'Tinctures']"
+624,3935,"['Tinctures', 'Topicals', 'Edibles']"
+781,3936,"['Tinctures', 'Edibles', 'Flower']"
+730,3937,"['Vape', 'Tinctures']"
+643,3938,['Jar']
+400,3939,"['Live Resin', 'Flower', 'Jar', 'Jar']"
+172,3940,"['Topicals', 'Live Resin', 'Live Resin', 'Vape']"
+415,3941,['Edibles']
+847,3942,['Flower']
+564,3943,"['Flower', 'Tinctures', 'Topicals']"
+216,3944,"['Live Resin', 'Vape']"
+518,3945,"['Flower', 'Edibles', 'Live Resin', 'Live Resin']"
+270,3946,"['Pre-Rolls', 'Tinctures', 'Tinctures', 'Topicals']"
+564,3947,"['Vape', 'Pre-Rolls']"
+525,3948,"['Tinctures', 'Vape']"
+454,3949,"['Topicals', 'Vape']"
+421,3950,"['Live Resin', 'Live Resin', 'Live Resin']"
+211,3951,"['Live Resin', 'Live Resin']"
+538,3952,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls']"
+24,3953,['Vape']
+882,3954,['Pre-Rolls']
+160,3955,"['Edibles', 'Edibles']"
+983,3956,"['Topicals', 'Jar', 'Flower']"
+18,3957,"['Jar', 'Tinctures']"
+702,3958,"['Jar', 'Live Resin']"
+491,3959,"['Vape', 'Flower', 'Topicals']"
+409,3960,"['Pre-Rolls', 'Tinctures', 'Pre-Rolls', 'Topicals']"
+82,3961,"['Live Resin', 'Flower', 'Jar', 'Tinctures']"
+155,3962,"['Pre-Rolls', 'Tinctures']"
+244,3963,"['Flower', 'Vape']"
+608,3964,"['Topicals', 'Jar', 'Edibles']"
+409,3965,"['Live Resin', 'Topicals', 'Jar', 'Live Resin']"
+698,3966,"['Edibles', 'Jar', 'Tinctures', 'Jar']"
+112,3967,['Tinctures']
+185,3968,"['Topicals', 'Pre-Rolls', 'Vape']"
+118,3969,['Edibles']
+959,3970,"['Live Resin', 'Vape', 'Tinctures']"
+647,3971,"['Flower', 'Edibles', 'Topicals']"
+806,3972,"['Tinctures', 'Live Resin', 'Live Resin', 'Jar']"
+684,3973,"['Jar', 'Tinctures']"
+618,3974,"['Pre-Rolls', 'Topicals', 'Live Resin', 'Live Resin']"
+29,3975,['Live Resin']
+648,3976,"['Vape', 'Flower']"
+871,3977,['Edibles']
+342,3978,['Flower']
+756,3979,['Topicals']
+91,3980,"['Jar', 'Jar']"
+561,3981,['Jar']
+900,3982,"['Pre-Rolls', 'Edibles']"
+827,3983,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls']"
+560,3984,['Topicals']
+103,3985,['Jar']
+159,3986,"['Edibles', 'Flower', 'Flower', 'Flower']"
+951,3987,"['Pre-Rolls', 'Live Resin', 'Vape']"
+581,3988,"['Vape', 'Vape', 'Live Resin']"
+663,3989,"['Jar', 'Jar', 'Pre-Rolls']"
+809,3990,"['Topicals', 'Tinctures']"
+553,3991,['Pre-Rolls']
+536,3992,['Live Resin']
+660,3993,['Live Resin']
+397,3994,"['Pre-Rolls', 'Edibles']"
+868,3995,"['Tinctures', 'Topicals']"
+672,3996,"['Tinctures', 'Pre-Rolls']"
+803,3997,"['Jar', 'Live Resin']"
+781,3998,"['Live Resin', 'Live Resin', 'Live Resin']"
+101,3999,"['Tinctures', 'Topicals', 'Vape', 'Jar']"
+524,4000,"['Live Resin', 'Pre-Rolls', 'Flower']"
+786,4001,"['Edibles', 'Flower']"
+138,4002,"['Live Resin', 'Edibles', 'Topicals']"
+836,4003,['Live Resin']
+828,4004,"['Edibles', 'Vape', 'Flower', 'Jar']"
+28,4005,['Flower']
+665,4006,"['Topicals', 'Jar', 'Jar', 'Jar']"
+848,4007,"['Topicals', 'Live Resin', 'Vape', 'Edibles']"
+501,4008,"['Edibles', 'Vape', 'Topicals', 'Tinctures']"
+8,4009,"['Jar', 'Jar', 'Tinctures']"
+938,4010,['Tinctures']
+412,4011,"['Pre-Rolls', 'Tinctures']"
+398,4012,"['Pre-Rolls', 'Vape', 'Pre-Rolls', 'Pre-Rolls']"
+733,4013,"['Jar', 'Live Resin', 'Tinctures', 'Pre-Rolls']"
+779,4014,['Live Resin']
+871,4015,['Flower']
+989,4016,"['Vape', 'Tinctures', 'Topicals', 'Live Resin']"
+611,4017,"['Topicals', 'Jar', 'Edibles', 'Vape']"
+38,4018,"['Edibles', 'Topicals', 'Tinctures', 'Jar']"
+895,4019,"['Edibles', 'Jar']"
+122,4020,"['Live Resin', 'Pre-Rolls']"
+49,4021,"['Topicals', 'Topicals', 'Tinctures', 'Flower']"
+466,4022,"['Edibles', 'Pre-Rolls', 'Jar']"
+601,4023,"['Tinctures', 'Flower', 'Flower', 'Jar']"
+136,4024,"['Jar', 'Vape']"
+225,4025,['Flower']
+493,4026,"['Edibles', 'Jar', 'Topicals']"
+799,4027,['Live Resin']
+151,4028,"['Flower', 'Topicals', 'Edibles', 'Edibles']"
+604,4029,"['Pre-Rolls', 'Tinctures']"
+569,4030,"['Tinctures', 'Jar', 'Pre-Rolls', 'Vape']"
+148,4031,"['Vape', 'Pre-Rolls', 'Jar', 'Live Resin']"
+397,4032,"['Live Resin', 'Flower', 'Pre-Rolls', 'Pre-Rolls']"
+567,4033,"['Flower', 'Live Resin', 'Edibles']"
+622,4034,"['Jar', 'Edibles']"
+915,4035,"['Topicals', 'Vape', 'Live Resin']"
+237,4036,['Flower']
+230,4037,"['Tinctures', 'Tinctures']"
+282,4038,['Tinctures']
+928,4039,"['Jar', 'Tinctures']"
+724,4040,"['Topicals', 'Jar', 'Flower', 'Vape']"
+524,4041,['Tinctures']
+679,4042,"['Topicals', 'Edibles', 'Pre-Rolls', 'Live Resin']"
+953,4043,"['Edibles', 'Vape', 'Edibles', 'Topicals']"
+870,4044,"['Pre-Rolls', 'Edibles']"
+448,4045,"['Jar', 'Edibles', 'Live Resin']"
+678,4046,"['Pre-Rolls', 'Pre-Rolls', 'Vape', 'Vape']"
+312,4047,"['Pre-Rolls', 'Pre-Rolls']"
+623,4048,"['Pre-Rolls', 'Live Resin']"
+924,4049,['Jar']
+466,4050,"['Flower', 'Vape']"
+944,4051,"['Vape', 'Tinctures']"
+48,4052,"['Pre-Rolls', 'Vape']"
+249,4053,"['Live Resin', 'Edibles', 'Pre-Rolls', 'Tinctures']"
+731,4054,"['Jar', 'Topicals', 'Live Resin']"
+324,4055,"['Jar', 'Topicals']"
+46,4056,"['Topicals', 'Jar', 'Topicals', 'Pre-Rolls']"
+431,4057,"['Flower', 'Live Resin', 'Vape']"
+503,4058,"['Edibles', 'Flower']"
+336,4059,['Pre-Rolls']
+472,4060,['Flower']
+524,4061,"['Pre-Rolls', 'Jar', 'Topicals', 'Pre-Rolls']"
+629,4062,['Pre-Rolls']
+424,4063,['Flower']
+883,4064,"['Flower', 'Edibles', 'Flower']"
+532,4065,"['Live Resin', 'Live Resin', 'Topicals', 'Topicals']"
+802,4066,"['Jar', 'Edibles', 'Tinctures', 'Live Resin']"
+748,4067,"['Jar', 'Tinctures', 'Jar', 'Topicals']"
+886,4068,"['Pre-Rolls', 'Tinctures', 'Tinctures', 'Tinctures']"
+231,4069,"['Live Resin', 'Live Resin', 'Topicals']"
+998,4070,"['Tinctures', 'Tinctures', 'Live Resin', 'Vape']"
+196,4071,"['Jar', 'Vape']"
+347,4072,['Edibles']
+363,4073,"['Flower', 'Vape', 'Tinctures']"
+708,4074,"['Topicals', 'Tinctures', 'Live Resin', 'Tinctures']"
+457,4075,"['Pre-Rolls', 'Flower', 'Pre-Rolls']"
+14,4076,"['Edibles', 'Topicals']"
+820,4077,['Pre-Rolls']
+499,4078,['Topicals']
+453,4079,"['Vape', 'Jar', 'Flower', 'Live Resin']"
+242,4080,"['Vape', 'Edibles', 'Topicals', 'Pre-Rolls']"
+758,4081,"['Live Resin', 'Tinctures', 'Jar', 'Jar']"
+104,4082,['Pre-Rolls']
+785,4083,['Edibles']
+175,4084,"['Topicals', 'Live Resin', 'Tinctures', 'Jar']"
+861,4085,"['Pre-Rolls', 'Tinctures', 'Live Resin', 'Pre-Rolls']"
+825,4086,"['Topicals', 'Pre-Rolls', 'Pre-Rolls', 'Live Resin']"
+674,4087,['Tinctures']
+921,4088,['Topicals']
+901,4089,"['Topicals', 'Jar', 'Edibles']"
+224,4090,"['Tinctures', 'Pre-Rolls', 'Vape', 'Pre-Rolls']"
+103,4091,"['Topicals', 'Live Resin', 'Live Resin', 'Live Resin']"
+331,4092,"['Tinctures', 'Live Resin', 'Vape']"
+338,4093,['Vape']
+349,4094,"['Topicals', 'Live Resin']"
+648,4095,"['Pre-Rolls', 'Jar', 'Edibles', 'Edibles']"
+44,4096,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin', 'Tinctures']"
+698,4097,"['Vape', 'Flower']"
+865,4098,['Flower']
+787,4099,"['Flower', 'Pre-Rolls', 'Topicals']"
+326,4100,"['Edibles', 'Live Resin', 'Tinctures']"
+451,4101,"['Pre-Rolls', 'Pre-Rolls', 'Topicals', 'Flower']"
+693,4102,"['Edibles', 'Tinctures', 'Topicals']"
+927,4103,"['Vape', 'Topicals', 'Jar']"
+34,4104,"['Live Resin', 'Edibles']"
+367,4105,"['Tinctures', 'Tinctures']"
+131,4106,"['Flower', 'Jar']"
+660,4107,"['Tinctures', 'Tinctures', 'Pre-Rolls']"
+96,4108,"['Pre-Rolls', 'Live Resin']"
+538,4109,"['Flower', 'Jar', 'Vape']"
+490,4110,"['Edibles', 'Jar']"
+633,4111,['Live Resin']
+618,4112,"['Pre-Rolls', 'Live Resin', 'Vape', 'Live Resin']"
+692,4113,"['Live Resin', 'Jar']"
+899,4114,"['Flower', 'Live Resin']"
+757,4115,"['Tinctures', 'Tinctures', 'Jar', 'Jar']"
+228,4116,"['Flower', 'Live Resin', 'Live Resin', 'Pre-Rolls']"
+529,4117,"['Flower', 'Flower', 'Topicals']"
+281,4118,"['Pre-Rolls', 'Flower', 'Live Resin']"
+728,4119,"['Jar', 'Vape']"
+842,4120,['Edibles']
+287,4121,['Live Resin']
+270,4122,"['Vape', 'Vape']"
+46,4123,"['Pre-Rolls', 'Vape', 'Live Resin', 'Vape']"
+319,4124,"['Topicals', 'Jar', 'Tinctures']"
+377,4125,['Pre-Rolls']
+522,4126,"['Edibles', 'Pre-Rolls', 'Jar']"
+551,4127,"['Edibles', 'Edibles', 'Live Resin', 'Live Resin']"
+215,4128,"['Tinctures', 'Live Resin', 'Vape']"
+108,4129,"['Pre-Rolls', 'Edibles', 'Live Resin']"
+996,4130,['Topicals']
+79,4131,['Live Resin']
+319,4132,"['Pre-Rolls', 'Tinctures', 'Flower']"
+66,4133,"['Tinctures', 'Jar', 'Pre-Rolls']"
+316,4134,"['Vape', 'Jar', 'Tinctures', 'Pre-Rolls']"
+910,4135,['Live Resin']
+495,4136,['Pre-Rolls']
+974,4137,['Tinctures']
+53,4138,['Jar']
+668,4139,"['Live Resin', 'Vape', 'Edibles', 'Vape']"
+942,4140,['Pre-Rolls']
+719,4141,"['Tinctures', 'Live Resin', 'Flower', 'Vape']"
+105,4142,"['Pre-Rolls', 'Tinctures', 'Live Resin', 'Vape']"
+771,4143,['Topicals']
+157,4144,"['Topicals', 'Edibles']"
+959,4145,"['Live Resin', 'Edibles']"
+233,4146,"['Tinctures', 'Flower', 'Jar', 'Tinctures']"
+664,4147,['Pre-Rolls']
+813,4148,"['Flower', 'Jar']"
+331,4149,"['Tinctures', 'Jar', 'Edibles']"
+872,4150,"['Live Resin', 'Vape', 'Tinctures', 'Jar']"
+51,4151,"['Pre-Rolls', 'Jar', 'Flower', 'Jar']"
+204,4152,"['Live Resin', 'Pre-Rolls', 'Pre-Rolls', 'Pre-Rolls']"
+411,4153,"['Tinctures', 'Pre-Rolls', 'Topicals', 'Edibles']"
+549,4154,['Pre-Rolls']
+455,4155,"['Live Resin', 'Vape', 'Pre-Rolls', 'Flower']"
+117,4156,"['Flower', 'Vape', 'Pre-Rolls']"
+333,4157,['Flower']
+643,4158,"['Pre-Rolls', 'Live Resin', 'Vape']"
+769,4159,"['Pre-Rolls', 'Live Resin']"
+403,4160,"['Pre-Rolls', 'Live Resin', 'Vape']"
+839,4161,['Flower']
+957,4162,"['Topicals', 'Edibles']"
+796,4163,['Topicals']
+547,4164,['Pre-Rolls']
+617,4165,['Live Resin']
+77,4166,"['Tinctures', 'Edibles', 'Jar']"
+762,4167,"['Flower', 'Edibles', 'Jar', 'Edibles']"
+39,4168,['Pre-Rolls']
+597,4169,"['Jar', 'Jar', 'Edibles']"
+655,4170,"['Topicals', 'Flower']"
+449,4171,"['Live Resin', 'Pre-Rolls', 'Flower']"
+900,4172,['Flower']
+894,4173,"['Pre-Rolls', 'Topicals', 'Flower']"
+462,4174,"['Vape', 'Live Resin']"
+633,4175,['Jar']
+458,4176,['Jar']
+551,4177,"['Topicals', 'Tinctures', 'Pre-Rolls']"
+55,4178,"['Pre-Rolls', 'Flower', 'Tinctures', 'Jar']"
+895,4179,"['Tinctures', 'Jar']"
+904,4180,"['Live Resin', 'Vape', 'Vape']"
+146,4181,"['Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+238,4182,"['Flower', 'Tinctures', 'Tinctures', 'Pre-Rolls']"
+655,4183,['Topicals']
+997,4184,"['Topicals', 'Topicals']"
+310,4185,"['Jar', 'Tinctures', 'Flower', 'Flower']"
+824,4186,['Topicals']
+797,4187,"['Tinctures', 'Flower', 'Topicals']"
+643,4188,"['Live Resin', 'Vape', 'Pre-Rolls', 'Edibles']"
+274,4189,"['Flower', 'Jar', 'Edibles']"
+366,4190,"['Flower', 'Live Resin', 'Tinctures', 'Edibles']"
+437,4191,"['Flower', 'Edibles', 'Jar', 'Jar']"
+525,4192,['Tinctures']
+299,4193,['Tinctures']
+270,4194,"['Jar', 'Edibles', 'Vape']"
+422,4195,['Pre-Rolls']
+485,4196,['Edibles']
+589,4197,"['Topicals', 'Pre-Rolls', 'Topicals', 'Jar']"
+830,4198,"['Vape', 'Pre-Rolls', 'Live Resin', 'Tinctures']"
+301,4199,['Vape']
+26,4200,"['Tinctures', 'Jar', 'Edibles']"
+937,4201,"['Live Resin', 'Jar']"
+780,4202,"['Jar', 'Vape', 'Vape', 'Pre-Rolls']"
+238,4203,"['Topicals', 'Live Resin', 'Topicals', 'Pre-Rolls']"
+840,4204,['Flower']
+791,4205,"['Edibles', 'Live Resin', 'Tinctures', 'Tinctures']"
+434,4206,['Pre-Rolls']
+744,4207,"['Edibles', 'Jar', 'Flower', 'Topicals']"
+877,4208,"['Jar', 'Edibles']"
+438,4209,"['Topicals', 'Live Resin', 'Edibles']"
+977,4210,"['Pre-Rolls', 'Flower', 'Topicals', 'Topicals']"
+306,4211,['Pre-Rolls']
+834,4212,"['Jar', 'Topicals']"
+23,4213,"['Pre-Rolls', 'Vape', 'Jar']"
+68,4214,"['Pre-Rolls', 'Topicals', 'Edibles']"
+443,4215,['Tinctures']
+224,4216,"['Flower', 'Topicals', 'Live Resin', 'Jar']"
+961,4217,"['Flower', 'Tinctures']"
+138,4218,"['Live Resin', 'Tinctures']"
+628,4219,"['Pre-Rolls', 'Vape', 'Topicals', 'Vape']"
+327,4220,"['Jar', 'Flower', 'Live Resin', 'Topicals']"
+492,4221,['Topicals']
+224,4222,"['Topicals', 'Topicals', 'Flower', 'Vape']"
+777,4223,"['Edibles', 'Tinctures', 'Pre-Rolls', 'Tinctures']"
+511,4224,"['Vape', 'Pre-Rolls', 'Pre-Rolls']"
+519,4225,"['Jar', 'Edibles', 'Tinctures']"
+678,4226,"['Jar', 'Vape']"
+214,4227,['Tinctures']
+890,4228,"['Edibles', 'Pre-Rolls', 'Pre-Rolls']"
+122,4229,['Flower']
+364,4230,"['Topicals', 'Vape', 'Pre-Rolls']"
+597,4231,"['Live Resin', 'Pre-Rolls']"
+968,4232,['Pre-Rolls']
+511,4233,"['Flower', 'Topicals', 'Vape', 'Flower']"
+375,4234,"['Vape', 'Live Resin', 'Edibles', 'Vape']"
+464,4235,"['Tinctures', 'Tinctures', 'Topicals', 'Flower']"
+724,4236,"['Tinctures', 'Live Resin']"
+940,4237,['Tinctures']
+165,4238,"['Jar', 'Live Resin']"
+616,4239,"['Live Resin', 'Tinctures']"
+932,4240,"['Vape', 'Jar']"
+721,4241,"['Live Resin', 'Live Resin']"
+686,4242,"['Live Resin', 'Topicals', 'Jar', 'Pre-Rolls']"
+151,4243,['Topicals']
+679,4244,"['Live Resin', 'Live Resin', 'Topicals', 'Vape']"
+450,4245,"['Topicals', 'Tinctures', 'Edibles']"
+240,4246,"['Jar', 'Live Resin']"
+107,4247,"['Live Resin', 'Vape', 'Jar']"
+522,4248,"['Topicals', 'Flower', 'Pre-Rolls', 'Tinctures']"
+403,4249,"['Jar', 'Live Resin', 'Tinctures', 'Vape']"
+985,4250,['Tinctures']
+573,4251,['Jar']
+793,4252,['Tinctures']
+761,4253,['Live Resin']
+214,4254,"['Flower', 'Pre-Rolls', 'Tinctures', 'Topicals']"
+728,4255,['Tinctures']
+39,4256,"['Tinctures', 'Tinctures']"
+140,4257,['Pre-Rolls']
+579,4258,['Flower']
+850,4259,['Jar']
+91,4260,"['Topicals', 'Flower', 'Vape', 'Tinctures']"
+340,4261,"['Vape', 'Flower', 'Edibles', 'Tinctures']"
+573,4262,"['Tinctures', 'Edibles', 'Edibles']"
+378,4263,"['Topicals', 'Tinctures', 'Live Resin']"
+944,4264,['Pre-Rolls']
+723,4265,"['Tinctures', 'Topicals', 'Edibles', 'Pre-Rolls']"
+678,4266,['Flower']
+312,4267,"['Jar', 'Flower', 'Jar', 'Vape']"
+658,4268,"['Jar', 'Pre-Rolls']"
+168,4269,['Topicals']
+842,4270,"['Flower', 'Vape', 'Jar', 'Vape']"
+233,4271,"['Topicals', 'Live Resin']"
+233,4272,"['Vape', 'Pre-Rolls']"
+180,4273,['Vape']
+308,4274,"['Edibles', 'Tinctures', 'Pre-Rolls', 'Flower']"
+93,4275,"['Vape', 'Edibles', 'Flower', 'Topicals']"
+385,4276,['Edibles']
+876,4277,"['Live Resin', 'Live Resin', 'Flower']"
+755,4278,"['Vape', 'Edibles', 'Flower', 'Live Resin']"
+382,4279,"['Vape', 'Jar', 'Jar']"
+71,4280,"['Pre-Rolls', 'Flower', 'Tinctures', 'Jar']"
+564,4281,['Jar']
+356,4282,"['Edibles', 'Topicals']"
+642,4283,['Live Resin']
+757,4284,"['Live Resin', 'Tinctures']"
+261,4285,['Live Resin']
+551,4286,['Topicals']
+254,4287,"['Flower', 'Tinctures']"
+598,4288,['Vape']
+444,4289,['Flower']
+817,4290,"['Jar', 'Vape', 'Jar']"
+399,4291,['Live Resin']
+25,4292,['Vape']
+970,4293,"['Live Resin', 'Topicals', 'Pre-Rolls']"
+478,4294,"['Vape', 'Edibles', 'Tinctures', 'Vape']"
+933,4295,"['Tinctures', 'Edibles', 'Pre-Rolls', 'Vape']"
+213,4296,"['Tinctures', 'Vape']"
+308,4297,"['Live Resin', 'Vape']"
+299,4298,"['Topicals', 'Flower', 'Edibles']"
+814,4299,"['Tinctures', 'Topicals', 'Live Resin']"
+394,4300,"['Topicals', 'Tinctures', 'Edibles']"
+867,4301,"['Topicals', 'Pre-Rolls', 'Topicals', 'Live Resin']"
+483,4302,['Flower']
+727,4303,"['Vape', 'Topicals', 'Jar', 'Tinctures']"
+261,4304,"['Jar', 'Tinctures', 'Live Resin', 'Pre-Rolls']"
+399,4305,"['Pre-Rolls', 'Flower', 'Topicals']"
+181,4306,"['Tinctures', 'Live Resin', 'Pre-Rolls']"
+745,4307,['Flower']
+126,4308,"['Live Resin', 'Flower', 'Flower', 'Tinctures']"
+354,4309,['Live Resin']
+761,4310,"['Edibles', 'Edibles']"
+648,4311,"['Pre-Rolls', 'Flower']"
+587,4312,"['Tinctures', 'Tinctures', 'Tinctures']"
+366,4313,['Pre-Rolls']
+558,4314,"['Jar', 'Topicals', 'Flower', 'Edibles']"
+291,4315,['Edibles']
+666,4316,"['Jar', 'Flower', 'Edibles']"
+85,4317,"['Tinctures', 'Pre-Rolls']"
+944,4318,"['Flower', 'Jar']"
+643,4319,"['Vape', 'Jar']"
+499,4320,['Tinctures']
+275,4321,['Jar']
+759,4322,"['Vape', 'Jar', 'Jar']"
+955,4323,"['Tinctures', 'Edibles']"
+946,4324,"['Edibles', 'Topicals', 'Flower', 'Vape']"
+952,4325,"['Edibles', 'Flower']"
+625,4326,['Live Resin']
+118,4327,['Live Resin']
+435,4328,['Topicals']
+66,4329,"['Live Resin', 'Topicals', 'Flower']"
+453,4330,"['Edibles', 'Pre-Rolls', 'Flower']"
+4,4331,['Flower']
+345,4332,['Pre-Rolls']
+14,4333,"['Live Resin', 'Tinctures', 'Pre-Rolls', 'Vape']"
+972,4334,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls', 'Edibles']"
+166,4335,"['Jar', 'Tinctures', 'Pre-Rolls', 'Vape']"
+920,4336,"['Edibles', 'Tinctures', 'Flower']"
+170,4337,"['Vape', 'Jar']"
+79,4338,"['Edibles', 'Flower', 'Jar', 'Jar']"
+526,4339,"['Jar', 'Flower', 'Vape']"
+681,4340,"['Vape', 'Tinctures', 'Pre-Rolls']"
+97,4341,"['Live Resin', 'Live Resin', 'Topicals', 'Edibles']"
+415,4342,"['Flower', 'Pre-Rolls', 'Live Resin']"
+579,4343,['Live Resin']
+566,4344,"['Tinctures', 'Vape', 'Vape']"
+74,4345,"['Live Resin', 'Pre-Rolls', 'Vape', 'Jar']"
+662,4346,['Pre-Rolls']
+855,4347,"['Edibles', 'Jar', 'Tinctures', 'Edibles']"
+966,4348,"['Edibles', 'Pre-Rolls', 'Edibles', 'Edibles']"
+294,4349,['Topicals']
+913,4350,"['Topicals', 'Edibles']"
+102,4351,"['Topicals', 'Topicals']"
+234,4352,"['Topicals', 'Jar', 'Live Resin']"
+807,4353,"['Edibles', 'Tinctures']"
+782,4354,"['Edibles', 'Live Resin', 'Topicals', 'Edibles']"
+308,4355,['Jar']
+858,4356,"['Pre-Rolls', 'Topicals', 'Pre-Rolls', 'Flower']"
+281,4357,"['Live Resin', 'Flower', 'Tinctures']"
+684,4358,"['Flower', 'Edibles', 'Edibles']"
+492,4359,"['Jar', 'Edibles', 'Live Resin', 'Flower']"
+396,4360,"['Edibles', 'Tinctures', 'Flower', 'Edibles']"
+716,4361,['Vape']
+911,4362,"['Tinctures', 'Tinctures', 'Edibles', 'Edibles']"
+60,4363,"['Vape', 'Flower', 'Tinctures', 'Pre-Rolls']"
+723,4364,"['Jar', 'Pre-Rolls', 'Jar', 'Topicals']"
+605,4365,['Flower']
+262,4366,['Edibles']
+837,4367,"['Topicals', 'Vape', 'Jar']"
+576,4368,['Live Resin']
+209,4369,"['Topicals', 'Edibles']"
+711,4370,['Jar']
+499,4371,"['Tinctures', 'Topicals', 'Vape']"
+831,4372,"['Edibles', 'Edibles', 'Topicals']"
+461,4373,"['Pre-Rolls', 'Topicals', 'Jar', 'Jar']"
+295,4374,"['Topicals', 'Vape']"
+27,4375,"['Tinctures', 'Flower']"
+754,4376,"['Topicals', 'Vape', 'Edibles', 'Edibles']"
+132,4377,"['Topicals', 'Jar', 'Flower', 'Tinctures']"
+606,4378,"['Edibles', 'Pre-Rolls', 'Vape']"
+830,4379,"['Topicals', 'Jar']"
+737,4380,"['Pre-Rolls', 'Vape', 'Edibles', 'Live Resin']"
+881,4381,"['Jar', 'Topicals', 'Pre-Rolls']"
+129,4382,"['Tinctures', 'Edibles']"
+549,4383,"['Topicals', 'Pre-Rolls', 'Flower', 'Jar']"
+415,4384,['Pre-Rolls']
+296,4385,"['Edibles', 'Edibles', 'Tinctures']"
+681,4386,"['Edibles', 'Tinctures', 'Topicals', 'Jar']"
+653,4387,"['Edibles', 'Flower']"
+248,4388,"['Flower', 'Live Resin', 'Jar', 'Pre-Rolls']"
+995,4389,"['Jar', 'Flower', 'Edibles', 'Tinctures']"
+207,4390,['Topicals']
+790,4391,['Pre-Rolls']
+957,4392,"['Topicals', 'Live Resin', 'Topicals']"
+30,4393,"['Tinctures', 'Tinctures', 'Topicals', 'Tinctures']"
+832,4394,"['Live Resin', 'Tinctures', 'Jar']"
+156,4395,"['Flower', 'Edibles', 'Jar', 'Pre-Rolls']"
+435,4396,"['Pre-Rolls', 'Tinctures']"
+985,4397,['Live Resin']
+874,4398,"['Flower', 'Topicals', 'Flower']"
+650,4399,"['Live Resin', 'Flower']"
+357,4400,['Edibles']
+993,4401,"['Jar', 'Live Resin', 'Topicals']"
+956,4402,['Pre-Rolls']
+768,4403,"['Flower', 'Pre-Rolls']"
+31,4404,"['Flower', 'Pre-Rolls', 'Live Resin']"
+589,4405,"['Edibles', 'Topicals']"
+744,4406,"['Vape', 'Jar', 'Jar', 'Flower']"
+662,4407,"['Tinctures', 'Vape', 'Topicals', 'Edibles']"
+600,4408,"['Edibles', 'Edibles', 'Pre-Rolls', 'Topicals']"
+394,4409,['Jar']
+725,4410,"['Live Resin', 'Flower']"
+839,4411,['Jar']
+192,4412,"['Edibles', 'Edibles']"
+120,4413,"['Edibles', 'Live Resin']"
+572,4414,"['Vape', 'Vape', 'Vape']"
+913,4415,"['Tinctures', 'Edibles']"
+194,4416,"['Pre-Rolls', 'Jar']"
+426,4417,"['Live Resin', 'Vape', 'Pre-Rolls', 'Flower']"
+387,4418,"['Pre-Rolls', 'Jar']"
+464,4419,['Jar']
+471,4420,"['Live Resin', 'Edibles']"
+127,4421,"['Edibles', 'Tinctures', 'Topicals']"
+615,4422,"['Live Resin', 'Live Resin']"
+765,4423,"['Vape', 'Tinctures']"
+387,4424,"['Live Resin', 'Tinctures', 'Live Resin']"
+426,4425,"['Vape', 'Edibles', 'Topicals']"
+424,4426,"['Flower', 'Topicals']"
+446,4427,"['Flower', 'Live Resin']"
+976,4428,"['Live Resin', 'Topicals']"
+80,4429,['Pre-Rolls']
+2,4430,"['Edibles', 'Topicals', 'Vape', 'Pre-Rolls']"
+143,4431,['Pre-Rolls']
+321,4432,"['Pre-Rolls', 'Tinctures']"
+765,4433,['Pre-Rolls']
+404,4434,"['Live Resin', 'Live Resin', 'Tinctures']"
+938,4435,"['Topicals', 'Vape', 'Live Resin', 'Tinctures']"
+247,4436,"['Pre-Rolls', 'Live Resin', 'Vape', 'Tinctures']"
+285,4437,['Jar']
+179,4438,['Vape']
+831,4439,"['Edibles', 'Tinctures']"
+973,4440,"['Edibles', 'Edibles', 'Edibles']"
+944,4441,"['Tinctures', 'Flower']"
+33,4442,['Flower']
+138,4443,"['Pre-Rolls', 'Tinctures', 'Pre-Rolls', 'Flower']"
+813,4444,"['Topicals', 'Jar']"
+870,4445,"['Topicals', 'Edibles', 'Vape']"
+859,4446,"['Vape', 'Vape']"
+132,4447,"['Tinctures', 'Vape']"
+137,4448,['Live Resin']
+697,4449,"['Pre-Rolls', 'Live Resin']"
+716,4450,['Topicals']
+226,4451,"['Edibles', 'Tinctures']"
+276,4452,"['Flower', 'Pre-Rolls', 'Live Resin', 'Tinctures']"
+629,4453,"['Vape', 'Edibles', 'Tinctures', 'Edibles']"
+603,4454,"['Vape', 'Vape', 'Jar', 'Flower']"
+558,4455,['Tinctures']
+41,4456,"['Edibles', 'Pre-Rolls', 'Edibles', 'Tinctures']"
+75,4457,['Live Resin']
+922,4458,"['Topicals', 'Tinctures', 'Flower']"
+214,4459,"['Live Resin', 'Topicals']"
+743,4460,"['Tinctures', 'Edibles', 'Edibles', 'Tinctures']"
+449,4461,"['Live Resin', 'Flower']"
+996,4462,"['Topicals', 'Jar', 'Vape']"
+434,4463,"['Pre-Rolls', 'Pre-Rolls', 'Topicals']"
+568,4464,['Live Resin']
+227,4465,"['Flower', 'Flower', 'Pre-Rolls', 'Tinctures']"
+913,4466,"['Pre-Rolls', 'Vape', 'Tinctures']"
+432,4467,"['Edibles', 'Edibles', 'Flower']"
+500,4468,"['Tinctures', 'Pre-Rolls']"
+367,4469,['Vape']
+633,4470,"['Live Resin', 'Live Resin', 'Vape']"
+759,4471,"['Live Resin', 'Pre-Rolls', 'Tinctures']"
+17,4472,"['Edibles', 'Pre-Rolls', 'Jar', 'Topicals']"
+97,4473,['Pre-Rolls']
+486,4474,"['Tinctures', 'Flower']"
+885,4475,"['Flower', 'Jar', 'Jar', 'Jar']"
+464,4476,"['Flower', 'Jar', 'Tinctures', 'Tinctures']"
+630,4477,['Edibles']
+74,4478,['Jar']
+336,4479,['Edibles']
+154,4480,"['Pre-Rolls', 'Tinctures', 'Flower']"
+651,4481,"['Live Resin', 'Tinctures']"
+312,4482,['Tinctures']
+283,4483,"['Flower', 'Tinctures', 'Live Resin']"
+834,4484,"['Edibles', 'Live Resin', 'Flower', 'Tinctures']"
+414,4485,"['Tinctures', 'Flower', 'Jar', 'Edibles']"
+124,4486,"['Flower', 'Flower']"
+281,4487,"['Pre-Rolls', 'Vape', 'Flower']"
+301,4488,"['Vape', 'Edibles', 'Jar', 'Vape']"
+28,4489,"['Live Resin', 'Topicals', 'Vape']"
+632,4490,"['Jar', 'Topicals', 'Live Resin']"
+169,4491,"['Vape', 'Pre-Rolls']"
+217,4492,"['Flower', 'Jar', 'Pre-Rolls']"
+252,4493,"['Flower', 'Pre-Rolls']"
+796,4494,"['Jar', 'Live Resin']"
+879,4495,['Vape']
+359,4496,['Live Resin']
+65,4497,"['Flower', 'Pre-Rolls']"
+469,4498,"['Flower', 'Tinctures', 'Pre-Rolls', 'Pre-Rolls']"
+312,4499,['Edibles']
+872,4500,"['Topicals', 'Topicals', 'Pre-Rolls', 'Jar']"
+405,4501,"['Live Resin', 'Edibles', 'Live Resin']"
+930,4502,"['Topicals', 'Vape', 'Flower']"
+370,4503,"['Topicals', 'Flower', 'Pre-Rolls']"
+445,4504,['Pre-Rolls']
+903,4505,"['Jar', 'Live Resin', 'Topicals']"
+315,4506,['Vape']
+144,4507,['Edibles']
+890,4508,"['Live Resin', 'Pre-Rolls', 'Tinctures', 'Flower']"
+829,4509,['Edibles']
+386,4510,"['Topicals', 'Edibles']"
+834,4511,"['Flower', 'Pre-Rolls', 'Flower']"
+54,4512,"['Live Resin', 'Flower', 'Edibles', 'Topicals']"
+113,4513,"['Jar', 'Pre-Rolls', 'Topicals']"
+563,4514,"['Flower', 'Flower', 'Flower']"
+393,4515,['Topicals']
+253,4516,['Flower']
+502,4517,"['Jar', 'Topicals', 'Pre-Rolls']"
+770,4518,"['Live Resin', 'Jar', 'Tinctures']"
+132,4519,"['Live Resin', 'Pre-Rolls', 'Vape']"
+389,4520,"['Jar', 'Flower', 'Topicals']"
+224,4521,"['Topicals', 'Jar']"
+69,4522,"['Vape', 'Pre-Rolls', 'Live Resin', 'Jar']"
+582,4523,['Edibles']
+599,4524,"['Flower', 'Live Resin']"
+802,4525,"['Edibles', 'Edibles', 'Edibles']"
+769,4526,"['Edibles', 'Jar']"
+366,4527,"['Vape', 'Pre-Rolls', 'Flower']"
+753,4528,['Pre-Rolls']
+927,4529,"['Flower', 'Topicals', 'Tinctures']"
+659,4530,['Pre-Rolls']
+391,4531,['Live Resin']
+916,4532,['Live Resin']
+628,4533,"['Edibles', 'Jar', 'Topicals']"
+649,4534,"['Live Resin', 'Jar', 'Tinctures', 'Edibles']"
+343,4535,['Tinctures']
+365,4536,"['Tinctures', 'Edibles']"
+597,4537,"['Jar', 'Live Resin', 'Flower', 'Vape']"
+777,4538,"['Topicals', 'Jar', 'Edibles']"
+162,4539,"['Topicals', 'Topicals', 'Topicals', 'Jar']"
+655,4540,"['Topicals', 'Pre-Rolls', 'Vape', 'Topicals']"
+188,4541,"['Edibles', 'Tinctures', 'Vape']"
+498,4542,['Edibles']
+702,4543,"['Live Resin', 'Vape']"
+450,4544,"['Topicals', 'Live Resin', 'Vape']"
+385,4545,"['Pre-Rolls', 'Edibles', 'Topicals', 'Topicals']"
+872,4546,"['Flower', 'Flower', 'Topicals']"
+902,4547,"['Pre-Rolls', 'Topicals', 'Jar', 'Tinctures']"
+270,4548,"['Topicals', 'Live Resin']"
+832,4549,['Live Resin']
+95,4550,"['Live Resin', 'Jar']"
+306,4551,"['Jar', 'Topicals', 'Live Resin', 'Tinctures']"
+623,4552,"['Flower', 'Pre-Rolls', 'Tinctures', 'Topicals']"
+47,4553,"['Pre-Rolls', 'Edibles']"
+27,4554,['Live Resin']
+222,4555,['Jar']
+950,4556,"['Live Resin', 'Topicals']"
+879,4557,"['Jar', 'Live Resin', 'Jar', 'Jar']"
+992,4558,"['Flower', 'Edibles', 'Edibles', 'Tinctures']"
+812,4559,"['Vape', 'Jar', 'Topicals']"
+942,4560,"['Pre-Rolls', 'Tinctures']"
+834,4561,['Live Resin']
+561,4562,"['Live Resin', 'Flower', 'Pre-Rolls', 'Jar']"
+332,4563,"['Pre-Rolls', 'Edibles', 'Flower', 'Pre-Rolls']"
+3,4564,"['Tinctures', 'Jar', 'Live Resin', 'Flower']"
+997,4565,"['Topicals', 'Live Resin', 'Live Resin']"
+184,4566,"['Edibles', 'Topicals', 'Flower', 'Pre-Rolls']"
+761,4567,"['Live Resin', 'Flower', 'Vape', 'Pre-Rolls']"
+821,4568,['Edibles']
+343,4569,"['Pre-Rolls', 'Topicals', 'Topicals']"
+352,4570,"['Flower', 'Pre-Rolls', 'Live Resin']"
+66,4571,"['Vape', 'Pre-Rolls', 'Jar']"
+747,4572,"['Live Resin', 'Topicals']"
+740,4573,"['Topicals', 'Pre-Rolls', 'Pre-Rolls']"
+214,4574,"['Live Resin', 'Jar', 'Jar']"
+852,4575,"['Tinctures', 'Pre-Rolls']"
+960,4576,"['Vape', 'Flower', 'Pre-Rolls']"
+801,4577,['Pre-Rolls']
+992,4578,"['Flower', 'Live Resin']"
+278,4579,"['Live Resin', 'Live Resin']"
+799,4580,"['Vape', 'Live Resin']"
+296,4581,"['Pre-Rolls', 'Live Resin', 'Flower', 'Topicals']"
+948,4582,"['Jar', 'Jar']"
+700,4583,['Tinctures']
+262,4584,"['Jar', 'Flower', 'Vape', 'Live Resin']"
+897,4585,"['Topicals', 'Topicals', 'Vape', 'Topicals']"
+563,4586,"['Pre-Rolls', 'Flower']"
+409,4587,['Live Resin']
+493,4588,"['Edibles', 'Jar', 'Pre-Rolls', 'Tinctures']"
+145,4589,"['Live Resin', 'Live Resin', 'Topicals', 'Vape']"
+185,4590,"['Live Resin', 'Edibles', 'Jar']"
+547,4591,"['Edibles', 'Edibles', 'Jar']"
+933,4592,"['Jar', 'Pre-Rolls']"
+549,4593,['Live Resin']
+235,4594,"['Pre-Rolls', 'Vape']"
+587,4595,"['Flower', 'Edibles', 'Jar']"
+1,4596,['Pre-Rolls']
+308,4597,"['Live Resin', 'Flower', 'Live Resin', 'Vape']"
+481,4598,"['Flower', 'Live Resin']"
+774,4599,['Flower']
+247,4600,['Tinctures']
+980,4601,"['Topicals', 'Flower']"
+240,4602,"['Tinctures', 'Live Resin']"
+68,4603,"['Tinctures', 'Vape', 'Jar']"
+259,4604,"['Topicals', 'Topicals']"
+948,4605,['Flower']
+370,4606,['Jar']
+283,4607,"['Edibles', 'Edibles', 'Vape']"
+388,4608,"['Jar', 'Topicals', 'Flower']"
+749,4609,"['Edibles', 'Edibles']"
+757,4610,"['Live Resin', 'Edibles']"
+713,4611,"['Jar', 'Pre-Rolls', 'Pre-Rolls']"
+86,4612,['Edibles']
+383,4613,"['Flower', 'Tinctures']"
+704,4614,"['Flower', 'Pre-Rolls']"
+494,4615,"['Jar', 'Jar', 'Topicals', 'Vape']"
+300,4616,"['Topicals', 'Tinctures']"
+595,4617,"['Live Resin', 'Pre-Rolls']"
+850,4618,"['Vape', 'Topicals', 'Jar']"
+203,4619,"['Live Resin', 'Live Resin']"
+153,4620,"['Topicals', 'Pre-Rolls']"
+367,4621,['Tinctures']
+96,4622,['Vape']
+118,4623,"['Live Resin', 'Vape', 'Edibles', 'Live Resin']"
+267,4624,"['Edibles', 'Jar']"
+714,4625,"['Pre-Rolls', 'Flower']"
+801,4626,"['Pre-Rolls', 'Tinctures', 'Vape']"
+603,4627,"['Live Resin', 'Vape', 'Topicals', 'Topicals']"
+469,4628,"['Live Resin', 'Vape']"
+539,4629,"['Live Resin', 'Live Resin', 'Tinctures', 'Topicals']"
+530,4630,['Vape']
+478,4631,"['Live Resin', 'Vape', 'Live Resin', 'Live Resin']"
+604,4632,"['Live Resin', 'Jar', 'Edibles']"
+844,4633,['Topicals']
+325,4634,['Live Resin']
+219,4635,"['Vape', 'Jar', 'Jar', 'Pre-Rolls']"
+66,4636,"['Topicals', 'Edibles']"
+138,4637,"['Live Resin', 'Tinctures', 'Edibles']"
+896,4638,['Vape']
+705,4639,['Topicals']
+9,4640,['Topicals']
+297,4641,['Flower']
+15,4642,"['Edibles', 'Edibles', 'Vape', 'Topicals']"
+598,4643,"['Tinctures', 'Live Resin']"
+330,4644,['Vape']
+293,4645,"['Pre-Rolls', 'Live Resin', 'Edibles', 'Topicals']"
+250,4646,"['Tinctures', 'Pre-Rolls', 'Pre-Rolls', 'Flower']"
+452,4647,['Tinctures']
+508,4648,"['Tinctures', 'Edibles', 'Edibles']"
+667,4649,['Edibles']
+446,4650,"['Topicals', 'Pre-Rolls', 'Jar']"
+436,4651,"['Tinctures', 'Edibles', 'Tinctures', 'Live Resin']"
+98,4652,['Flower']
+527,4653,['Live Resin']
+199,4654,"['Tinctures', 'Edibles', 'Live Resin']"
+54,4655,"['Jar', 'Flower', 'Live Resin']"
+716,4656,"['Flower', 'Vape']"
+542,4657,['Live Resin']
+824,4658,"['Live Resin', 'Tinctures']"
+383,4659,"['Live Resin', 'Flower']"
+515,4660,['Flower']
+53,4661,['Topicals']
+62,4662,"['Jar', 'Vape']"
+103,4663,['Vape']
+741,4664,"['Topicals', 'Flower']"
+714,4665,['Jar']
+549,4666,['Tinctures']
+492,4667,"['Pre-Rolls', 'Topicals', 'Jar', 'Jar']"
+989,4668,['Vape']
+250,4669,"['Edibles', 'Topicals', 'Tinctures']"
+88,4670,"['Flower', 'Topicals', 'Live Resin']"
+320,4671,['Edibles']
+212,4672,['Flower']
+597,4673,"['Pre-Rolls', 'Flower', 'Edibles']"
+87,4674,"['Tinctures', 'Edibles', 'Edibles']"
+333,4675,"['Jar', 'Flower', 'Vape']"
+95,4676,"['Jar', 'Tinctures', 'Topicals', 'Live Resin']"
+961,4677,"['Jar', 'Jar', 'Flower', 'Pre-Rolls']"
+67,4678,"['Pre-Rolls', 'Jar', 'Vape']"
+257,4679,"['Live Resin', 'Pre-Rolls', 'Flower']"
+235,4680,"['Vape', 'Vape', 'Topicals']"
+444,4681,"['Topicals', 'Flower', 'Jar', 'Topicals']"
+493,4682,"['Edibles', 'Live Resin', 'Pre-Rolls', 'Topicals']"
+548,4683,['Vape']
+423,4684,"['Live Resin', 'Edibles', 'Edibles', 'Topicals']"
+175,4685,['Jar']
+647,4686,['Pre-Rolls']
+107,4687,['Edibles']
+968,4688,"['Pre-Rolls', 'Pre-Rolls', 'Live Resin', 'Flower']"
+820,4689,"['Jar', 'Live Resin']"
+16,4690,"['Pre-Rolls', 'Flower', 'Topicals', 'Topicals']"
+498,4691,"['Edibles', 'Topicals', 'Topicals']"
+818,4692,"['Topicals', 'Vape']"
+562,4693,"['Live Resin', 'Flower', 'Flower', 'Pre-Rolls']"
+80,4694,['Edibles']
+562,4695,"['Edibles', 'Tinctures', 'Live Resin']"
+468,4696,"['Vape', 'Jar', 'Topicals', 'Live Resin']"
+100,4697,['Topicals']
+47,4698,"['Topicals', 'Edibles']"
+630,4699,"['Edibles', 'Topicals', 'Vape', 'Flower']"
+688,4700,"['Jar', 'Edibles', 'Live Resin', 'Flower']"
+416,4701,['Jar']
+647,4702,['Topicals']
+538,4703,"['Jar', 'Pre-Rolls']"
+328,4704,"['Vape', 'Tinctures', 'Live Resin', 'Jar']"
+434,4705,"['Edibles', 'Flower', 'Pre-Rolls', 'Topicals']"
+309,4706,['Live Resin']
+132,4707,['Pre-Rolls']
+339,4708,['Flower']
+780,4709,"['Jar', 'Flower', 'Edibles', 'Live Resin']"
+466,4710,"['Edibles', 'Flower', 'Flower']"
+860,4711,"['Live Resin', 'Topicals', 'Vape', 'Topicals']"
+55,4712,"['Pre-Rolls', 'Live Resin', 'Jar']"
+417,4713,['Jar']
+658,4714,"['Live Resin', 'Flower', 'Jar', 'Jar']"
+562,4715,"['Vape', 'Edibles', 'Vape', 'Vape']"
+668,4716,"['Topicals', 'Edibles']"
+858,4717,"['Tinctures', 'Flower', 'Vape']"
+3,4718,['Pre-Rolls']
+147,4719,"['Live Resin', 'Vape']"
+885,4720,"['Live Resin', 'Tinctures', 'Tinctures']"
+439,4721,"['Live Resin', 'Topicals', 'Flower', 'Edibles']"
+842,4722,"['Flower', 'Pre-Rolls']"
+593,4723,"['Topicals', 'Live Resin', 'Jar']"
+673,4724,['Edibles']
+203,4725,"['Vape', 'Pre-Rolls']"
+251,4726,"['Vape', 'Flower', 'Tinctures', 'Jar']"
+947,4727,['Flower']
+829,4728,['Vape']
+739,4729,"['Live Resin', 'Flower', 'Edibles']"
+74,4730,"['Vape', 'Flower', 'Jar', 'Tinctures']"
+382,4731,"['Flower', 'Tinctures', 'Pre-Rolls', 'Pre-Rolls']"
+965,4732,"['Edibles', 'Pre-Rolls', 'Edibles']"
+270,4733,"['Live Resin', 'Jar', 'Edibles', 'Jar']"
+184,4734,"['Vape', 'Jar', 'Pre-Rolls', 'Jar']"
+724,4735,"['Jar', 'Flower']"
+761,4736,"['Pre-Rolls', 'Tinctures']"
+201,4737,"['Live Resin', 'Tinctures', 'Vape', 'Flower']"
+13,4738,"['Vape', 'Pre-Rolls']"
+414,4739,"['Pre-Rolls', 'Flower', 'Flower']"
+35,4740,"['Topicals', 'Flower', 'Live Resin', 'Live Resin']"
+55,4741,"['Live Resin', 'Edibles']"
+190,4742,"['Topicals', 'Edibles']"
+200,4743,['Flower']
+56,4744,['Jar']
+190,4745,"['Pre-Rolls', 'Topicals', 'Topicals', 'Tinctures']"
+982,4746,"['Flower', 'Flower']"
+515,4747,"['Jar', 'Flower', 'Tinctures']"
+443,4748,"['Jar', 'Flower', 'Live Resin']"
+896,4749,['Jar']
+344,4750,"['Tinctures', 'Live Resin', 'Pre-Rolls']"
+663,4751,['Topicals']
+708,4752,"['Live Resin', 'Flower', 'Pre-Rolls']"
+965,4753,"['Flower', 'Topicals']"
+344,4754,"['Flower', 'Vape', 'Live Resin', 'Flower']"
+932,4755,"['Live Resin', 'Jar']"
+713,4756,"['Pre-Rolls', 'Edibles', 'Tinctures']"
+20,4757,['Flower']
+692,4758,"['Flower', 'Edibles', 'Pre-Rolls']"
+335,4759,"['Pre-Rolls', 'Topicals', 'Live Resin', 'Tinctures']"
+938,4760,['Topicals']
+851,4761,"['Live Resin', 'Topicals']"
+142,4762,['Jar']
+173,4763,"['Vape', 'Pre-Rolls']"
+296,4764,['Live Resin']
+759,4765,"['Pre-Rolls', 'Pre-Rolls']"
+98,4766,"['Vape', 'Flower']"
+99,4767,"['Vape', 'Pre-Rolls', 'Edibles']"
+297,4768,"['Pre-Rolls', 'Flower', 'Edibles']"
+808,4769,"['Pre-Rolls', 'Vape']"
+158,4770,"['Live Resin', 'Edibles', 'Edibles']"
+28,4771,"['Live Resin', 'Pre-Rolls', 'Flower', 'Pre-Rolls']"
+414,4772,['Tinctures']
+419,4773,['Topicals']
+492,4774,['Flower']
+38,4775,"['Edibles', 'Topicals', 'Edibles']"
+106,4776,"['Flower', 'Flower']"
+323,4777,"['Topicals', 'Flower', 'Topicals', 'Pre-Rolls']"
+78,4778,['Pre-Rolls']
+263,4779,"['Tinctures', 'Tinctures', 'Vape', 'Live Resin']"
+328,4780,"['Vape', 'Jar', 'Topicals', 'Live Resin']"
+757,4781,"['Live Resin', 'Tinctures']"
+603,4782,['Vape']
+580,4783,"['Vape', 'Tinctures', 'Flower']"
+146,4784,"['Flower', 'Pre-Rolls', 'Jar', 'Tinctures']"
+20,4785,"['Flower', 'Live Resin', 'Edibles', 'Vape']"
+98,4786,"['Edibles', 'Tinctures', 'Live Resin']"
+881,4787,"['Topicals', 'Edibles']"
+412,4788,"['Pre-Rolls', 'Edibles']"
+435,4789,"['Jar', 'Jar']"
+915,4790,"['Tinctures', 'Jar', 'Topicals']"
+256,4791,"['Jar', 'Pre-Rolls']"
+211,4792,"['Edibles', 'Topicals']"
+870,4793,"['Topicals', 'Pre-Rolls', 'Jar']"
+758,4794,['Pre-Rolls']
+532,4795,['Pre-Rolls']
+145,4796,['Topicals']
+132,4797,"['Tinctures', 'Edibles', 'Live Resin', 'Live Resin']"
+139,4798,"['Tinctures', 'Tinctures', 'Flower', 'Vape']"
+874,4799,"['Flower', 'Topicals']"
+140,4800,"['Tinctures', 'Tinctures']"
+285,4801,"['Tinctures', 'Edibles']"
+39,4802,"['Flower', 'Vape', 'Pre-Rolls', 'Flower']"
+33,4803,"['Live Resin', 'Flower']"
+328,4804,"['Flower', 'Flower', 'Topicals']"
+238,4805,"['Jar', 'Jar']"
+890,4806,"['Topicals', 'Live Resin', 'Flower', 'Live Resin']"
+602,4807,"['Jar', 'Flower']"
+134,4808,"['Live Resin', 'Pre-Rolls']"
+189,4809,"['Jar', 'Jar', 'Tinctures', 'Jar']"
+681,4810,['Pre-Rolls']
+181,4811,"['Live Resin', 'Tinctures']"
+49,4812,['Vape']
+382,4813,"['Tinctures', 'Flower']"
+387,4814,"['Flower', 'Edibles', 'Vape', 'Topicals']"
+144,4815,"['Live Resin', 'Flower', 'Live Resin', 'Pre-Rolls']"
+671,4816,['Jar']
+29,4817,"['Edibles', 'Flower']"
+98,4818,"['Tinctures', 'Jar', 'Live Resin', 'Vape']"
+984,4819,['Jar']
+680,4820,"['Flower', 'Flower', 'Jar', 'Jar']"
+757,4821,['Vape']
+629,4822,"['Flower', 'Topicals', 'Vape', 'Pre-Rolls']"
+776,4823,"['Topicals', 'Jar']"
+48,4824,"['Flower', 'Jar', 'Edibles']"
+871,4825,"['Vape', 'Vape', 'Topicals', 'Edibles']"
+78,4826,"['Live Resin', 'Flower', 'Tinctures', 'Edibles']"
+117,4827,['Flower']
+777,4828,"['Topicals', 'Flower']"
+213,4829,"['Topicals', 'Topicals', 'Live Resin']"
+263,4830,['Topicals']
+548,4831,"['Tinctures', 'Topicals']"
+315,4832,"['Pre-Rolls', 'Jar', 'Live Resin', 'Vape']"
+215,4833,"['Flower', 'Vape', 'Edibles', 'Tinctures']"
+229,4834,['Flower']
+590,4835,"['Jar', 'Jar', 'Topicals', 'Flower']"
+104,4836,"['Live Resin', 'Topicals', 'Tinctures']"
+198,4837,['Live Resin']
+234,4838,['Tinctures']
+658,4839,"['Vape', 'Pre-Rolls', 'Tinctures', 'Live Resin']"
+179,4840,['Vape']
+373,4841,"['Live Resin', 'Flower', 'Topicals', 'Edibles']"
+186,4842,"['Pre-Rolls', 'Live Resin', 'Edibles']"
+530,4843,"['Live Resin', 'Tinctures']"
+388,4844,['Topicals']
+979,4845,"['Edibles', 'Live Resin']"
+997,4846,"['Jar', 'Vape', 'Topicals']"
+120,4847,"['Topicals', 'Topicals', 'Tinctures', 'Tinctures']"
+816,4848,['Live Resin']
+220,4849,"['Live Resin', 'Tinctures']"
+163,4850,['Pre-Rolls']
+250,4851,"['Jar', 'Jar', 'Vape', 'Flower']"
+751,4852,"['Flower', 'Live Resin', 'Topicals']"
+613,4853,"['Topicals', 'Flower', 'Edibles', 'Pre-Rolls']"
+261,4854,"['Live Resin', 'Topicals', 'Jar', 'Jar']"
+344,4855,"['Edibles', 'Live Resin']"
+853,4856,"['Jar', 'Pre-Rolls', 'Vape']"
+881,4857,"['Pre-Rolls', 'Topicals', 'Vape']"
+422,4858,"['Pre-Rolls', 'Jar', 'Jar']"
+696,4859,"['Vape', 'Vape', 'Flower', 'Live Resin']"
+291,4860,"['Vape', 'Jar']"
+342,4861,"['Topicals', 'Flower', 'Jar', 'Flower']"
+130,4862,['Pre-Rolls']
+222,4863,"['Edibles', 'Tinctures', 'Vape']"
+312,4864,"['Tinctures', 'Jar', 'Tinctures', 'Tinctures']"
+191,4865,"['Tinctures', 'Jar']"
+513,4866,"['Vape', 'Pre-Rolls']"
+410,4867,"['Jar', 'Jar', 'Vape']"
+306,4868,"['Jar', 'Edibles', 'Flower', 'Tinctures']"
+792,4869,"['Jar', 'Pre-Rolls', 'Live Resin']"
+824,4870,"['Flower', 'Topicals', 'Tinctures']"
+306,4871,"['Edibles', 'Topicals', 'Vape', 'Jar']"
+625,4872,"['Live Resin', 'Tinctures']"
+454,4873,"['Flower', 'Jar', 'Flower']"
+439,4874,['Edibles']
+813,4875,"['Jar', 'Jar']"
+6,4876,"['Jar', 'Flower', 'Jar']"
+178,4877,['Topicals']
+271,4878,['Edibles']
+598,4879,['Flower']
+525,4880,['Jar']
+441,4881,"['Pre-Rolls', 'Pre-Rolls', 'Topicals', 'Pre-Rolls']"
+440,4882,"['Tinctures', 'Flower', 'Flower']"
+198,4883,['Live Resin']
+275,4884,"['Jar', 'Vape', 'Live Resin']"
+179,4885,"['Vape', 'Flower', 'Pre-Rolls']"
+764,4886,"['Vape', 'Pre-Rolls']"
+56,4887,"['Tinctures', 'Flower', 'Live Resin', 'Tinctures']"
+748,4888,"['Edibles', 'Jar']"
+830,4889,"['Pre-Rolls', 'Jar', 'Edibles', 'Flower']"
+598,4890,"['Flower', 'Jar', 'Edibles', 'Edibles']"
+974,4891,"['Edibles', 'Tinctures', 'Topicals', 'Flower']"
+366,4892,"['Pre-Rolls', 'Flower']"
+254,4893,['Jar']
+448,4894,"['Vape', 'Vape', 'Live Resin']"
+769,4895,"['Topicals', 'Tinctures', 'Topicals', 'Topicals']"
+465,4896,"['Pre-Rolls', 'Vape', 'Jar', 'Pre-Rolls']"
+652,4897,['Pre-Rolls']
+687,4898,"['Topicals', 'Live Resin']"
+485,4899,"['Topicals', 'Edibles', 'Edibles', 'Jar']"
+641,4900,['Vape']
+927,4901,"['Pre-Rolls', 'Tinctures', 'Live Resin']"
+888,4902,"['Pre-Rolls', 'Live Resin', 'Pre-Rolls']"
+841,4903,"['Flower', 'Topicals']"
+249,4904,['Pre-Rolls']
+284,4905,"['Vape', 'Vape', 'Tinctures']"
+678,4906,['Edibles']
+587,4907,"['Topicals', 'Tinctures', 'Flower', 'Tinctures']"
+564,4908,"['Live Resin', 'Live Resin']"
+653,4909,"['Topicals', 'Topicals', 'Tinctures']"
+641,4910,"['Vape', 'Topicals']"
+370,4911,"['Live Resin', 'Jar', 'Live Resin']"
+182,4912,"['Flower', 'Topicals', 'Live Resin']"
+637,4913,"['Vape', 'Topicals', 'Jar', 'Topicals']"
+484,4914,"['Vape', 'Tinctures', 'Topicals', 'Edibles']"
+851,4915,['Jar']
+238,4916,"['Edibles', 'Flower', 'Flower', 'Live Resin']"
+365,4917,"['Topicals', 'Vape', 'Vape']"
+415,4918,"['Edibles', 'Jar']"
+855,4919,"['Vape', 'Edibles', 'Vape']"
+793,4920,"['Jar', 'Pre-Rolls']"
+95,4921,"['Live Resin', 'Flower', 'Vape']"
+343,4922,"['Edibles', 'Flower', 'Pre-Rolls']"
+705,4923,"['Live Resin', 'Edibles', 'Pre-Rolls']"
+182,4924,"['Tinctures', 'Topicals', 'Pre-Rolls']"
+393,4925,"['Pre-Rolls', 'Edibles', 'Vape', 'Tinctures']"
+983,4926,"['Tinctures', 'Topicals', 'Topicals']"
+414,4927,['Live Resin']
+380,4928,['Flower']
+834,4929,"['Tinctures', 'Edibles', 'Tinctures', 'Pre-Rolls']"
+341,4930,"['Tinctures', 'Pre-Rolls', 'Live Resin']"
+577,4931,"['Pre-Rolls', 'Flower', 'Live Resin']"
+868,4932,"['Edibles', 'Vape']"
+68,4933,"['Edibles', 'Edibles']"
+274,4934,['Vape']
+500,4935,"['Topicals', 'Vape', 'Edibles', 'Edibles']"
+783,4936,"['Topicals', 'Topicals', 'Live Resin']"
+919,4937,"['Live Resin', 'Live Resin']"
+400,4938,['Live Resin']
+984,4939,['Pre-Rolls']
+162,4940,['Live Resin']
+379,4941,['Pre-Rolls']
+807,4942,['Jar']
+253,4943,"['Jar', 'Tinctures']"
+894,4944,"['Live Resin', 'Jar']"
+655,4945,"['Topicals', 'Tinctures']"
+524,4946,"['Jar', 'Pre-Rolls']"
+63,4947,"['Vape', 'Flower', 'Live Resin', 'Flower']"
+635,4948,"['Live Resin', 'Flower', 'Live Resin']"
+939,4949,"['Live Resin', 'Live Resin']"
+427,4950,"['Pre-Rolls', 'Vape', 'Tinctures', 'Jar']"
+427,4951,"['Jar', 'Edibles']"
+308,4952,"['Pre-Rolls', 'Topicals', 'Topicals']"
+108,4953,['Tinctures']
+273,4954,"['Live Resin', 'Vape', 'Vape']"
+485,4955,"['Vape', 'Flower', 'Edibles', 'Jar']"
+802,4956,"['Edibles', 'Pre-Rolls', 'Pre-Rolls']"
+379,4957,"['Live Resin', 'Topicals']"
+225,4958,"['Live Resin', 'Edibles', 'Pre-Rolls', 'Pre-Rolls']"
+256,4959,"['Tinctures', 'Tinctures']"
+415,4960,['Live Resin']
+870,4961,"['Edibles', 'Tinctures']"
+596,4962,"['Live Resin', 'Pre-Rolls', 'Jar']"
+715,4963,['Jar']
+380,4964,['Live Resin']
+164,4965,"['Pre-Rolls', 'Flower', 'Vape', 'Edibles']"
+296,4966,['Flower']
+900,4967,['Vape']
+453,4968,"['Jar', 'Topicals', 'Pre-Rolls', 'Live Resin']"
+797,4969,['Flower']
+972,4970,"['Edibles', 'Vape', 'Pre-Rolls']"
+278,4971,"['Flower', 'Jar']"
+946,4972,"['Edibles', 'Flower']"
+784,4973,"['Tinctures', 'Live Resin', 'Jar']"
+404,4974,"['Vape', 'Live Resin']"
+445,4975,"['Live Resin', 'Topicals']"
+737,4976,"['Vape', 'Vape', 'Jar', 'Live Resin']"
+326,4977,"['Tinctures', 'Edibles', 'Edibles']"
+683,4978,"['Vape', 'Topicals', 'Tinctures']"
+239,4979,"['Vape', 'Flower', 'Live Resin', 'Pre-Rolls']"
+347,4980,"['Tinctures', 'Edibles', 'Topicals', 'Topicals']"
+214,4981,"['Topicals', 'Edibles', 'Jar']"
+575,4982,"['Pre-Rolls', 'Jar', 'Vape']"
+595,4983,"['Tinctures', 'Topicals', 'Flower']"
+716,4984,"['Live Resin', 'Live Resin']"
+706,4985,['Pre-Rolls']
+717,4986,"['Tinctures', 'Jar', 'Pre-Rolls', 'Flower']"
+949,4987,"['Flower', 'Pre-Rolls', 'Edibles', 'Vape']"
+418,4988,"['Edibles', 'Edibles', 'Flower']"
+131,4989,"['Edibles', 'Jar']"
+781,4990,"['Vape', 'Flower', 'Live Resin', 'Pre-Rolls']"
+650,4991,['Topicals']
+902,4992,"['Pre-Rolls', 'Jar', 'Jar']"
+785,4993,['Jar']
+591,4994,"['Live Resin', 'Jar', 'Flower', 'Edibles']"
+565,4995,"['Flower', 'Topicals', 'Tinctures']"
+910,4996,"['Flower', 'Edibles', 'Flower']"
+348,4997,"['Jar', 'Pre-Rolls']"
+766,4998,"['Live Resin', 'Jar', 'Topicals']"
+256,4999,"['Pre-Rolls', 'Jar', 'Jar', 'Pre-Rolls']"
+158,5000,"['Tinctures', 'Vape', 'Live Resin', 'Live Resin']"
