@@ -5,3 +5,5 @@ _____________________________________________________
 Data Analysis: Performing various analytical tasks such as price elasticity, A/B testing, and basket composition analysis to understand customer behavior and market trends.
 ___________________________________________
 Business Insights: Synthesizing the analysis results to provide strategic recommendations that can guide business decisions.
+
+![image](https://github.com/user-attachments/assets/88f7eabb-321e-4d37-a2a3-af8c611eb1d9)
